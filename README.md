@@ -19,3 +19,8 @@ PHASE 2 -
 7. Jumpers for manual connection
 8. Debugging
 9. 4x4 array of comb electrodes
+
+BLOCK DIAGRAM:
+![alt text](https://drive.google.com/open?id=1z-fzUZhLvXdkpFQE3Sp4oRrGde4Nv_Kd)
+![alt text](https://drive.google.com/open?id=1bOyk0otXSIKVNsRC94fnYahvBrxwIIvB)
+![alt text](https://drive.google.com/open?id=1CXog0wYU6k9AAJ6t36kDR6uLmiKLjZ2w)
