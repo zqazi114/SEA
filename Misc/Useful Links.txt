@@ -1,0 +1,7 @@
+http://www.flowcad.ch/cms/upload/ApplicationNotes/FlowCAD_AN_PCB_Manufacturing.pdf
+https://www.autodesk.com/products/eagle/blog/gerber-nc-drill-pcb-manufacturing-basics-1/
+http://www.proto2prod.com/proto2prod/2015/3/18/your-first-prototype-fab-specs-and-gerber-files-13
+https://resources.altium.com/pcb-design-blog/how-to-plan-your-pcb-layout-for-a-high-voltage-design
+https://resources.altium.com/pcb-design-blog/high-voltage-pcb-design-creepage-and-clearance-distance
+http://www.ni.com/tutorial/8584/en/
+http://www.4pcb.com/pcb-student-discount.html
