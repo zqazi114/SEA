@@ -21,6 +21,6 @@ PHASE 2 -
 9. 4x4 array of comb electrodes
 
 BLOCK DIAGRAM:
-![alt text](https://drive.google.com/open?id=1z-fzUZhLvXdkpFQE3Sp4oRrGde4Nv_Kd)
-![alt text](https://drive.google.com/open?id=1bOyk0otXSIKVNsRC94fnYahvBrxwIIvB)
-![alt text](https://drive.google.com/open?id=1CXog0wYU6k9AAJ6t36kDR6uLmiKLjZ2w)
+![alt text](https://github.com/zqazi114/SEA/blob/master/Images/BD%201.PNG)
+![alt text](https://github.com/zqazi114/SEA/blob/master/Images/BD%202.PNG)
+![alt text](https://github.com/zqazi114/SEA/blob/master/Images/BD%203.PNG)
