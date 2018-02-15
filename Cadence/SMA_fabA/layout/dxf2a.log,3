@@ -1,0 +1,17 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+done.
+NOTE: Ignoring unsupported element MTEXT on line 2426.
+NOTE: Ignoring unsupported element MTEXT on line 2464.
+Layer conversion file: C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout/ecad_mcad.cnv
+DXF file: C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout/dxf/comb_10_mil_a.DXF
+BRD file: C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout/#Taaaabl07588.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: INCHES
+Design units: MILS
+Design precision: 4
+dxf2a complete.

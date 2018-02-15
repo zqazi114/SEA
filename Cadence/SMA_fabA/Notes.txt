@@ -1,0 +1,22 @@
+FAB HOUSE:
+http://www.4pcb.com/pcb-prototype-2-4-layer-boards-specials.html
+Instructions - 
+1. 2 Layer board 60" sq (8" x 8")
+2. Minimum of 3
+3. FR-4 0.062"
+4. 1 oz Cu
+5. Green Mask
+6. Custom Shape
+7. Min 5 mil line/space
+8. Min 10 mil hole size
+9. No cut-outs
+ 
+1. 4 Layer board 30" sq (6" x 6")
+2. Minimum of 4
+3. FR-4 0.062"
+4. 1 oz Cu
+5. Green Mask
+6. Custom Shape
+7. Min 5 mil line/space
+8. Min 10 mil hole size
+9. No cut-outs

@@ -1,0 +1,14 @@
+\t (00:00:00) allegro_free_viewer 17.2 S015 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Feb 12 08:47:03 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=5040 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\Zain's Surface\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe C:\Users\Zain's Surface\Desktop\Cadence\SMA_fabA\layout\SMA_fabA - Copy.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout/SMA_fabA - Copy.brd
+\i (00:00:00) trapsize 40343
+\i (00:00:00) trapsize 38803
+\i (00:00:00) trapsize 39920
+\i (00:00:00) trapsize 30328
+\i (00:00:00) trapsize 39920
+\i (00:00:03) exit 
+\t (00:00:04)     Journal end - Mon Feb 12 08:47:07 2018

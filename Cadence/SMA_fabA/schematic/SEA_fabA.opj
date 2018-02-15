@@ -1,0 +1,107 @@
+(ExpressProject "SEA_fabA"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\passive.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\sea_faba.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\SEA_FABA.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (edge_connector
+      (FullPartName "edge_connector.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DESKTOP\CADENCE\SMA_FABA\SCHEMATIC\PASSIVE.OLB")
+      (DeviceIndex "0"))
+    (comb_electrode
+      (FullPartName "comb_electrode.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DESKTOP\CADENCE\SMA_FABA\SCHEMATIC\PASSIVE.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (spiral_electrode
+      (FullPartName "spiral_electrode.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DESKTOP\CADENCE\SMA_FABA\SCHEMATIC\PASSIVE.OLB")
+      (DeviceIndex "0"))
+    (119LNS
+      (FullPartName "119LNS.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sea_faba.dsn")
+      (Path "Design Resources" ".\sea_faba.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\passive.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\sea_faba.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 746"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 966 52 439")
+        (Scroll "0 69")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ZAIN'S SURFACE\DESKTOP\CADENCE\SMA_FABA\SCHEMATIC\SEA_FABA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "0. TITLE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 130 996 130 563")
+        (Scroll "-6 -31")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ZAIN'S SURFACE\DESKTOP\CADENCE\SMA_FABA\SCHEMATIC\SEA_FABA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "I/O")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
+  (MPSSessionName "Zain's Surface")
+  (ISPCBBASICLICENSE "false"))

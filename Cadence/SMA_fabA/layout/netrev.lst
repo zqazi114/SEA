@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : SMA_fabA - Copy.brd                           )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Mon Feb 12 08:29:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro'
+Design Directory:            'C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout'
+Old design name:             'C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout/SMA_fabA - Copy.brd'
+New design name:             'C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout/SMA_fabA - Copy.brd'
+
+CmdLine: netrev -$ -i C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/layout/#Taaaaab10048.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro/pstchip.dat 
+   Finished reading C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro/pstchip.dat (00:00:00.03)
+Starting to read C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro/pstxprt.dat 
+   Finished reading C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro/pstxnet.dat 
+   Finished reading C:/Users/Zain's Surface/Desktop/Cadence/SMA_fabA/schematic/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Feb 12 8:29:16 2018
+   DESIGN NAME : 'SEA_FABA'
+   PACKAGING ON Jul 30 2017 03:29:02
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:33
+elapsed time  0:00:00
+
