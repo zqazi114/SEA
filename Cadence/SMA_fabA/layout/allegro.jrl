@@ -1,0 +1,91 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Feb 15 21:53:12 2018
+\t (00:00:02)         Host=ET251PC05 User=zq2154 Pid=3596 CPUs=4
+\t (00:00:02) CmdLine= C:\Users\zq2154\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA - Copy.brd
+\i (00:00:04) trapsize 27903
+\i (00:00:04) trapsize 28539
+\i (00:00:04) trapsize 28539
+\i (00:00:04) generaledit 
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:00:08) prepopup -1228.309 1247.148
+\i (00:00:09) pick grid -1256.847 1446.920
+\t (00:00:09) last pick:  -1257.000 1447.000
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -1148.400 859.020
+\i (00:00:11) trapsize 14269
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -1148.399 859.021
+\i (00:00:11) trapsize 7135
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -1148.399 853.313
+\i (00:00:11) trapsize 3567
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -1143.404 847.605
+\i (00:00:11) trapsize 7135
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -922.228 954.626
+\i (00:00:12) trapsize 14269
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -922.229 954.626
+\i (00:00:12) trapsize 28539
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in -574.055 75.631
+\i (00:00:27) trapsize 14269
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in -574.055 75.631
+\i (00:00:27) trapsize 7135
+\i (00:00:30) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILKSCREEN"
+\i (00:00:30) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SILKSCREEN"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 83.765 149.832
+\i (00:00:35) trapsize 14269
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 400.545 107.024
+\i (00:00:36) trapsize 7135
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 397.691 95.608
+\i (00:00:36) trapsize 14269
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 514.701 41.385
+\i (00:00:37) trapsize 28539
+\i (00:00:38) roam start
+\i (00:00:38) roam x 192
+\i (00:00:38) roam y 32
+\i (00:00:38) roam x 112
+\i (00:00:38) roam x 64
+\i (00:00:38) roam x 64
+\i (00:00:38) roam x 48
+\i (00:00:38) roam end
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in -1781.963 336.759
+\i (00:00:39) trapsize 14269
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -1102.739 279.682
+\i (00:00:39) trapsize 28539
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -372.145 239.727
+\i (00:00:42) trapsize 14269
+\i (00:00:46) exit 
+\t (00:00:46)     Journal end - Thu Feb 15 21:53:56 2018
