@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : SMA_fabA - Copy.brd                           )
+(    Drawing          : test.brd                                      )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Thu Feb 15 21:07:43 2018                      )
+(    Date/Time        : Fri Feb 16 10:28:59 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,10 +19,10 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/schematic/allegro'
 Design Directory:            'C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout'
-Old design name:             'C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA - Copy.brd'
-New design name:             'C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA - Copy.brd'
+Old design name:             'C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/test.brd'
+New design name:             'C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/test.brd'
 
-CmdLine: netrev -$ -i C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/schematic/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/#Taaaabv06204.tmp
+CmdLine: netrev -$ -i C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/schematic/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/#Taaaabn02948.tmp
 
 ------ Preparing to read pst files ------
 
@@ -60,7 +60,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Feb 15 21:07:43 2018
+netrev run on Feb 16 10:28:59 2018
    DESIGN NAME : 'SEA_FABA'
    PACKAGING ON Jul 30 2017 03:29:02
 
@@ -85,6 +85,6 @@ netrev run on Feb 15 21:07:43 2018
  No oversight detected
  No warning detected
 
-cpu time      0:00:25
+cpu time      0:00:24
 elapsed time  0:00:00
 

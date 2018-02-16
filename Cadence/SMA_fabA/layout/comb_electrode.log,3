@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : edge_connector.dra                            )
+(    Drawing          : comb_electrode.dra                            )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Thu Feb 15 21:06:32 2018                      )
+(    Date/Time        : Fri Feb 16 10:08:19 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout
-    Name      = edge_connector.psm
+    Name      = comb_electrode.psm
     User      = zq2154
     Machine   = ET251PC05
 

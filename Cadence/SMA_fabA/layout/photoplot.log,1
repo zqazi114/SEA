@@ -2,9 +2,9 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : SMA_fabA.brd                                  )
+(    Drawing          : SMA_fabA - Copy.brd                           )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Fri Feb 16 10:55:38 2018                      )
+(    Date/Time        : Thu Feb 15 21:37:23 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -25,29 +25,25 @@ Results from parameter file ...
     SUPPRESS-EQUAL        YES
     UNDEF-APT-CONT        NO
 
- WARNING: Generating english output data from a metric database
- may cause slight roundoff error of coordinates in output file.
-
-
 
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_TOP_faba.art > ...
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.0000
+  Undefined line width                0.000
   Mirror code                         NONE
   Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
+  Offset x:                           0.000
+  Offset y:                           0.000
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: text composed 0 width line found at (-38.6080 8.3820)
+    WARNING: text composed 0 width line found at (-1508.000 833.000)
            ... ignored.
 
 
@@ -67,21 +63,21 @@ Results from parameter file ...
   PAD SHAPE  COMB_ELECTRODE_R          270.000 NO     DARK 
   PAD SHAPE  COMB_ELECTRODE_L          270.000 NO     DARK 
 
-     SMA_TOP_faba created with warnings
+     TOP created with warnings
 
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_BOTTOM_faba.art > ...
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.0000
+  Undefined line width                0.000
   Mirror code                         NONE
   Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
+  Offset x:                           0.000
+  Offset y:                           0.000
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
@@ -89,26 +85,26 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     SMA_BOTTOM_faba created with warnings
+     BOTTOM created.
 
 
 ================================================================
-     PROCESSING FILM < DFX >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_DFX_faba.art > ...
+     PROCESSING FILM < DXF >
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/DXF.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.0000
+  Undefined line width                0.000
   Mirror code                         NONE
   Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
+  Offset x:                           0.000
+  Offset y:                           0.000
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: 0 width line found at (-41.9100 11.9510)
+    WARNING: 0 width line found at (-1610.000 950.512)
            ... ignored.
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
@@ -117,39 +113,36 @@ Results from parameter file ...
 
 
   APERTURES USED:  NONE
-     SMA_DFX_faba created with warnings
+     DXF created with warnings
 
 
 ================================================================
      PROCESSING FILM < SILKSCREEN >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_SILKSCREEN_faba.art > ...
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SILKSCREEN.art > ...
 ================================================================
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.0000
+  Undefined line width                0.000
   Mirror code                         NONE
   Rotate angle                        NONE
-  Offset x:                           0.0000
-  Offset y:                           0.0000
+  Offset x:                           0.000
+  Offset y:                           0.000
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
-           ... ignored.
-
 
 
   APERTURES USED:  NONE
-     SMA_SILKSCREEN_faba created with warnings
+     SILKSCREEN created.
 
 
 ------------------------------------------------------
  SUMMARY:
-        SMA_TOP_faba created with warnings
-        SMA_BOTTOM_faba created with warnings
-        SMA_DFX_faba created with warnings
-        SMA_SILKSCREEN_faba created with warnings
+        TOP created with warnings
+        BOTTOM created.
+        DXF created with warnings
+        SILKSCREEN created.
 
  ARTWORK had warnings

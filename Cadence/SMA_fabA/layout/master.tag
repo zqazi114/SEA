@@ -1,1 +1,1 @@
-SMA_fabA - Copy.brd
+SMA_fabA.brd

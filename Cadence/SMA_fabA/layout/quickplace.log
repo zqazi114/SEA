@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : test.brd                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Fri Feb 16 10:03:11 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  J17 / EDGE_CONNECTOR_2_EDGE_CONNECTOR / EDGE_CONNECTOR at (-3117.000 3818.000)
+         Placed symbol:  J2 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (-1387.000 3777.000)
+         Placed symbol:  J3 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (-1193.000 3777.000)
+         Placed symbol:  J4 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (-999.000 3777.000)
+         Placed symbol:  J5 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (-805.000 3777.000)
+         Placed symbol:  J6 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (-611.000 3777.000)
+         Placed symbol:  J7 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (-417.000 3777.000)
+         Placed symbol:  J8 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (-223.000 3777.000)
+         Placed symbol:  J10 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (-29.000 3777.000)
+         Placed symbol:  J11 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (165.000 3777.000)
+         Placed symbol:  J12 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (359.000 3777.000)
+         Placed symbol:  J13 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (553.000 3777.000)
+         Placed symbol:  J14 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (747.000 3777.000)
+         Placed symbol:  J15 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (941.000 3777.000)
+         Placed symbol:  J16 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (1135.000 3777.000)
+         Placed symbol:  J9 / COMB_ELECTRODE_COMB_ELECTRODE_C / COMB_ELECTRODE at (1329.000 3777.000)
+         Placed symbol:  J1 / SPIRAL_ELECTRODE_0_COMB_ELECTRO / COMB_ELECTRODE at (1523.000 3777.000)
+
+
+Placed 17 of 17 applicable (17 total) symbols.
+
+-----------------------------------------------------------------------
+

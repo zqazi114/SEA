@@ -1,0 +1,17 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+done.
+NOTE: Ignoring unsupported element MTEXT on line 14448.
+NOTE: Ignoring unsupported element MTEXT on line 14486.
+Layer conversion file: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/dxf/dxf_to_brd.cnv
+DXF file: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/dxf/board_electrode_skeleton_4x4.DXF
+BRD file: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/#Taaaaan02948.tmp
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.
