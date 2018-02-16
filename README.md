@@ -25,3 +25,9 @@ BLOCK DIAGRAM:
 ![alt text](https://github.com/zqazi114/SEA/blob/master/Images/BD%201.PNG)
 ![alt text](https://github.com/zqazi114/SEA/blob/master/Images/BD%202.PNG)
 ![alt text](https://github.com/zqazi114/SEA/blob/master/Images/BD%203.PNG)
+
+DRAFT FAB A SCHEMATIC:
+![alt_text](https://github.com/zqazi114/SEA/blob/master/Images/SCH%20FABA.PNG)
+
+DRAFT FAB A LAYOUT:
+![alt_text](https://github.com/zqazi114/SEA/blob/master/Images/PCB%20FABA.PNG)
