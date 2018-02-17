@@ -30,9 +30,11 @@ The goal of this project is to design a digitally controlled large array of elec
 ![alt text](https://github.com/zqazi114/SEA/blob/master/Images/BD%203.PNG)
 
 <h2>DRAFT FAB A SCHEMATIC:</h2>
+
 ![alt_text](https://github.com/zqazi114/SEA/blob/master/Images/SCH%20FABA.PNG)
 
 <h2>DRAFT FAB A LAYOUT:</h2>
+
 ![alt_text](https://github.com/zqazi114/SEA/blob/v0/Images/PCB%20FABA%20NOTES.PNG)
 
 ![alt_text](https://github.com/zqazi114/SEA/blob/v0/Images/PCB%20FABA%20TOP.PNG)
