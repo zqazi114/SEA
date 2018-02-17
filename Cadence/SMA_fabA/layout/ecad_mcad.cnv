@@ -1,9 +1,144 @@
 #This is the Layer Conversion File used for
 #importing DXF data into Allegro/APD.
 
-#CLASS!            SUBCLASS!                 DXF_LAYER!
+#CLASS!            SUBCLASS!                           DXF_LAYER!
+
+BOARD GEOMETRY!
+                   DFX!                                0!
+                   OUTLINE!                            0!
 
 ETCH!
-                   TOP!                      0!
+                   TOP!                                0!
+                   BOTTOM!                             0!
+
+MANUFACTURING!
+                   XSECTION_CHART!                     0!
+                   NO_GLOSS_INTERNAL!                  0!
+                   PHOTOPLOT_OUTLINE!                  0!
+
+PACKAGE GEOMETRY!
+                   PASTEMASK_BOTTOM!                   0!
+                   PASTEMASK_TOP!                      0!
+                   DFA_BOUND_BOTTOM!                   0!
+                   DFA_BOUND_TOP!                      0!
+                   MODULES!                            0!
+                   DISPLAY_BOTTOM!                     0!
+                   DISPLAY_TOP!                        0!
+                   SOLDERMASK_BOTTOM!                  0!
+                   SOLDERMASK_TOP!                     0!
+                   BODY_CENTER!                        0!
+                   SILKSCREEN_BOTTOM!                  0!
+                   SILKSCREEN_TOP!                     0!
+                   PAD_STACK_NAME!                     0!
+                   PIN_NUMBER!                         0!
+                   PLACE_BOUND_BOTTOM!                 0!
+                   PLACE_BOUND_TOP!                    0!
+                   ASSEMBLY_BOTTOM!                    0!
+                   ASSEMBLY_TOP!                       0!
+
+PACKAGE KEEPIN!
+                   ALL!                                0!
+
+PACKAGE KEEPOUT!
+                   BOTTOM!                             0!
+                   TOP!                                0!
+                   ALL!                                0!
+
+PIN!
+                   TOP!                                0!
+                   BOTTOM!                             0!
+                   FILMMASKBOTTOM!                     0!
+                   FILMMASKTOP!                        0!
+                   PASTEMASK_BOTTOM!                   0!
+                   PASTEMASK_TOP!                      0!
+                   SOLDERMASK_BOTTOM!                  0!
+                   SOLDERMASK_TOP!                     0!
+
+REF DES!
+                   DISPLAY_BOTTOM!                     0!
+                   DISPLAY_TOP!                        0!
+                   SILKSCREEN_BOTTOM!                  0!
+                   SILKSCREEN_TOP!                     0!
+                   ASSEMBLY_BOTTOM!                    0!
+                   ASSEMBLY_TOP!                       0!
+
+ROUTE KEEPIN!
+                   ALL!                                0!
+
+ROUTE KEEPOUT!
+                   TOP!                                0!
+                   BOTTOM!                             0!
+                   ALL!                                0!
+
+TOLERANCE!
+                   DISPLAY_BOTTOM!                     0!
+                   DISPLAY_TOP!                        0!
+                   SILKSCREEN_BOTTOM!                  0!
+                   SILKSCREEN_TOP!                     0!
+                   ASSEMBLY_BOTTOM!                    0!
+                   ASSEMBLY_TOP!                       0!
+
+USER PART NUMBER!
+                   DISPLAY_BOTTOM!                     0!
+                   DISPLAY_TOP!                        0!
+                   SILKSCREEN_BOTTOM!                  0!
+                   SILKSCREEN_TOP!                     0!
+                   ASSEMBLY_BOTTOM!                    0!
+                   ASSEMBLY_TOP!                       0!
+
+VIA CLASS!
+                   TOP!                                0!
+                   BOTTOM!                             0!
+                   FILMMASKBOTTOM!                     0!
+                   FILMMASKTOP!                        0!
+                   PASTEMASK_BOTTOM!                   0!
+                   PASTEMASK_TOP!                      0!
+                   SOLDERMASK_BOTTOM!                  0!
+                   SOLDERMASK_TOP!                     0!
+
+VIA KEEPOUT!
+                   TOP!                                0!
+                   BOTTOM!                             0!
+                   ALL!                                0!
+
+RIGID FLEX!
+                   STIFFENER_METAL_BOTTOM!             0!
+                   STIFFENER_METAL_TOP!                0!
+                   STIFFENER_BOTTOM!                   0!
+                   STIFFENER_TOP!                      0!
+                   EMI_SHIELD_BOTTOM!                  0!
+                   EMI_SHIELD_TOP!                     0!
+                   COVERLAY_BOTTOM!                    0!
+                   COVERLAY_TOP!                       0!
+                   TRANSITION_ZONE!                    0!
+                   BEND_LINE!                          0!
+                   BEND_AREA!                          0!
+                   ZONE_OUTLINE!                       0!
+
+SURFACE FINISHES!
+                   SILVER_INK_BOTTOM!                  0!
+                   SILVER_INK_TOP!                     0!
+                   CARBON_BOTTOM!                      0!
+                   CARBON_TOP!                         0!
+                   TIN_PLATE_BOTTOM!                   0!
+                   TIN_PLATE_TOP!                      0!
+                   GOLD_SOFT_BOTTOM!                   0!
+                   GOLD_SOFT_TOP!                      0!
+                   GOLD_HARD_BOTTOM!                   0!
+                   GOLD_HARD_TOP!                      0!
+                   OSP_BOTTOM!                         0!
+                   OSP_TOP!                            0!
+                   IMMERSION_SILVER_BOTTOM!            0!
+                   IMMERSION_SILVER_TOP!               0!
+                   IMMERSION_TIN_BOTTOM!               0!
+                   IMMERSION_TIN_TOP!                  0!
+                   ENEPIG_BOTTOM!                      0!
+                   ENEPIG_TOP!                         0!
+                   ENIG_BOTTOM!                        0!
+                   ENIG_TOP!                           0!
+
+BONDING WIRE!
+                   BOTTOM!                             0!
+                   TOP!                                0!
 
 #END

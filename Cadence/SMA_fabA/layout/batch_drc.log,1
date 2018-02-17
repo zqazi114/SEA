@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : SMA_fabA.brd                                  )
+(    Drawing          : SMA_fabA - Copy.brd                           )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Mon Feb 12 05:32:49 2018                      )
+(    Date/Time        : Thu Feb 15 21:31:54 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  17
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

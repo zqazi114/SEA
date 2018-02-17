@@ -1,0 +1,148 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : SMA_fabA - Copy.brd                           )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Thu Feb 15 21:37:23 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-1508.000 833.000)
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  RECTANGLE  0.04882     x 0.21339       0.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R            0.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L            0.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L           90.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R           90.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R          180.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L          180.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R          270.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L          270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DXF >
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/DXF.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-1610.000 950.512)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     DXF created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN >
+     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SILKSCREEN.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SILKSCREEN created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created.
+        DXF created with warnings
+        SILKSCREEN created.
+
+ ARTWORK had warnings

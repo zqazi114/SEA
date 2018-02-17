@@ -3,7 +3,7 @@
 
 #CLASS!            SUBCLASS!                 DXF_LAYER!
 
-BOARD GEOMETRY!
-                   DFX!                      0!
+ETCH!
+                   TOP!                      0!
 
 #END
