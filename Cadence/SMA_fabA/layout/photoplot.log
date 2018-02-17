@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SMA_fabA.brd                                  )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Fri Feb 16 10:55:38 2018                      )
+(    Date/Time        : Sat Feb 17 13:19:24 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -33,7 +33,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_TOP_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_TOP_faba.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -72,7 +72,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_BOTTOM_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_BOTTOM_faba.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -94,7 +94,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < DFX >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_DFX_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_DFX_faba.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -122,7 +122,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILKSCREEN >
-     TO FILE < C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_SILKSCREEN_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_SILKSCREEN_faba.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -145,11 +145,540 @@ Results from parameter file ...
      SMA_SILKSCREEN_faba created with warnings
 
 
+================================================================
+     PROCESSING FILM < ALL >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_ALL_faba.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer VIA KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer VIA KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer VIA KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-34.1630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-34.1630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-34.1630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-34.1630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-34.1630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-34.1630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-34.1630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-36.7030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-36.7030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-36.7030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-36.7030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-36.7030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-36.7030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-36.7030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-39.2430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-39.2430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-39.2430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-39.2430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-39.2430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-39.2430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-39.2430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-26.5430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-26.5430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-26.5430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-26.5430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-26.5430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-26.5430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-26.5430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-29.0830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-29.0830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-29.0830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-29.0830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-29.0830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-29.0830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-29.0830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-31.6230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-31.6230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-31.6230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-31.6230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-31.6230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-31.6230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-31.6230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-18.9230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-18.9230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-18.9230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-18.9230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-18.9230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-18.9230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-18.9230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-21.4630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-21.4630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-21.4630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-21.4630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-21.4630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-21.4630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-21.4630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-24.0030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-24.0030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-24.0030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-24.0030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-24.0030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-24.0030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-24.0030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-11.3030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-11.3030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-11.3030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-11.3030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-11.3030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-11.3030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-11.3030 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-13.8430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-13.8430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-13.8430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-13.8430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-13.8430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-13.8430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-13.8430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-16.3830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-16.3830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-16.3830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-16.3830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-16.3830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-16.3830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-16.3830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-3.6830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-3.6830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-3.6830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-3.6830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-3.6830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-3.6830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-3.6830 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-6.2230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-6.2230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-6.2230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-6.2230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-6.2230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-6.2230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-6.2230 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-8.7630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-8.7630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-8.7630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-8.7630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-8.7630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-8.7630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-8.7630 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (-3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (-2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (3.9370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (3.9370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (3.9370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (3.9370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (3.9370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (3.9370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (3.9370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (1.3970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (1.3970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (1.3970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (1.3970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (1.3970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (1.3970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (1.3970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-1.1430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-1.1430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-1.1430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-1.1430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-1.1430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-1.1430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (-1.1430 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (3.3020 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (2.7940 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (4.3180 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (4.3180 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (2.7940 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (3.3020 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (11.5570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (11.5570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (11.5570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (11.5570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (11.5570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (11.5570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (11.5570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (9.0170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (9.0170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (9.0170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (9.0170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (9.0170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (9.0170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (9.0170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (6.4770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (6.4770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (6.4770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (6.4770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (6.4770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (6.4770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (6.4770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (9.3980 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (8.8900 -20.4245).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -12.8045).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -13.3125).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (10.4140 -6.7085).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (10.4140 -7.2165).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_R at (8.8900 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack COMB_ELECTRODE_L at (9.3980 0.4035).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (19.1770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (19.1770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (19.1770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (19.1770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (19.1770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (19.1770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (19.1770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (16.6370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (16.6370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (16.6370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (16.6370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (16.6370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (16.6370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (16.6370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (14.0970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (14.0970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (14.0970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (14.0970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (14.0970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (14.0970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (14.0970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (26.7970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (26.7970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (26.7970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (26.7970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (26.7970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (26.7970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (26.7970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (24.2570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (24.2570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (24.2570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (24.2570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (24.2570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (24.2570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (24.2570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (21.7170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (21.7170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (21.7170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (21.7170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (21.7170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (21.7170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (21.7170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (34.4170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (34.4170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (34.4170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (34.4170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (34.4170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (34.4170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (34.4170 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (31.8770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (31.8770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (31.8770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (31.8770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (31.8770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (31.8770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (31.8770 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (29.3370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (29.3370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (29.3370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (29.3370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (29.3370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (29.3370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (29.3370 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (39.4970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (39.4970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (39.4970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (39.4970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (39.4970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (39.4970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (39.4970 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (36.9570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (36.9570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (36.9570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (36.9570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (36.9570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (36.9570 -47.0945).
+    WARNING: Null REGULAR-PAD specified for padstack EDGE_CONN_PIN at (36.9570 -47.0945).
+    WARNING: rectangle or unfilled shape composed 0 width line found at (94.6280 -72.4185)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+  RECTANGLE  0.04882     x 0.21339       0.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R            0.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L            0.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L           90.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R           90.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R          180.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L          180.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_R          270.000 NO     DARK 
+  PAD SHAPE  COMB_ELECTRODE_L          270.000 NO     DARK 
+
+     SMA_ALL_faba created with warnings
+
+
+================================================================
+     PROCESSING FILM < FAB_NOTES >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_FAB_NOTES_faba.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SMA_FAB_NOTES_faba created with warnings
+
+
 ------------------------------------------------------
  SUMMARY:
         SMA_TOP_faba created with warnings
         SMA_BOTTOM_faba created with warnings
         SMA_DFX_faba created with warnings
         SMA_SILKSCREEN_faba created with warnings
+        SMA_ALL_faba created with warnings
+        SMA_FAB_NOTES_faba created with warnings
 
  ARTWORK had warnings
