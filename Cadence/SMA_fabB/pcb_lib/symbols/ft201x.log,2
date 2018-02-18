@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FT201X.dra                                    )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat Feb 17 19:48:24 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/zq2154/share/pcb/pcb_lib/symbols
+    Name      = ft201x.psm
+    User      = zq2154
+    Machine   = ET251PC05
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

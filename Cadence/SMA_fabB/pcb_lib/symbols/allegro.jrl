@@ -1,0 +1,14 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat Feb 17 20:51:04 2018
+\t (00:00:02)         Host=ET251PC05 User=zq2154 Pid=7084 CPUs=4
+\t (00:00:02) CmdLine= C:\Users\zq2154\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/zq2154/share/pcb/pcb_lib/symbols/USBLC6-2SC6.dra
+\i (00:00:04) trapsize 320
+\i (00:00:04) trapsize 327
+\i (00:00:04) trapsize 327
+\i (00:00:04) generaledit 
+\i (00:00:22) exit 
+\t (00:00:22)     Journal end - Sat Feb 17 20:51:24 2018

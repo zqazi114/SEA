@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : USBLC6-2SC6.dra                               )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat Feb 17 20:49:13 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/zq2154/share/pcb/pcb_lib/symbols
+    Name      = usblc6-2sc6.psm
+    User      = zq2154
+    Machine   = ET251PC05
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
