@@ -1,0 +1,40 @@
+(ExpressProject "SEA_fabB"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\sea_fabb.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\zq2154\Documents\GitHub\SEA\Cadence\SMA_fabB\schematic\sea_fabb.dsn")
+      (Path "Design Resources"
+         "C:\Users\zq2154\Documents\GitHub\SEA\Cadence\SMA_fabB\schematic\sea_fabb.dsn"
+         "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 987"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1673 50 588")
+        (Scroll "-292 -7")
+        (Zoom "103")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ZQ2154\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1. TITLE BLOCK"))))

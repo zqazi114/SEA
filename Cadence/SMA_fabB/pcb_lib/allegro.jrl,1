@@ -1,0 +1,53 @@
+\t (00:13:26) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:13:26)     Journal start - Sat Feb 17 18:47:36 2018
+\t (00:13:26)         Host=ET251PC05 User=zq2154 Pid=11252 CPUs=4
+\t (00:13:26) CmdLine= C:\Users\zq2154\tools\bin\allegro.exe
+\t (00:13:26) 
+\t (00:13:26) Starting new design...
+\i (00:13:26) trapsize 15513
+\i (00:13:26) trapsize 15867
+\i (00:13:26) trapsize 20916
+\i (00:13:26) trapsize 20916
+\i (00:13:26) generaledit 
+\i (00:13:32) prmed 
+\i (00:13:35) setwindow form.prmedit
+\i (00:13:35) FORM prmedit design  
+\i (00:13:36) FORM prmedit display  
+\i (00:13:36) FORM prmedit view_grids_button  
+\t (00:13:36) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:13:40) setwindow form.grid
+\i (00:13:40) FORM grid non_etch non_etch_x_grids 0.254 
+\i (00:13:44) FORM grid non_etch non_etch_y_grids 0.254 
+\i (00:13:45) FORM grid all_etch all_etch_x_grids 0.254 
+\i (00:13:46) FORM grid all_etch all_etch_y_grids 0.254 
+\i (00:13:47) FORM grid done  
+\i (00:13:48) setwindow form.prmedit
+\i (00:13:48) FORM prmedit done  
+\i (00:13:48) setwindow pcb
+\i (00:13:48) generaledit 
+\i (00:13:52) enved 
+\i (00:13:52) generaledit 
+\i (00:13:56) setwindow form.prfedit
+\i (00:13:56) FORM prfedit treelist  Editor Paths 
+\i (00:13:58) FORM prfedit treelist  Library Paths 
+\i (00:13:59) FORM prfedit padpath  
+\i (00:14:01) FORM prfedit done  
+\i (00:14:02) setwindow pcb
+\i (00:14:02) save 
+\i (00:14:02) generaledit 
+\i (00:14:05) new 
+\i (00:14:20) newdrawfillin "menu_cancel"
+\i (00:14:20) generaledit 
+\i (00:14:25) enved 
+\i (00:14:26) generaledit 
+\i (00:14:38) setwindow form.prfedit
+\i (00:14:38) FORM prfedit treelist  Config Paths 
+\i (00:15:04) FORM prfedit searchf template 
+\i (00:15:08) FORM prfedit wizard_template_path  
+\i (00:15:17) FORM prfedit done  
+\i (00:15:19) setwindow pcb
+\i (00:15:19) save 
+\i (00:15:20) fillin yes 
+\i (00:15:21) generaledit 
+\i (00:15:21) exit 
+\t (00:15:22)     Journal end - Sat Feb 17 18:49:32 2018

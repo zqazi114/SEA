@@ -1,0 +1,523 @@
+\t (00:00:04) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Feb 17 18:49:42 2018
+\t (00:00:04)         Host=ET251PC05 User=zq2154 Pid=6180 CPUs=4
+\t (00:00:04) CmdLine= C:\Users\zq2154\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/template.brd
+\i (00:00:06) trapsize 20135
+\i (00:00:06) trapsize 20916
+\i (00:00:06) trapsize 20916
+\i (00:00:06) generaledit 
+\i (00:00:07) new 
+\i (00:00:13) newdrawfillin "EJ503A.dra" "Package Symbol"
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 20135
+\i (00:00:14) trapsize 20916
+\i (00:00:14) trapsize 20916
+\i (00:00:14) generaledit 
+\i (00:00:15) prmed 
+\i (00:00:17) setwindow form.prmedit
+\i (00:00:17) FORM prmedit design  
+\i (00:00:19) FORM prmedit display  
+\i (00:00:20) FORM prmedit view_grids_button  
+\t (00:00:20) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:21) setwindow form.grid
+\i (00:00:21) FORM grid done  
+\i (00:00:22) setwindow form.prmedit
+\i (00:00:22) FORM prmedit done  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) generaledit 
+\i (00:08:32) add pin 
+\i (00:08:33) setwindow form.mini
+\i (00:08:33) FORM mini pad_browse  
+\t (00:08:37) No valid name selected.
+\i (00:08:39) fillin "H330r101p"
+\t (00:08:39) Using 'H330R101P.pad'.
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -23.8865 -45.0012
+\i (00:08:40) trapsize 10458
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in -18.2391 -45.2104
+\i (00:08:40) trapsize 5229
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 4.2457 6.5569
+\i (00:08:41) trapsize 2615
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 2.4679 3.1058
+\i (00:08:41) trapsize 1307
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 2.4679 3.1058
+\i (00:08:41) trapsize 654
+\i (00:08:42) zoom in 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom in 1.8143 2.0731
+\i (00:08:42) trapsize 327
+\i (00:08:42) zoom out 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom out 1.8143 1.7398
+\i (00:08:42) trapsize 654
+\i (00:08:42) zoom out 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom out 1.8665 1.6614
+\i (00:08:42) trapsize 1307
+\i (00:08:48) pick 0 0 
+\t (00:08:48) last pick:  0.0000 0.0000
+\t (00:08:48) Using 'H330R101P.pad'.
+\i (00:12:50) pick 0 -6.5 
+\t (00:12:50) last pick:  0.0000 -6.5000
+\t (00:12:50) Using 'H330R101P.pad'.
+\i (00:13:46) pick 0 -6.6 
+\t (00:13:46) last pick:  0.0000 -6.6000
+\t (00:13:46) Using 'H330R101P.pad'.
+\i (00:13:48) prepopup 2.6246 -7.6201
+\i (00:13:49) done 
+\t (00:13:49) Exiting from Add Pin.
+\i (00:13:49) generaledit 
+\i (00:13:49) zoom in 1 
+\i (00:13:49) setwindow pcb
+\i (00:13:49) zoom in -1.6108 -7.3064
+\i (00:13:49) trapsize 654
+\i (00:13:49) zoom in 1 
+\i (00:13:49) setwindow pcb
+\i (00:13:49) zoom in -1.6108 -7.2803
+\i (00:13:49) trapsize 327
+\i (00:13:50) prepopup -1.3428 -5.7770
+\i (00:13:51) pop dyn_option_select @:@Delete 
+\i (00:13:51) delete 
+\i (00:13:51) generaledit 
+\i (00:13:51) zoom out 1 
+\i (00:13:51) setwindow pcb
+\i (00:13:51) zoom out -0.8134 -5.6070
+\i (00:13:51) trapsize 654
+\i (00:13:51) zoom out 1 
+\i (00:13:51) setwindow pcb
+\i (00:13:51) zoom out -0.7219 -5.5678
+\i (00:13:51) trapsize 1307
+\i (00:13:54) add pin 
+\t (00:13:54) Using 'H330R101P.pad'.
+\i (00:15:31) pick 0 -6.5 
+\t (00:15:31) last pick:  0.0000 -6.5000
+\t (00:15:31) Using 'H330R101P.pad'.
+\i (00:15:31) prepopup 3.2783 -6.0645
+\i (00:15:32) done 
+\t (00:15:32) Exiting from Add Pin.
+\i (00:15:32) generaledit 
+\i (00:15:32) zoom in 1 
+\i (00:15:32) setwindow pcb
+\i (00:15:32) zoom in -0.6174 -6.8750
+\i (00:15:32) trapsize 654
+\i (00:15:33) zoom in 1 
+\i (00:15:33) setwindow pcb
+\i (00:15:33) zoom in -0.1598 -7.2149
+\i (00:15:33) trapsize 327
+\i (00:15:33) prepopup -0.1271 -7.3194
+\i (00:15:34) pop dyn_option_select @:@Delete 
+\i (00:15:34) delete 
+\i (00:15:34) generaledit 
+\i (00:15:35) zoom out 1 
+\i (00:15:35) setwindow pcb
+\i (00:15:35) zoom out -0.1860 -7.1037
+\i (00:15:35) trapsize 654
+\i (00:15:35) zoom out 1 
+\i (00:15:35) setwindow pcb
+\i (00:15:35) zoom out -0.2121 -6.8162
+\i (00:15:35) trapsize 1307
+\i (00:16:38) add pin 
+\t (00:16:38) Using 'H330R101P.pad'.
+\i (00:16:38) prepopup 4.4417 -4.9337
+\i (00:16:39) rotate 
+\t (00:16:39) Spin the element(s).
+\i (00:16:42) iangle 90.381
+\t (00:16:42) last angle:  +90.381 Degrees
+\t (00:16:42) Pin rotated by '90.381' degrees.
+\t (00:16:42) Using 'H330R101P.pad'.
+\i (00:16:46) prepopup 4.9646 -4.6199
+\i (00:16:48) rotate 
+\t (00:16:48) Spin the element(s).
+\i (00:17:01) zoom in 1 
+\i (00:17:01) setwindow pcb
+\i (00:17:01) zoom in 6.1934 -4.5676
+\i (00:17:01) trapsize 654
+\i (00:17:02) zoom in 1 
+\i (00:17:02) setwindow pcb
+\i (00:17:02) zoom in 6.1934 -4.5676
+\i (00:17:02) trapsize 327
+\i (00:17:08) iangle -0.437
+\t (00:17:08) last angle:  +359.563 Degrees
+\t (00:17:08) Pin rotated by '89.944' degrees.
+\t (00:17:08) Using 'H330R101P.pad'.
+\i (00:17:11) zoom out 1 
+\i (00:17:11) setwindow pcb
+\i (00:17:11) zoom out 4.8927 -4.1362
+\i (00:17:11) trapsize 654
+\i (00:17:12) zoom out 1 
+\i (00:17:12) setwindow pcb
+\i (00:17:12) zoom out 4.8012 -4.0709
+\i (00:17:12) trapsize 1307
+\i (00:17:36) pick 4.65 -3.25 
+\t (00:17:36) last pick:  4.6500 -3.2500
+\t (00:17:36) Using 'H330R101P.pad'.
+\i (00:17:38) prepopup 9.5596 -3.9401
+\i (00:17:39) done 
+\t (00:17:39) Exiting from Add Pin.
+\i (00:17:39) generaledit 
+\i (00:17:40) zoom in 1 
+\i (00:17:40) setwindow pcb
+\i (00:17:40) zoom in 0.8533 -3.6525
+\i (00:17:40) trapsize 654
+\i (00:17:41) pick grid 3.1933 -3.7702
+\t (00:17:41) last pick:  3.3020 -3.8100
+\i (00:17:42) pick grid 3.0365 -2.6590
+\t (00:17:42) last pick:  3.0480 -2.5400
+\i (00:17:42) drag_start grid 3.0495 -2.7374
+\i (00:17:42) drag_stop 3.2064 -3.2865
+\i (00:17:45) setwindow form.find
+\i (00:17:45) FORM find all_on  
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom out 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom out 4.3568 -3.6394
+\i (00:17:49) trapsize 1307
+\i (00:17:51) zoom in 1 
+\i (00:17:51) setwindow pcb
+\i (00:17:51) zoom in 4.1738 -3.8748
+\i (00:17:51) trapsize 654
+\i (00:17:52) pick grid 6.6968 -3.2473
+\t (00:17:52) last pick:  6.6040 -3.3020
+\i (00:17:53) prepopup 4.4222 -3.3127
+\i (00:17:57) pop dyn_option_select @:@Move 
+\i (00:17:57) move 
+\t (00:17:57) last pick:  4.3180 -3.3020
+\t (00:17:57) last pick:  4.6500 -3.2500
+\t (00:17:57) Pick new location for the element(s).
+\i (00:17:58) prepopup 4.7098 -3.3519
+\i (00:17:59) rotate 
+\i (00:18:00) prepopup 5.0889 -3.4173
+\i (00:18:01) rotate 
+\t (00:18:01) Element is already set to this angle.
+\i (00:18:02) pick grid 5.3111 -2.9597
+\t (00:18:02) last pick:  5.3340 -3.0480
+\i (00:18:02) generaledit 
+\i (00:18:04) setwindow form.find
+\i (00:18:04) FORM find all_off  
+\i (00:18:04) FORM find shapes YES 
+\i (00:18:05) setwindow pcb
+\i (00:18:05) pick grid 7.4158 -3.9924
+\t (00:18:05) last pick:  7.3660 -4.0640
+\i (00:18:06) pick grid 6.8536 -3.4957
+\t (00:18:06) last pick:  6.8580 -3.5560
+\i (00:18:06) drag_start grid 7.0236 -3.4303
+\i (00:18:07) drag_stop 6.7883 -3.6656
+\i (00:18:07) drag_start grid 6.8667 -2.4499
+\i (00:18:07) drag_stop 6.9844 -4.1362
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 6.3830 -2.5675
+\i (00:18:08) trapsize 327
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 4.7555 -2.5218
+\i (00:18:08) trapsize 163
+\i (00:18:09) pick grid 4.0463 -2.5545
+\t (00:18:09) last pick:  4.0640 -2.5400
+\i (00:18:09) zoom out 1 
+\i (00:18:09) setwindow pcb
+\i (00:18:09) zoom out 4.1149 -2.5774
+\i (00:18:09) trapsize 327
+\i (00:18:09) zoom out 1 
+\i (00:18:09) setwindow pcb
+\i (00:18:09) zoom out 4.1280 -2.5904
+\i (00:18:09) trapsize 654
+\i (00:18:10) zoom out 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom out 8.1151 -3.0741
+\i (00:18:10) trapsize 1307
+\i (00:18:11) roam start
+\i (00:18:11) roam x -96
+\i (00:18:11) roam end
+\i (00:18:11) undo 
+\i (00:18:11) trapsize 654
+\i (00:18:11) generaledit 
+\i (00:18:12) undo 
+\i (00:18:12) generaledit 
+\i (00:18:12) undo 
+\i (00:18:12) generaledit 
+\i (00:18:13) undo 
+\i (00:18:13) generaledit 
+\i (00:18:13) prepopup 4.7228 -3.4303
+\i (00:18:14) pop dyn_option_select @:@Delete 
+\i (00:18:14) delete 
+\i (00:18:14) generaledit 
+\i (00:18:16) zoom in 1 
+\i (00:18:16) setwindow pcb
+\i (00:18:16) zoom in 5.7948 -5.9010
+\i (00:18:16) trapsize 327
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 5.5398 -5.8683
+\i (00:18:17) trapsize 654
+\i (00:18:17) zoom out 1 
+\i (00:18:17) setwindow pcb
+\i (00:18:17) zoom out 4.7816 -5.6722
+\i (00:18:17) trapsize 1307
+\i (00:18:18) roam start
+\i (00:18:18) roam x -32
+\i (00:18:18) roam y -32
+\i (00:18:18) roam x -16
+\i (00:18:18) roam y -32
+\i (00:18:18) roam y -32
+\i (00:18:18) roam end
+\i (00:19:20) pick grid -2.7620 4.3341
+\t (00:19:20) last pick:  -2.7940 4.3180
+\i (00:19:22) add pin 
+\t (00:19:22) Using 'H330R101P.pad'.
+\i (00:19:25) setwindow form.mini
+\i (00:19:25) FORM mini pad_browse  
+\t (00:19:31) No valid name selected.
+\i (00:19:34) fillin "h.pad"
+\e (00:19:34) ERROR(SPMHAP-7): Illegal pad name.
+\i (00:19:36) FORM mini pad_browse  
+\i (00:19:44) fillin "h101.pad"
+\e (00:19:44) ERROR(SPMHAP-7): Illegal pad name.
+\i (00:19:45) FORM mini pad_browse  
+\t (00:19:55) No valid name selected.
+\i (00:19:57) fillin "H101r330p"
+\t (00:19:57) Using 'H101R330P.pad'.
+\i (00:20:17) setwindow pcb
+\i (00:20:17) pick 3.25 -4.65 
+\t (00:20:17) last pick:  3.2500 -4.6500
+\t (00:20:17) Using 'H101R330P.pad'.
+\i (00:20:22) pick 0 0 
+\t (00:20:22) last pick:  0.0000 0.0000
+\t (00:20:22) Using 'H101R330P.pad'.
+\i (00:20:38) pick 4.65 -3.25 
+\t (00:20:38) last pick:  4.6500 -3.2500
+\t (00:20:38) Using 'H101R330P.pad'.
+\i (00:20:39) prepopup 7.5391 -0.8427
+\i (00:20:40) done 
+\t (00:20:40) Exiting from Add Pin.
+\i (00:20:40) generaledit 
+\i (00:20:40) prepopup 0.4800 -1.5747
+\i (00:20:41) pop dyn_option_select @:@Delete 
+\i (00:20:41) delete 
+\i (00:20:41) generaledit 
+\i (00:20:42) prepopup 3.1729 -5.7056
+\i (00:20:43) pop dyn_option_select @:@Delete 
+\i (00:20:43) delete 
+\i (00:20:43) generaledit 
+\i (00:20:43) zoom in 1 
+\i (00:20:43) setwindow pcb
+\i (00:20:43) zoom in 2.7284 -4.1631
+\i (00:20:43) trapsize 654
+\i (00:20:47) setwindow form.find
+\i (00:20:47) FORM find all_off  
+\i (00:20:49) FORM find text YES 
+\i (00:21:00) setwindow pcb
+\i (00:21:00) pick grid 3.2121 -2.9473
+\t (00:21:00) last pick:  3.3020 -3.0480
+\i (00:21:01) prepopup 3.1076 -3.1172
+\i (00:21:02) pop dyn_option_select '@:@Text edit' 
+\i (00:21:02) text edit 
+\i (00:21:04) setwindow form.textedit
+\i (00:21:04) FORM textedit str 1 
+\i (00:21:04) FORM textedit done  
+\i (00:21:04) setwindow pcb
+\i (00:21:04) pick 0.0000 0.0000
+\t (00:21:04) Pick text to edit.
+\i (00:21:04) setwindow pcb
+\i (00:21:04) generaledit 
+\i (00:21:05) prepopup -1.4809 0.1247
+\i (00:21:07) pop dyn_option_select '@:@Text edit' 
+\i (00:21:07) text edit 
+\i (00:21:09) setwindow form.textedit
+\i (00:21:09) FORM textedit str 2 
+\i (00:21:09) FORM textedit done  
+\i (00:21:09) setwindow pcb
+\i (00:21:09) pick 0.0000 0.0000
+\t (00:21:09) Pick text to edit.
+\i (00:21:09) setwindow pcb
+\i (00:21:09) generaledit 
+\i (00:21:10) prepopup -1.4286 -6.2677
+\i (00:21:11) pop dyn_option_select '@:@Text edit' 
+\i (00:21:11) text edit 
+\i (00:21:13) setwindow form.textedit
+\i (00:21:13) FORM textedit str 3 
+\i (00:21:13) FORM textedit done  
+\i (00:21:13) setwindow pcb
+\i (00:21:13) pick 0.0000 0.0000
+\t (00:21:13) Pick text to edit.
+\i (00:21:13) setwindow pcb
+\i (00:21:13) generaledit 
+\i (00:21:15) save 
+\e (00:21:15) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:21:15) generaledit 
+\i (00:21:17) setwindow text
+\i (00:21:17) close
+\i (00:21:20) shape add rect 
+\i (00:21:22) setwindow form.mini
+\i (00:21:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:21:26) FORM mini one_click YES 
+\i (00:21:49) FORM mini rec_width 9.0000 
+\i (00:21:51) FORM mini rec_height 13.7000 
+\i (00:21:52) setwindow pcb
+\i (00:21:52) zoom out 1 
+\i (00:21:52) setwindow pcb
+\i (00:21:52) zoom out -2.2914 1.1444
+\i (00:21:52) trapsize 1307
+\i (00:21:52) zoom out 1 
+\i (00:21:52) setwindow pcb
+\i (00:21:52) zoom out -2.2652 0.8830
+\i (00:21:52) trapsize 2615
+\i (00:21:53) zoom in 1 
+\i (00:21:53) setwindow pcb
+\i (00:21:53) zoom in -3.1020 1.9288
+\i (00:21:53) trapsize 1307
+\i (00:23:08) pick -4.5 1 
+\t (00:23:08) last pick:  -4.5000 1.0000
+\i (00:23:41) setwindow form.mini
+\i (00:23:41) FORM mini rec_width 10.0000 
+\i (00:23:44) setwindow pcb
+\i (00:23:44) pick -4.5 1 
+\t (00:23:44) last pick:  -4.5000 1.0000
+\i (00:23:48) prepopup 13.4479 -5.0520
+\i (00:23:49) done 
+\i (00:23:49) generaledit 
+\i (00:23:52) setwindow form.find
+\i (00:23:52) FORM find all_on  
+\i (00:23:53) setwindow pcb
+\i (00:23:53) prepopup 4.5063 -7.7188
+\i (00:23:54) pop dyn_option_select @:@Delete 
+\i (00:23:54) delete 
+\i (00:23:54) generaledit 
+\i (00:23:56) shape add rect 
+\i (00:23:59) setwindow form.mini
+\i (00:23:59) FORM mini subclass DFA_BOUND_TOP 
+\i (00:24:17) setwindow pcb
+\i (00:24:17) prepopup -4.5399 0.9614
+\i (00:24:19) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\t (00:24:19) last pick:  -4.5000 1.0000
+\i (00:24:29) setwindow form.mini
+\i (00:24:29) FORM mini subclass SOLDERMASK_TOP 
+\i (00:24:31) setwindow pcb
+\i (00:24:31) prepopup -4.4876 0.9614
+\i (00:24:34) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\t (00:24:34) last pick:  -4.5000 1.0000
+\i (00:24:43) setwindow form.mini
+\i (00:24:43) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:24:44) setwindow pcb
+\i (00:24:44) prepopup -4.4615 0.9352
+\i (00:24:46) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\t (00:24:46) last pick:  -4.5000 1.0000
+\i (00:24:47) prepopup 9.2647 -0.2151
+\i (00:24:48) done 
+\i (00:24:48) generaledit 
+\i (00:24:49) save 
+\i (00:24:49) fillin yes 
+\e (00:24:50) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:24:50) generaledit 
+\i (00:24:52) setwindow text
+\i (00:24:52) close
+\i (00:24:52) add text 
+\t (00:24:52) Pick text location.
+\i (00:24:55) setwindow form.mini
+\i (00:24:55) FORM mini text_block 4 
+\i (00:24:56) FORM mini class REF DES 
+\i (00:24:59) FORM mini subclass ASSEMBLY_TOP 
+\i (00:25:01) setwindow pcb
+\i (00:25:01) pick grid -0.5920 2.1118
+\t (00:25:01) last pick:  -0.5080 2.0320
+\t (00:25:01) Enter text string.
+\i (00:25:04) setwindow pcb
+\i (00:25:04) pick -0.5080 2.0320
+\i (00:25:05) zoom in 1 
+\i (00:25:05) setwindow pcb
+\i (00:25:05) zoom in 4.2187 0.2816
+\i (00:25:05) trapsize 654
+\i (00:25:05) zoom out 1 
+\i (00:25:05) setwindow pcb
+\i (00:25:05) zoom out 3.7612 -0.4635
+\i (00:25:05) trapsize 1307
+\i (00:25:05) zoom out 1 
+\i (00:25:05) setwindow pcb
+\i (00:25:05) zoom out 3.7612 -0.4634
+\i (00:25:05) trapsize 2615
+\i (00:25:06) roam start
+\i (00:25:06) roam x -48
+\i (00:25:06) roam y -64
+\i (00:25:06) roam end
+\i (00:25:07) zoom in 1 
+\i (00:25:07) setwindow pcb
+\i (00:25:07) zoom in 1.7352 2.1642
+\i (00:25:07) trapsize 1307
+\i (00:25:07) prepopup 1.6307 2.5563
+\i (00:25:08) done 
+\i (00:25:08) generaledit 
+\i (00:25:08) prepopup 1.6568 2.3733
+\i (00:25:09) pop dyn_option_select @:@Copy 
+\i (00:25:09) copy 
+\i (00:25:10) pick grid 3.2517 2.3733
+\t (00:25:10) last pick:  3.3020 2.2860
+\i (00:25:10) prepopup 7.9578 1.1707
+\i (00:25:11) done 
+\i (00:25:11) generaledit 
+\i (00:25:11) prepopup 5.3171 2.3733
+\i (00:25:15) pop dyn_option_select 'Change to layer@:@SILKSCREEN_TOP' 
+\i (00:25:15) change layer 
+\t (00:25:15) No DRC errors detected.
+\t (00:25:15) Changed 1 items out of 1 items found.
+\i (00:25:15) generaledit 
+\i (00:25:16) prepopup 5.2648 2.7916
+\i (00:25:18) pick grid 8.5329 3.2884
+\t (00:25:18) last pick:  8.6360 3.3020
+\i (00:25:21) prepopup 5.7877 2.5302
+\i (00:25:22) pop dyn_option_select @:@Move 
+\i (00:25:22) move 
+\t (00:25:22) last pick:  5.8420 2.5400
+\t (00:25:22) last pick:  3.3020 2.2860
+\t (00:25:22) Pick new location for the element(s).
+\i (00:25:24) pick grid -0.5394 2.1380
+\t (00:25:24) last pick:  -0.5080 2.0320
+\i (00:25:24) generaledit 
+\i (00:25:24) prepopup 4.9511 1.7981
+\i (00:25:25) pick grid 3.8268 3.0008
+\t (00:25:25) last pick:  3.8100 3.0480
+\i (00:25:26) save 
+\i (00:25:27) fillin yes 
+\t (00:25:27) Symbol 'ej503a.psm' created.
+\i (00:25:27) generaledit 
+\i (00:26:13) new 
+\i (00:26:19) newdrawfillin "FT201X.dra" "Package Symbol (Wizard)"
+\t (00:26:19) Starting new design...
+\i (00:26:19) trapsize 20916
+\i (00:26:19) trapsize 20916
+\i (00:26:19) package symbol wizard 
+   (00:26:23) Loading cmds.cxt 
+\i (00:26:23) setwindow form.sym_wizard
+\i (00:26:23) FORM sym_wizard soic YES 
+\i (00:26:24) FORM sym_wizard plcc YES 
+\i (00:26:25) FORM sym_wizard bga YES 
+\i (00:26:26) FORM sym_wizard rca_th YES 
+\i (00:26:27) FORM sym_wizard rca_smd YES 
+\i (00:26:27) FORM sym_wizard sip YES 
+\i (00:26:28) FORM sym_wizard zip YES 
+\i (00:26:31) FORM sym_wizard plcc YES 
+\i (00:26:31) FORM sym_wizard soic YES 
+\i (00:26:55) setwindow pcb
+\i (00:26:55) open 
+\e (00:26:55) Do you want to save the changes you made to FT201X.dra?
+\i (00:26:57) fillin no 
+\i (00:27:48) fillin "C:\Users\zq2154\share\pcb\pcb_lib\symbols\ssop16.dra"
+\i (00:27:48) cd "C:\Users\zq2154\share\pcb\pcb_lib\symbols"
+\t (00:27:48) Opening existing design...
+\i (00:27:48) trapsize 69
+\i (00:27:48) trapsize 70
+\i (00:27:48) trapsize 227
+\t (00:27:48)     Journal end - Sat Feb 17 19:17:25 2018

@@ -1,66 +1,335 @@
-\t (00:00:04) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Sat Feb 17 16:31:39 2018
-\t (00:00:04)         Host=ET251PC05 User=zq2154 Pid=5204 CPUs=4
-\t (00:00:04) CmdLine= C:\Users\zq2154\tools\bin\allegro.exe
-\t (00:00:04) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\d (00:00:05) Design opened: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
-\i (00:00:05) trapsize 6977
-\i (00:00:05) trapsize 7137
-\i (00:00:05) trapsize 7938
-\i (00:00:06) generaledit 
-\i (00:00:06) open 
-\i (00:00:12) fillin "menu_cancel"
-\i (00:00:12) generaledit 
-\i (00:00:12) zoom in 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom in -1.9559 17.8360
-\i (00:00:12) trapsize 3969
-\i (00:00:14) roam start
-\i (00:00:14) roam y 32
-\i (00:00:14) roam y 32
-\i (00:00:14) roam y 32
-\i (00:00:14) roam x 16
-\i (00:00:14) roam y 48
-\i (00:00:14) roam x 16
-\i (00:00:14) roam y 48
-\i (00:00:14) roam x 16
-\i (00:00:14) roam y 48
-\i (00:00:14) roam y 16
-\i (00:00:14) roam end
-\i (00:00:15) roam start
-\i (00:00:15) roam y -16
-\i (00:00:15) roam x -16
-\i (00:00:15) roam y -32
-\i (00:00:16) roam end
-\i (00:00:16) zoom out 1 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) zoom out 1.4605 -5.3740
-\i (00:00:16) trapsize 7938
-\i (00:00:17) roam start
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -32
-\i (00:00:17) roam x -16
-\i (00:00:17) roam y -32
-\i (00:00:17) roam x -32
-\i (00:00:17) roam y -16
-\i (00:00:17) roam y -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam x -16
-\i (00:00:18) roam y -16
-\i (00:00:18) roam x -32
-\i (00:00:18) roam y -16
-\i (00:00:18) roam end
-\i (00:01:00) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ALL"
-\i (00:01:00) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
-\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
-\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
-\i (00:01:25) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILKSCREEN"
-\i (00:01:25) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SILKSCREEN"
-\i (00:01:29) drag_start grid -74.9007 31.9337
-\i (00:01:31) drag_stop 84.4897 -79.5126
-\i (00:01:32) pick grid 29.0840 -58.2393
-\t (00:01:32) last pick:  29.2100 -58.2705
-\i (00:01:46) exit 
-\t (00:01:46)     Journal end - Sat Feb 17 16:33:21 2018
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat Feb 17 18:34:13 2018
+\t (00:00:02)         Host=ET251PC05 User=zq2154 Pid=11252 CPUs=4
+\t (00:00:02) CmdLine= C:\Users\zq2154\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
+\i (00:00:04) trapsize 6977
+\i (00:00:04) trapsize 7137
+\i (00:00:04) trapsize 7938
+\i (00:00:04) generaledit 
+\i (00:00:08) opencd C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/AU-Y1007.dra 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 1278
+\i (00:00:08) trapsize 1307
+\i (00:00:08) trapsize 1307
+\d (00:00:08) Design opened: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/AU-Y1007.dra
+\i (00:00:08) generaledit 
+\i (00:00:10) add pin 
+\i (00:00:11) setwindow form.mini
+\i (00:00:11) FORM mini pad_browse  
+\t (00:00:13) No valid name selected.
+\i (00:00:16) fillin "H85p"
+\t (00:00:16) Using 'H85P.pad'.
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 0.0102 0.0601
+\i (00:00:18) trapsize 654
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 0.0102 0.0601
+\i (00:00:18) trapsize 327
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -0.0029 0.0079
+\i (00:00:19) trapsize 163
+\i (00:00:23) prmed 
+\t (00:00:23) Exiting from Add Pin.
+\i (00:00:24) setwindow form.prmedit
+\i (00:00:24) FORM prmedit design  
+\i (00:00:25) FORM prmedit display  
+\i (00:00:26) FORM prmedit view_grids_button  
+\t (00:00:26) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:28) setwindow form.grid
+\i (00:00:28) FORM grid done  
+\i (00:00:28) setwindow form.prmedit
+\i (00:00:28) FORM prmedit done  
+\i (00:00:28) setwindow pcb
+\i (00:00:28) generaledit 
+\i (00:00:31) add pin 
+\t (00:00:31) Using 'H85P.pad'.
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 0.0821 0.0733
+\i (00:00:32) trapsize 327
+\i (00:00:47) pick 0 0 
+\t (00:00:47) last pick:  0.0000 0.0000
+\t (00:00:47) Using 'H85P.pad'.
+\i (00:01:07) pick 2.5 0 
+\t (00:01:07) last pick:  2.5000 0.0000
+\t (00:01:07) Using 'H85P.pad'.
+\i (00:01:22) pick 2 0 
+\t (00:01:22) last pick:  2.0000 0.0000
+\t (00:01:22) Using 'H85P.pad'.
+\i (00:01:31) pick 0 2 
+\t (00:01:31) last pick:  0.0000 2.0000
+\t (00:01:31) Using 'H85P.pad'.
+\i (00:01:37) pick 0 -2 
+\t (00:01:37) last pick:  0.0000 -2.0000
+\t (00:01:37) Using 'H85P.pad'.
+\i (00:01:41) pick 2.5 -2 
+\t (00:01:41) last pick:  2.5000 -2.0000
+\t (00:01:41) Using 'H85P.pad'.
+\i (00:01:42) prepopup -2.7153 -0.8287
+\i (00:01:43) done 
+\t (00:01:43) Exiting from Add Pin.
+\i (00:01:43) generaledit 
+\i (00:01:43) prepopup -0.1793 1.6877
+\i (00:01:44) pop dyn_option_select @:@Delete 
+\i (00:01:45) delete 
+\i (00:01:45) generaledit 
+\i (00:01:45) prepopup 1.4547 0.1974
+\i (00:01:46) pop dyn_option_select @:@Delete 
+\i (00:01:46) delete 
+\i (00:01:46) generaledit 
+\i (00:01:47) prepopup -1.3166 -1.7242
+\i (00:01:48) pop dyn_option_select '@:@Text edit' 
+\i (00:01:48) text edit 
+\i (00:01:51) setwindow form.textedit
+\i (00:01:51) FORM textedit str 3 
+\i (00:01:51) FORM textedit done  
+\i (00:01:51) setwindow pcb
+\i (00:01:51) pick 0.0000 0.0000
+\t (00:01:51) Pick text to edit.
+\i (00:01:51) setwindow pcb
+\i (00:01:51) generaledit 
+\i (00:01:51) prepopup 1.0822 -1.5935
+\i (00:01:53) pop dyn_option_select '@:@Text edit' 
+\i (00:01:53) text edit 
+\i (00:01:55) setwindow form.textedit
+\i (00:01:55) FORM textedit str 4 
+\i (00:01:55) FORM textedit done  
+\i (00:01:55) setwindow pcb
+\i (00:01:55) pick 0.0000 0.0000
+\t (00:01:55) Pick text to edit.
+\i (00:01:55) setwindow pcb
+\i (00:01:55) generaledit 
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 0.4678 -1.0640
+\i (00:01:55) trapsize 654
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 0.7554 -2.2275
+\i (00:01:56) trapsize 1307
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in -1.9114 -5.9923
+\i (00:01:56) trapsize 654
+\i (00:01:59) add pin 
+\t (00:01:59) Using 'H85P.pad'.
+\i (00:02:00) setwindow form.mini
+\i (00:02:00) FORM mini pad_browse  
+\t (00:02:04) No valid name selected.
+\i (00:02:06) fillin "H140p"
+\t (00:02:06) Using 'H140P.pad'.
+\i (00:02:42) setwindow pcb
+\i (00:02:42) pick -4.81 -4.71 
+\t (00:02:42) last pick:  -4.8100 -4.7100
+\t (00:02:42) Using 'H140P.pad'.
+\i (00:03:18) pick 7.23 -4.71 
+\t (00:03:18) last pick:  7.2300 -4.7100
+\t (00:03:18) Using 'H140P.pad'.
+\i (00:03:21) prepopup -1.7938 -3.9400
+\i (00:03:21) done 
+\t (00:03:21) Exiting from Add Pin.
+\i (00:03:21) generaledit 
+\i (00:03:22) prepopup -6.2253 -4.3191
+\i (00:03:23) pop dyn_option_select '@:@Text edit' 
+\i (00:03:23) text edit 
+\i (00:03:26) setwindow form.textedit
+\i (00:03:26) FORM textedit str 5 
+\i (00:03:26) FORM textedit done  
+\i (00:03:26) setwindow pcb
+\i (00:03:26) pick 0.0000 0.0000
+\t (00:03:26) Pick text to edit.
+\i (00:03:26) setwindow pcb
+\i (00:03:26) generaledit 
+\i (00:03:26) prepopup 5.8405 -4.4498
+\i (00:03:28) pop dyn_option_select '@:@Text edit' 
+\i (00:03:28) text edit 
+\i (00:03:30) setwindow form.textedit
+\i (00:03:30) FORM textedit str 6 
+\i (00:03:30) FORM textedit done  
+\i (00:03:30) setwindow pcb
+\i (00:03:30) pick 0.0000 0.0000
+\t (00:03:30) Pick text to edit.
+\i (00:03:30) setwindow pcb
+\i (00:03:30) generaledit 
+\i (00:03:31) zoom out 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out -1.3624 -3.0903
+\i (00:03:31) trapsize 1307
+\i (00:03:32) save 
+\i (00:03:33) fillin yes 
+\e (00:03:33) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:03:33) generaledit 
+\i (00:03:34) setwindow text
+\i (00:03:34) close
+\i (00:03:44) shape add rect 
+\i (00:03:48) setwindow form.mini
+\i (00:03:48) FORM mini one_click YES 
+\i (00:04:04) FORM mini rec_width 15.0000 
+\i (00:04:05) FORM mini rec_height 6.0000 
+\i (00:04:11) FORM mini rec_height 10.0000 
+\i (00:04:52) FORM mini rec_width 12.3000 
+\i (00:05:11) FORM mini rec_width 13.0000 
+\i (00:05:16) FORM mini rec_width 15.0000 
+\i (00:05:54) FORM mini rec_height 16.5000 
+\i (00:06:30) setwindow pcb
+\i (00:06:30) zoom out 1 
+\i (00:06:30) setwindow pcb
+\i (00:06:30) zoom out -6.4606 3.9166
+\i (00:06:30) trapsize 2614
+\i (00:07:18) pick grid -6.2514 2.0864
+\t (00:07:18) last pick:  -6.3500 2.0320
+\i (00:09:25) setwindow form.mini
+\i (00:09:25) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:09:26) setwindow pcb
+\i (00:09:26) pick grid -6.2514 2.0341
+\t (00:09:26) last pick:  -6.3500 2.0320
+\i (00:09:30) setwindow form.mini
+\i (00:09:30) FORM mini subclass DFA_BOUND_TOP 
+\i (00:09:33) setwindow pcb
+\i (00:09:33) pick grid -6.2514 1.9819
+\t (00:09:33) last pick:  -6.3500 2.0320
+\i (00:09:37) setwindow form.mini
+\i (00:09:37) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:09:39) setwindow pcb
+\i (00:09:39) pick grid -6.2514 1.9296
+\t (00:09:39) last pick:  -6.3500 2.0320
+\i (00:09:42) setwindow form.mini
+\i (00:09:42) FORM mini subclass DFA_BOUND_BOTTOM 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) pick grid -6.4083 2.0341
+\t (00:09:44) last pick:  -6.3500 2.0320
+\i (00:09:48) setwindow form.mini
+\i (00:09:48) FORM mini subclass PLACE_BOUND_BOTTOM 
+\i (00:09:51) setwindow pcb
+\i (00:09:51) pick grid -6.4605 1.9296
+\t (00:09:51) last pick:  -6.3500 2.0320
+\i (00:09:51) prepopup 10.1152 6.2173
+\i (00:09:52) done 
+\i (00:09:52) generaledit 
+\i (00:09:55) add text 
+\t (00:09:55) Pick text location.
+\i (00:10:00) setwindow form.mini
+\i (00:10:00) FORM mini class PACKAGE KEEPOUT 
+\i (00:10:04) FORM mini class REF DES 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) add text 
+\t (00:10:05) Pick text location.
+\i (00:10:08) pick grid -0.0812 -7.1688
+\t (00:10:08) last pick:  0.0000 -7.1120
+\t (00:10:08) Enter text string.
+\i (00:10:11) setwindow form.mini
+\i (00:10:11) FORM mini text_block 4 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) pick 0.0000 -7.1120
+\i (00:10:17) setwindow pcb
+\i (00:10:17) prepopup 20.3117 -1.3124
+\i (00:10:17) done 
+\i (00:10:17) generaledit 
+\i (00:10:18) prepopup 1.1214 -6.4368
+\i (00:10:19) pop dyn_option_select @:@Move 
+\i (00:10:19) move 
+\t (00:10:19) last pick:  1.0160 -6.3500
+\t (00:10:19) last pick:  0.0000 -7.1120
+\t (00:10:19) Pick new location for the element(s).
+\i (00:10:25) pick grid -0.0289 3.1322
+\t (00:10:25) last pick:  0.0000 3.0480
+\i (00:10:25) generaledit 
+\i (00:10:25) prepopup 10.3767 2.1387
+\i (00:10:26) pick grid 7.7622 4.9101
+\t (00:10:26) last pick:  7.8740 4.8260
+\i (00:10:27) prepopup 1.4875 3.1322
+\i (00:10:28) pop dyn_option_select @:@Copy 
+\i (00:10:28) copy 
+\i (00:10:32) pick grid -0.0289 3.1322
+\t (00:10:32) last pick:  0.0000 3.0480
+\i (00:10:33) prepopup 6.2981 3.0799
+\i (00:10:33) done 
+\i (00:10:33) generaledit 
+\i (00:10:34) prepopup 2.0626 3.5505
+\i (00:10:47) pop dyn_option_select 'Change class/subclass@:@PACKAGE GEOMETRY@:@SILKSCREEN_TOP' 
+\i (00:10:47) change class 
+\t (00:10:47) No DRC errors detected.
+\t (00:10:47) Changed 1 items out of 1 items found.
+\i (00:10:47) generaledit 
+\i (00:10:48) prepopup 2.2718 3.9689
+\i (00:10:49) pop dyn_option_select @:@Move 
+\i (00:10:49) move 
+\t (00:10:49) last pick:  2.2860 4.0640
+\t (00:10:49) last pick:  0.0000 3.0480
+\t (00:10:49) Pick new location for the element(s).
+\i (00:10:49) pick grid 3.9451 4.0734
+\t (00:10:49) last pick:  4.0640 4.0640
+\i (00:10:49) generaledit 
+\i (00:10:50) prepopup 5.6183 4.4917
+\i (00:10:51) pop dyn_option_select @:@Move 
+\i (00:10:51) move 
+\t (00:10:51) last pick:  5.5880 4.5720
+\t (00:10:51) last pick:  4.0640 4.0640
+\t (00:10:51) Pick new location for the element(s).
+\i (00:10:53) pick grid 0.0234 3.1322
+\t (00:10:53) last pick:  0.0000 3.0480
+\i (00:10:53) generaledit 
+\i (00:10:53) prepopup 7.0302 5.4330
+\i (00:10:54) pick grid 0.3894 8.7272
+\t (00:10:54) last pick:  0.5080 8.6360
+\i (00:10:55) save 
+\i (00:10:56) fillin yes 
+\t (00:10:56) Symbol 'au-y1007.psm' created.
+\i (00:10:56) generaledit 
+\i (00:11:00) new 
+\i (00:11:15) newdrawfillin "EJ503A.dra" "Package Symbol"
+\t (00:11:15) Starting new design...
+\i (00:11:15) trapsize 20916
+\i (00:11:15) trapsize 20916
+\i (00:11:15) generaledit 
+\i (00:11:18) prmed 
+\i (00:11:19) setwindow form.prmedit
+\i (00:11:19) FORM prmedit design  
+\i (00:11:20) FORM prmedit display  
+\i (00:11:22) FORM prmedit view_grids_button  
+\t (00:11:22) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:11:26) setwindow form.grid
+\i (00:11:26) FORM grid non_etch non_etch_x_grids 0.254 
+\i (00:11:27) FORM grid non_etch non_etch_y_grids 0.254 
+\i (00:11:29) FORM grid all_etch all_etch_x_grids 0.254 
+\i (00:11:29) FORM grid all_etch all_etch_y_grids 0.254 
+\i (00:11:30) FORM grid done  
+\i (00:11:31) setwindow form.prmedit
+\i (00:11:31) FORM prmedit done  
+\i (00:11:31) setwindow pcb
+\i (00:11:31) generaledit 
+\i (00:11:35) prmed 
+\i (00:11:35) setwindow form.prmedit
+\i (00:11:35) FORM prmedit view_grids_button  
+\t (00:11:35) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:11:38) setwindow form.grid
+\i (00:11:38) FORM grid done  
+\i (00:11:38) setwindow form.prmedit
+\i (00:11:38) FORM prmedit cancel  
+\i (00:11:38) setwindow pcb
+\i (00:11:38) generaledit 
+\i (00:12:27) save_as 
+\i (00:12:46) fillin "C:\Users\zq2154\Documents\GitHub\SEA\Cadence\SMA_fabB\pcb_lib\template.dra"
+\i (00:12:46) cd "C:\Users\zq2154\Documents\GitHub\SEA\Cadence\SMA_fabB\pcb_lib"
+\e (00:12:46) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:12:47) generaledit 
+\i (00:12:49) setwindow text
+\i (00:12:49) close
+\i (00:12:59) new 
+\e (00:12:59) Do you want to save the changes you made to C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/template.dra?
+\i (00:13:02) fillin no 
+\i (00:13:14) newdrawfillin "menu_cancel"
+\i (00:13:14) generaledit 
+\i (00:13:17) new 
+\e (00:13:17) Do you want to save the changes you made to C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/template.dra?
+\i (00:13:18) fillin no 
+\i (00:13:26) newdrawfillin "template.brd" "Board"
+\t (00:13:26)     Journal end - Sat Feb 17 18:47:36 2018

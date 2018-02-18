@@ -1,0 +1,2 @@
+Practical Electronics
+https://en.wikibooks.org/wiki/Practical_Electronics/PCB_Layout#Solder_mask_and_silkscreen
