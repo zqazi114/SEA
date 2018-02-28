@@ -2,7 +2,9 @@
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File ".\sma_fabb_lib.olb"
+        (Type "Schematic Library")))
     (NoModify)
     (File ".\sea_fabb.dsn"
       (Type "Schematic Design"))
@@ -12,29 +14,135 @@
     (DOCKING_POSITION "59420"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
-  (PartMRUSelector)
+  (PartMRUSelector
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (FT-201X
+      (FullPartName "FT-201X.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (USBLC6-2SC6
+      (FullPartName "USBLC6-2SC6.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (au-y1007
+      (FullPartName "au-y1007.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("GND_FIELD SIGNAL"
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (B00JVJDEZE
+      (FullPartName "B00JVJDEZE.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TVS"
+      (FullPartName "DIODE TVS.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TLV1117LV33DCYT_1
+      (FullPartName "TLV1117LV33DCYT_1.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
+      (DeviceIndex "0"))
+    (UA78M05CDCY
+      (FullPartName "UA78M05CDCY.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (OS102011MS2QN1_1
+      (FullPartName "OS102011MS2QN1_1.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
+      (DeviceIndex "0"))
+    (EJ503A_0
+      (FullPartName "EJ503A_0.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
+      (DeviceIndex "0"))
+    (OS102011MS2QN1
+      (FullPartName "OS102011MS2QN1.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (TLV1117LV33DCYT
+      (FullPartName "TLV1117LV33DCYT.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (EJ503A
+      (FullPartName "EJ503A.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\zq2154\Documents\GitHub\SEA\Cadence\SMA_fabB\schematic\sea_fabb.dsn")
-      (Path "Design Resources"
-         "C:\Users\zq2154\Documents\GitHub\SEA\Cadence\SMA_fabB\schematic\sea_fabb.dsn"
-         "SCHEMATIC1"))
+      (Path "Design Resources" ".\sea_fabb.dsn")
+      (Path "Design Resources" ".\sea_fabb.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\sma_fabb_lib.olb")
+      (Select "Design Resources" ".\sea_fabb.dsn" "SCHEMATIC1" "4. GPIO"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 987"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 746"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1673 50 588")
-        (Scroll "-292 -7")
-        (Zoom "103")
+        (Placement "44 0 1 -1 -1 -8 -31 52 625 52 469")
+        (Scroll "0 0")
+        (Zoom "76")
         (Occurrence "/"))
       (Path
-         "C:\USERS\ZQ2154\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "1. TITLE BLOCK"))))
+      (Page "2. POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 573 0 417")
+        (Scroll "0 0")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3. USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 156 729 156 573")
+        (Scroll "-6 -23")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4. GPIO")))
+  (MPSSessionName "Zain's Surface"))

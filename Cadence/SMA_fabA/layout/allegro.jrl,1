@@ -1,124 +1,61 @@
-\t (00:00:13) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:00:13)     Journal start - Sat Feb 17 17:18:34 2018
-\t (00:00:13)         Host=ET251PC05 User=zq2154 Pid=7612 CPUs=4
-\t (00:00:13) CmdLine= C:\Users\zq2154\tools\bin\allegro.exe
-\t (00:00:13) 
-   (00:00:13) Loading axlcore.cxt 
-\t (00:00:13) Opening existing design...
-\d (00:00:15) Design opened: C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
-\i (00:00:15) trapsize 6977
-\i (00:00:15) trapsize 7137
-\i (00:00:15) trapsize 7938
-\i (00:00:15) generaledit 
-\i (00:00:20) new 
-\i (01:12:23) newdrawfillin "AU-Y1007.dra" "Package Symbol"
-\t (01:12:23) Starting new design...
-\i (01:12:23) trapsize 15513
-\i (01:12:23) trapsize 15867
-\i (01:12:23) trapsize 20916
-\i (01:12:23) trapsize 20916
-\i (01:12:23) generaledit 
-\i (01:12:25) zoom in 1 
-\i (01:12:25) setwindow pcb
-\i (01:12:25) zoom in -9.6635 -12.7904
-\i (01:12:25) trapsize 10458
-\i (01:12:26) zoom in 1 
-\i (01:12:26) setwindow pcb
-\i (01:12:26) zoom in -9.6635 -12.7904
-\i (01:12:26) trapsize 5229
-\i (01:12:26) zoom in 1 
-\i (01:12:26) setwindow pcb
-\i (01:12:26) zoom in -5.3757 -11.2217
-\i (01:12:26) trapsize 2615
-\i (01:12:26) zoom in 1 
-\i (01:12:26) setwindow pcb
-\i (01:12:26) zoom in -0.7741 2.4261
-\i (01:12:26) trapsize 1307
-\i (01:12:27) zoom in 1 
-\i (01:12:27) setwindow pcb
-\i (01:12:27) zoom in 0.5070 1.4326
-\i (01:12:27) trapsize 654
-\i (01:12:27) zoom out 1 
-\i (01:12:27) setwindow pcb
-\i (01:12:27) zoom out 0.1933 0.8182
-\i (01:12:27) trapsize 1307
-\i (01:12:29) prmed 
-\i (01:12:31) setwindow form.prmedit
-\i (01:12:31) FORM prmedit design  
-\i (01:12:33) FORM prmedit display  
-\i (01:12:34) FORM prmedit view_grids_button  
-\t (01:12:34) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (01:12:40) setwindow form.grid
-\i (01:12:40) FORM grid non_etch non_etch_x_grids 0.254 
-\i (01:12:41) FORM grid non_etch non_etch_y_grids 0.254 
-\i (01:12:43) FORM grid all_etch all_etch_x_grids 0.254 
-\i (01:12:43) FORM grid all_etch all_etch_y_grids 0.254 
-\i (01:12:44) FORM grid done  
-\i (01:12:45) setwindow form.prmedit
-\i (01:12:45) FORM prmedit done  
-\i (01:12:45) setwindow pcb
-\i (01:12:45) generaledit 
-\i (01:13:02) prmed 
-\i (01:13:03) setwindow form.prmedit
-\i (01:13:03) FORM prmedit route  
-\i (01:13:04) FORM prmedit shapes  
-\i (01:13:05) FORM prmedit text  
-\i (01:13:05) FORM prmedit design  
-\i (01:13:06) FORM prmedit display  
-\i (01:13:09) FORM prmedit cancel  
-\i (01:13:09) setwindow pcb
-\i (01:13:09) generaledit 
-\i (01:13:13) enved 
-\i (01:13:13) generaledit 
-\i (01:13:17) setwindow form.prfedit
-\i (01:13:17) FORM prfedit treelist  Display 
-\i (01:13:17) FORM prfedit treelist  'Align Guides' Display 
-\i (01:13:18) FORM prfedit treelist  Cursor Display 
-\i (01:13:18) FORM prfedit treelist  Datatips Display 
-\i (01:13:19) FORM prfedit treelist  Highlight Display 
-\i (01:13:20) FORM prfedit treelist  General Display 
-\i (01:13:22) FORM prfedit treelist  Display 
-\i (01:13:24) FORM prfedit treelist  Paths 
-\i (01:13:26) FORM prfedit treelist  Editor Paths 
-\i (01:13:28) FORM prfedit treelist  Library Paths 
-\i (01:13:30) FORM prfedit padpath  
-\i (01:13:45) FORM prfedit psmpath  
-\i (01:14:00) FORM prfedit treelist  Drawing 
-\i (01:14:05) FORM prfedit treelist  New_design Drawing 
-\i (01:14:10) FORM prfedit allegro_new_units millimeters 
-\e (01:14:23) Range is 0 to 4.
-\e (01:14:26) Range is 0 to 4.
-\e (01:14:36) Range is 0 to 4.
-\i (01:14:46) FORM prfedit done  
-\i (01:14:49) setwindow pcb
-\i (01:14:49) add pin 
-\i (01:14:50) setwindow form.mini
-\i (01:14:50) FORM mini pad_browse  
-\t (01:14:54) No valid name selected.
-\t (01:15:08) No valid name selected.
-\t (01:15:10) No valid name selected.
-\i (01:15:11) fillin "menu_cancel"
-\i (01:15:15) setwindow pcb
-\i (01:15:15) enved 
-\i (01:15:18) setwindow form.prfedit
-\i (01:15:18) FORM prfedit treelist  Paths 
-\i (01:15:19) FORM prfedit treelist  Editor Paths 
-\i (01:15:20) FORM prfedit treelist  Library Paths 
-\i (01:15:21) FORM prfedit padpath  
-\i (01:15:27) fillin "C:/Users/zq2154/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols"
-\i (01:15:29) FORM prfedit apply  
-\i (01:15:30) FORM prfedit done  
-\i (01:15:33) setwindow pcb
-\i (01:15:33) add pin 
-\t (01:15:33) Exiting from Add Pin.
-\i (01:15:34) setwindow form.mini
-\i (01:15:34) FORM mini pad_browse  
-\t (01:15:36) No valid name selected.
-\i (01:15:38) fillin "menu_cancel"
-\i (01:15:39) setwindow pcb
-\i (01:15:39) exit 
-\t (01:15:39) Exiting from Add Pin.
-\e (01:15:39) Do you want to save the changes you made to AU-Y1007.dra?
-\i (01:15:41) fillin yes 
-\e (01:15:42) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\t (01:15:42)     Journal end - Sat Feb 17 18:34:03 2018
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Feb 27 22:01:50 2018
+\t (00:00:02)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=1840 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/AU-Y1007.dra
+\i (00:00:04) trapsize 2396
+\i (00:00:04) trapsize 2447
+\i (00:00:04) trapsize 2447
+\i (00:00:04) generaledit 
+\i (00:00:10) opencd 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/OS102011MS2QN1.dra' 
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 580
+\i (00:00:11) trapsize 593
+\i (00:00:11) trapsize 593
+\d (00:00:11) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/OS102011MS2QN1.dra
+\i (00:00:12) generaledit 
+\i (00:00:15) enved 
+\i (00:00:16) generaledit 
+\i (00:00:20) setwindow form.prfedit
+\i (00:00:20) FORM prfedit treelist  Library Paths 
+\i (00:00:22) FORM prfedit psmpath  
+\i (00:00:24) FORM prfedit done  
+\i (00:00:27) setwindow pcb
+\i (00:00:27) add pin 
+\i (00:00:28) setwindow form.mini
+\i (00:00:28) FORM mini pad_browse  
+\t (00:00:30) No valid name selected.
+\i (00:00:42) fillin "h105p.pad"
+\e (00:00:42) ERROR(SPMHAP-7): Illegal pad name.
+\i (00:00:44) setwindow pcb
+\i (00:00:44) pick grid 1.7895 1.5970
+\t (00:00:44) last pick:  1.7780 1.5240
+\e (00:00:44) ERROR(SPMHAP-2): No padstack specified.
+\i (00:00:46) pick grid 3.0342 2.0001
+\t (00:00:46) last pick:  3.0480 2.0320
+\e (00:00:46) ERROR(SPMHAP-2): No padstack specified.
+\i (00:00:47) setwindow form.mini
+\i (00:00:47) FORM mini pad_browse  
+\t (00:01:01) No valid name selected.
+\i (00:01:08) fillin "menu_cancel"
+\i (00:01:11) setwindow pcb
+\i (00:01:11) enved 
+\i (00:01:20) setwindow form.prfedit
+\i (00:01:20) FORM prfedit searchf template 
+\i (00:01:24) FORM prfedit wizard_template_path  
+\i (00:01:28) FORM prfedit wizard_template_path  
+\i (00:01:39) FORM prfedit done  
+\i (00:01:47) setwindow pcb
+\i (00:01:47) new 
+\t (00:01:47) Exiting from Add Pin.
+\e (00:01:47) Do you want to save the changes you made to OS102011MS2QN1.dra?
+\i (00:01:48) fillin no 
+\i (00:02:02) newdrawfillin "menu_cancel"
+\i (00:02:02) generaledit 
+\i (00:02:03) exit 
+\e (00:02:03) Do you want to save the changes you made to OS102011MS2QN1.dra?
+\i (00:02:04) fillin no 
+\t (00:02:05)     Journal end - Tue Feb 27 22:03:53 2018
