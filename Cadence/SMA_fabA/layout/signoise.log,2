@@ -1,2 +1,4 @@
-INFO: Loaded existing device file 'C:\Users\zq2154\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml'
+ERROR: Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
+ERROR: Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
 INFO: Finished loading SigNoise device libraries
+ERROR: No device library files were opened

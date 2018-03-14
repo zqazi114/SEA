@@ -1,72 +1,76 @@
-\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Tue Feb 27 22:04:09 2018
-\t (00:00:03)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=12468 CPUs=4
-\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:05) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/AU-Y1007.dra
-\i (00:00:05) trapsize 2396
-\i (00:00:05) trapsize 2447
-\i (00:00:05) trapsize 2447
-\i (00:00:06) generaledit 
-\i (00:00:09) enved 
-\i (00:00:10) generaledit 
-\i (00:00:13) setwindow form.prfedit
-\i (00:00:13) FORM prfedit treelist  Library Paths 
-\i (00:00:14) FORM prfedit modulepath  
-\i (00:00:20) FORM prfedit modulepath  
-\i (00:00:28) fillin "menu_cancel"
-\i (00:00:31) FORM prfedit cancel  
-\i (00:00:34) setwindow pcb
-\i (00:00:34) new 
-\i (00:00:45) newdrawfillin "OS102011MS2QN1.dra" "Package Symbol"
-\t (00:00:45) Starting new design...
-\i (00:00:45) trapsize 18967
-\i (00:00:45) trapsize 18967
-\i (00:00:45) generaledit 
-\i (00:00:50) enved 
-\i (00:00:51) generaledit 
-\i (00:00:54) setwindow form.prfedit
-\i (00:00:54) FORM prfedit padpath  
-\i (00:01:04) FORM prfedit psmpath  
-\i (00:01:13) FORM prfedit done  
-\i (00:01:17) setwindow pcb
-\i (00:01:17) add pin 
-\i (00:01:19) setwindow form.mini
-\i (00:01:19) FORM mini pad_browse  
-\t (00:01:22) No valid name selected.
-\i (00:01:26) fillin "h330.pad"
-\e (00:01:26) ERROR(SPMHAP-7): Illegal pad name.
-\i (00:01:30) setwindow pcb
-\i (00:01:30) add pin 
-\t (00:01:30) Exiting from Add Pin.
-\i (00:01:32) setwindow form.mini
-\i (00:01:32) FORM mini pad_browse  
-\i (00:01:39) fillin "menu_cancel"
-\i (00:01:41) setwindow pcb
-\i (00:01:41) enved 
-\i (00:01:44) setwindow form.prfedit
-\i (00:01:44) FORM prfedit psmpath  
-\i (00:02:02) fillin "C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols"
-\i (00:02:06) FORM prfedit psmpath  
-\i (00:02:12) FORM prfedit padpath  
-\i (00:02:15) FORM prfedit done  
-\i (00:02:17) setwindow pcb
-\i (00:02:17) add pin 
-\t (00:02:17) Exiting from Add Pin.
-\i (00:02:18) setwindow form.mini
-\i (00:02:18) FORM mini pad_browse  
-\t (00:02:20) No valid name selected.
-\i (00:02:22) fillin "menu_cancel"
-\i (00:02:23) setwindow pcb
-\i (00:02:23) save 
-\t (00:02:23) Exiting from Add Pin.
-\i (00:02:32) fillin no 
-\i (00:02:33) fillin "menu_cancel"
-\i (00:02:33) generaledit 
-\i (00:02:34) new 
-\e (00:02:35) Do you want to save the changes you made to OS102011MS2QN1.dra?
-\i (00:02:36) fillin no 
-\i (00:03:02) newdrawfillin "OS102011MS2QN1.dra" "Package Symbol"
-\t (00:03:02)     Journal end - Tue Feb 27 22:07:08 2018
+\t (00:00:04) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Mar 05 13:43:26 2018
+\t (00:00:04)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=10284 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
+\i (00:00:07) trapsize 4643
+\i (00:00:07) trapsize 4742
+\i (00:00:07) trapsize 4742
+\i (00:00:09) generaledit 
+\i (00:00:18) artwork 
+\w (00:00:19) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (00:00:20) fillin confirm
+\i (00:00:21) setwindow form.film_control
+\i (00:00:21) FORM film_control film_control  
+\i (00:00:40) FORM film_control filmtree  DFX 
+\i (00:00:42) FORM film_control filmtree  'BOARD GEOMETRY/OUTLINE' DFX 
+\i (00:00:44) FORM film_control filmtree  DFX 
+\i (00:00:47) FORM film_control undefined_line_width 0.254 
+\i (00:00:52) FORM film_control filmtree 'MULTISEL YES' DFX 
+\i (00:00:53) FORM film_control create  
+\i (00:00:54) fillin yes 
+\t (00:00:54) Checking db records
+\t (00:00:54)     checking for orphans...
+\e (00:00:54) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
+\i (00:00:55) setwindow pcb
+\i (00:00:55) setwindow text
+\i (00:00:55) stick
+\e (00:00:55) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
+\e (00:00:55) No device library files were opened
+\t (00:00:55)     Checked 100 percent
+\t (00:00:55) Done dbdoctor.
+\t (00:00:55) Starting Create artwork films...
+\w (00:00:56) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:00:57) Artwork generated with warnings.
+\i (00:00:58) setwindow text
+\i (00:00:58) close
+\i (00:00:59) setwindow text
+\i (00:00:59) close
+\i (00:01:00) setwindow form.film_control
+\i (00:01:00) FORM film_control ok  
+\i (00:01:01) setwindow pcb
+\i (00:01:01) generaledit 
+\i (00:03:30) artwork 
+\w (00:03:31) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
+\i (00:03:32) fillin confirm
+\i (00:03:32) setwindow form.film_control
+\i (00:03:32) FORM film_control film_control  
+\i (00:03:35) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN 
+\i (00:03:35) FORM film_control filmtree  SILKSCREEN 
+\i (00:03:36) FORM film_control create  
+\i (00:03:38) fillin yes 
+\t (00:03:38) Checking db records
+\t (00:03:38)     checking for orphans...
+\e (00:03:38) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
+\e (00:03:38) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
+\e (00:03:38) No device library files were opened
+\t (00:03:38)     Checked 100 percent
+\t (00:03:38) Done dbdoctor.
+\t (00:03:38) Starting Create artwork films...
+\w (00:03:39) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:03:40) Artwork generated with warnings.
+\i (00:03:45) setwindow pcb
+\i (00:03:45) setwindow text
+\i (00:03:45) close
+\i (00:03:46) setwindow form.film_control
+\i (00:03:46) FORM film_control cancel  
+\i (00:03:46) setwindow pcb
+\i (00:03:46) generaledit 
+\i (00:03:47) exit 
+\e (00:03:47) Do you want to save the changes you made to SMA_fabA.brd?
+\i (00:03:48) fillin no 
+   (00:03:48) Loading signal.cxt 
+\t (00:03:48)     Journal end - Mon Mar 05 13:47:10 2018

@@ -105,7 +105,7 @@
       (Path "Design Resources" ".\sea_fabb.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" ".\sma_fabb_lib.olb")
-      (Select "Design Resources" ".\sea_fabb.dsn" "SCHEMATIC1" "4. GPIO"))
+      (Select "Design Resources" ".\sea_fabb.dsn" "SCHEMATIC1" "3. USB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -138,7 +138,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 156 729 156 573")
-        (Scroll "-6 -23")
+        (Scroll "-152 0")
         (Zoom "76")
         (Occurrence "/"))
       (Path

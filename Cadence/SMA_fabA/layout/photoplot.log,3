@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SMA_fabA.brd                                  )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Mon Mar 05 13:42:17 2018                      )
+(    Date/Time        : Mon Mar 05 13:44:17 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -38,7 +38,7 @@ Results from parameter file ...
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.0000
+  Undefined line width                0.2540
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -47,12 +47,14 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: rectangle or unfilled shape composed 0 width line found at (41.9100 -50.1165)
-           ... ignored.
 
 
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
 
-  APERTURES USED:  NONE
      SMA_DFX_faba created with warnings
 
 
