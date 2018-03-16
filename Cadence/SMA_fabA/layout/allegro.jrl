@@ -1,76 +1,18 @@
-\t (00:00:04) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Mon Mar 05 13:43:26 2018
-\t (00:00:04)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=10284 CPUs=4
-\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:04) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:06) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
-\i (00:00:07) trapsize 4643
-\i (00:00:07) trapsize 4742
-\i (00:00:07) trapsize 4742
-\i (00:00:09) generaledit 
-\i (00:00:18) artwork 
-\w (00:00:19) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:00:20) fillin confirm
-\i (00:00:21) setwindow form.film_control
-\i (00:00:21) FORM film_control film_control  
-\i (00:00:40) FORM film_control filmtree  DFX 
-\i (00:00:42) FORM film_control filmtree  'BOARD GEOMETRY/OUTLINE' DFX 
-\i (00:00:44) FORM film_control filmtree  DFX 
-\i (00:00:47) FORM film_control undefined_line_width 0.254 
-\i (00:00:52) FORM film_control filmtree 'MULTISEL YES' DFX 
-\i (00:00:53) FORM film_control create  
-\i (00:00:54) fillin yes 
-\t (00:00:54) Checking db records
-\t (00:00:54)     checking for orphans...
-\e (00:00:54) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
-\i (00:00:55) setwindow pcb
-\i (00:00:55) setwindow text
-\i (00:00:55) stick
-\e (00:00:55) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
-\e (00:00:55) No device library files were opened
-\t (00:00:55)     Checked 100 percent
-\t (00:00:55) Done dbdoctor.
-\t (00:00:55) Starting Create artwork films...
-\w (00:00:56) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:00:57) Artwork generated with warnings.
-\i (00:00:58) setwindow text
-\i (00:00:58) close
-\i (00:00:59) setwindow text
-\i (00:00:59) close
-\i (00:01:00) setwindow form.film_control
-\i (00:01:00) FORM film_control ok  
-\i (00:01:01) setwindow pcb
-\i (00:01:01) generaledit 
-\i (00:03:30) artwork 
-\w (00:03:31) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:03:32) fillin confirm
-\i (00:03:32) setwindow form.film_control
-\i (00:03:32) FORM film_control film_control  
-\i (00:03:35) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN 
-\i (00:03:35) FORM film_control filmtree  SILKSCREEN 
-\i (00:03:36) FORM film_control create  
-\i (00:03:38) fillin yes 
-\t (00:03:38) Checking db records
-\t (00:03:38)     checking for orphans...
-\e (00:03:38) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
-\e (00:03:38) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
-\e (00:03:38) No device library files were opened
-\t (00:03:38)     Checked 100 percent
-\t (00:03:38) Done dbdoctor.
-\t (00:03:38) Starting Create artwork films...
-\w (00:03:39) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:03:40) Artwork generated with warnings.
-\i (00:03:45) setwindow pcb
-\i (00:03:45) setwindow text
-\i (00:03:45) close
-\i (00:03:46) setwindow form.film_control
-\i (00:03:46) FORM film_control cancel  
-\i (00:03:46) setwindow pcb
-\i (00:03:46) generaledit 
-\i (00:03:47) exit 
-\e (00:03:47) Do you want to save the changes you made to SMA_fabA.brd?
-\i (00:03:48) fillin no 
-   (00:03:48) Loading signal.cxt 
-\t (00:03:48)     Journal end - Mon Mar 05 13:47:10 2018
+\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Mar 14 23:37:57 2018
+\t (00:00:03)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=7368 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
+\i (00:00:05) trapsize 4643
+\i (00:00:05) trapsize 4742
+\i (00:00:05) trapsize 4742
+\i (00:00:06) generaledit 
+\i (00:00:07) open 
+\i (00:00:14) fillin "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\layout\SMA_fabB.brd"
+\i (00:00:14) cd "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\layout"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 4742
+\t (00:00:14)     Journal end - Wed Mar 14 23:38:09 2018

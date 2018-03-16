@@ -1,0 +1,87 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 22:26:14}
+primitive 'CAPACITOR_0603_R_CAPACITOR';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR';
+    JEDEC_TYPE='0603_r';
+    VALUE='CAPACITOR';
+  end_body;
+end_primitive;
+primitive 'COMB_ELECTRODE_COMB_ELECTRODE_F';
+  pin
+    '+':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    '-':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='comb_electrode';
+    JEDEC_TYPE='comb_electrode_full';
+    VALUE='comb_electrode';
+  end_body;
+end_primitive;
+primitive 'MOSFET N_STFW3N150_MOSFET N';
+  pin
+    'GATE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'SOURCE':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'DRAIN':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MOSFET N';
+    JEDEC_TYPE='STFW3N150';
+    VALUE='MOSFET N';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_0603_R_RESISTOR';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='0603_r';
+    VALUE='RESISTOR';
+  end_body;
+end_primitive;
+primitive 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ';
+  pin
+    'VIN+':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'VIN-':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'VOUT+':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'VOUT-':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='B00JVJDEZE';
+    JEDEC_TYPE='B00JVJDEZE';
+    VALUE='B00JVJDEZE';
+  end_body;
+end_primitive;
+END.

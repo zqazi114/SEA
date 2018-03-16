@@ -11,20 +11,102 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
-  (Folder "Outputs")
+    (DOCKING_POSITION "59420")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\layout\allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\SEA_FABB.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Outputs"
+    (File ".\sea_fabb.drc"
+      (Type "Report"))
+    (File "..\layout\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\layout\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\layout\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (comb_electrode
+      (FullPartName "comb_electrode.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\PASSIVE.OLB")
+      (DeviceIndex "0"))
     (RESISTOR
       (FullPartName "RESISTOR.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    (GND
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     (CAP
       (FullPartName "CAP.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PCF8575DW
+      (FullPartName "PCF8575DW.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (VCC_BAR
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -101,11 +183,17 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\sea_fabb.dsn")
-      (Path "Design Resources" ".\sea_fabb.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb\schematic\sea_fabb.dsn")
+      (Path "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb\schematic\sea_fabb.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\sma_fabb_lib.olb")
-      (Select "Design Resources" ".\sea_fabb.dsn" "SCHEMATIC1" "3. USB"))
+      (Path "Design Resources" "Library"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb\schematic\sma_fabb_lib.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb\schematic\sea_fabb.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -127,8 +215,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 573 0 417")
-        (Scroll "0 0")
-        (Zoom "76")
+        (Scroll "0 77")
+        (Zoom "70")
         (Occurrence "/"))
       (Path
          "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
@@ -138,11 +226,14 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 156 729 156 573")
-        (Scroll "-152 0")
-        (Zoom "76")
+        (Scroll "-35 21")
+        (Zoom "70")
         (Occurrence "/"))
       (Path
          "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SEA_FABB.DSN")
       (Schematic "SCHEMATIC1")
       (Page "4. GPIO")))
-  (MPSSessionName "Zain's Surface"))
+  (MPSSessionName "Zain's Surface")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\schematic")
+  (ISPCBBASICLICENSE "false"))

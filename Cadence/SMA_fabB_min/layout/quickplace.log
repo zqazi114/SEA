@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : SMA_fabB.brd                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Thu Mar 15 00:07:22 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U8 / PCF8575DW_PCF8575DW_PCF8575DW / PCF8575DW at (-41.0068 26.7217)
+         Placed symbol:  U6 / FT-201X_1_FT201X_FT-201X / FT201X at (-30.2384 18.5983)
+         Placed symbol:  D2 / USBLC6-2SC6_0_USBLC6-2SC6_USBLC / USBLC6-2SC6 at (-24.8512 13.5183)
+         Placed symbol:  U4 / TLV1117LV33DCYT_2_TLV1117LV33DC / TLV1117LV33DCYT at (-20.4796 13.1117)
+ERROR:   Could not find symbol:  U5 / B00JVJDEZE_B00JVJDEZE_B00JVJDEZ / B00JVJDEZE
+ERROR:   Cannot place symbol:  J5 / AU-Y1007_0_AU-Y1007_AU-Y1007 / AU-Y1007
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  U3 / UA78M05CDCY_0_UA78M05CDCY_UA78M / UA78M05CDCY at (2.2236 13.1117)
+ERROR:   Cannot place symbol:  J4 / OS102011MS2QN1_1_OS102011MS2QN1 / OS102011MS2QN1
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  Q2 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (30.2740 24.4167)
+         Placed symbol:  J3 / EJ503A_0_EJ503A_EJ503A_0 / EJ503A at (-37.2068 44.9399)
+         Placed symbol:  Q7 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (-21.3436 44.6199)
+         Placed symbol:  Q6 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (-1.1404 44.6199)
+         Placed symbol:  Q5 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (19.0628 44.6199)
+         Placed symbol:  Q4 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (-31.5468 64.8231)
+         Placed symbol:  Q3 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (-11.3436 64.8231)
+         Placed symbol:  Q8 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (8.8596 64.8231)
+         Placed symbol:  Q1 / MOSFET N_STFW3N150_STFW3N150 / STFW3N150 at (29.0628 64.8231)
+         Placed symbol:  J12 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (-39.5224 74.1703)
+         Placed symbol:  J13 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (-35.1028 74.1703)
+         Placed symbol:  J6 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (-30.6832 74.1703)
+         Placed symbol:  J7 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (-26.2636 74.1703)
+         Placed symbol:  J8 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (-21.8440 74.1703)
+         Placed symbol:  J9 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (-17.4244 74.1703)
+         Placed symbol:  C10 / CAP_0603_R_47PF / 0603_R at (-14.2748 73.1119)
+         Placed symbol:  C17 / CAP_0603_R_0.1UF / 0603_R at (-10.8712 73.1119)
+         Placed symbol:  C13 / CAP_0603_R_0.1UF / 0603_R at (-7.4676 73.1119)
+         Placed symbol:  J11 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (-2.7940 74.1703)
+         Placed symbol:  J10 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL at (1.6256 74.1703)
+         Placed symbol:  D4 / LED_0603_R_LED / 0603_R at (4.7752 73.1119)
+         Placed symbol:  C6 / CAP_0603_R_0.1UF / 0603_R at (8.1788 73.1119)
+         Placed symbol:  D1 / DIODE TVS_0603_R_DIODE TVS / 0603_R at (11.5824 73.1119)
+         Placed symbol:  C5 / CAP_0603_R_0.33UF / 0603_R at (14.9860 73.1119)
+         Placed symbol:  C8 / CAP_0603_R_1UF / 0603_R at (18.3896 73.1119)
+         Placed symbol:  C16 / CAP_0603_R_1UF / 0603_R at (21.7932 73.1119)
+         Placed symbol:  R12 / RESISTOR_0603_R_1K / 0603_R at (25.1968 73.1119)
+         Placed symbol:  R13 / RESISTOR_0603_R_1K / 0603_R at (28.6004 73.1119)
+         Placed symbol:  R3 / RESISTOR_0603_R_27 / 0603_R at (32.0040 73.1119)
+         Placed symbol:  R4 / RESISTOR_0603_R_27 / 0603_R at (35.4076 73.1119)
+         Placed symbol:  R5 / RESISTOR_0603_R_4.7K / 0603_R at (38.8112 73.1119)
+         Placed symbol:  R6 / RESISTOR_0603_R_10K / 0603_R at (-40.7924 76.8711)
+         Placed symbol:  R7 / RESISTOR_0603_R_10K / 0603_R at (-37.3888 76.8711)
+         Placed symbol:  R8 / RESISTOR_0603_R_10K / 0603_R at (-33.9852 76.8711)
+         Placed symbol:  C12 / CAP_0603_R_4.7UF / 0603_R at (-30.5816 76.8711)
+         Placed symbol:  C9 / CAP_0603_R_47PF / 0603_R at (-27.1780 76.8711)
+         Placed symbol:  C11 / CAP_0603_R_47PF / 0603_R at (-23.7744 76.8711)
+         Placed symbol:  C7 / CAP_0603_R_1UF / 0603_R at (-20.3708 76.8711)
+
+
+Placed 43 of 46 applicable (46 total) symbols.
+
+-----------------------------------------------------------------------
+

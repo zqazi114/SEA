@@ -1,0 +1,470 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 00:00:48 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SEA_FABB_MIN';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C10 'CAP_0603_R_47PF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS4735@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins4735@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins4735@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_0603_R_47PF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS5031@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins5031@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins5031@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_0603_R_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS5455@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins5455@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins5455@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_0603_R_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS5471@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins5471@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins5471@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_0603_R_1UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS9614@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins9614@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins9614@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_0603_R_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS9630@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins9630@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins9630@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_0603_R_0.33UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS2211@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins2211@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins2211@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_0603_R_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS2227@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins2227@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins2227@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0603_R_1UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS2243@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins2243@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins2243@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_0603_R_1UF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS2259@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins2259@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins2259@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_0603_R_47PF':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS4719@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins4719@discrete.\cap.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins4719@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE TVS_0603_R_DIODE TVS':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS2545@DISCRETE.DIODE TVS.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins2545@discrete.\diode tvs.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins2545@discrete.\diode tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'USBLC6-2SC6_0_USBLC6-2SC6_USBLC':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS3921@SEA_FABB.USBLC6-2SC6_0.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins3921@sea_fabb.\usblc6-2sc6_0.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins3921@sea_fabb.\usblc6-2sc6_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_0603_R_LED':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS9598@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins9598@discrete.\led.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins9598@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS13966@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins13966@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins13966@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS14036@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins14036@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins14036@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS14105@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins14105@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins14105@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS14175@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins14175@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins14175@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'EJ503A_0_EJ503A_EJ503A_0':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS1577@SEA_FABB.EJ503A_0.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins1577@sea_fabb.\ej503a_0.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins1577@sea_fabb.\ej503a_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'OS102011MS2QN1_1_OS102011MS2QN1':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS1612@SEA_FABB.OS102011MS2QN1_1.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins1612@sea_fabb.\os102011ms2qn1_1.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins1612@sea_fabb.\os102011ms2qn1_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'AU-Y1007_0_AU-Y1007_AU-Y1007':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS3884@SEA_FABB.AU-Y1007_0.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins3884@sea_fabb.\au-y1007_0.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins3884@sea_fabb.\au-y1007_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS13655@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins13655@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins13655@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS13768@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins13768@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins13768@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS13833@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins13833@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins13833@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS13899@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins13899@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins13899@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS8968@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins8968@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins8968@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS10233@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins10233@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins10233@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS10369@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins10369@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins10369@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS10682@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins10682@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins10682@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS11073@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins11073@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins11073@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS11091@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins11091@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins11091@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS11119@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins11119@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins11119@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'MOSFET N_STFW3N150_STFW3N150':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS11157@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins11157@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins11157@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_0603_R_1K':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS9582@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins9582@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins9582@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_0603_R_1K':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS9750@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins9750@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins9750@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_0603_R_27':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS4591@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins4591@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins4591@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_0603_R_27':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS4607@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins4607@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins4607@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_0603_R_4.7K':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS4868@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins4868@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins4868@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_0603_R_10K':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS4884@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins4884@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins4884@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_0603_R_10K':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS5667@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins5667@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins5667@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_0603_R_10K':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS5693@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins5693@discrete.\resistor.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins5693@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'UA78M05CDCY_0_UA78M05CDCY_UA78M':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS1649@SEA_FABB.UA78M05CDCY_0.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins1649@sea_fabb.\ua78m05cdcy_0.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins1649@sea_fabb.\ua78m05cdcy_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'TLV1117LV33DCYT_2_TLV1117LV33DC':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS1690@SEA_FABB.TLV1117LV33DCYT_2.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins1690@sea_fabb.\tlv1117lv33dcyt_2.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins1690@sea_fabb.\tlv1117lv33dcyt_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS3414@SMA_FABB_LIB.B00JVJDEZE.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins3414@sma_fabb_lib.\b00jvjdeze.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins3414@sma_fabb_lib.\b00jvjdeze.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'FT-201X_1_FT-201X_FT-201X':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS3982@SEA_FABB.FT-201X_1.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins3982@sea_fabb.\ft-201x_1.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins3982@sea_fabb.\ft-201x_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'PCF8575DW_PCF8575DW_PCF8575DW':;
+
+SECTION_NUMBER 1
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS9654@SMA_FABB_LIB.PCF8575DW.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins9654@sma_fabb_lib.\pcf8575dw.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins9654@sma_fabb_lib.\pcf8575dw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

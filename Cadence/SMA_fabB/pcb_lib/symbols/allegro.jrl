@@ -1,18 +1,15 @@
-\t (00:00:07) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:00:07)     Journal start - Fri Mar 02 10:13:11 2018
-\t (00:00:07)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=8736 CPUs=4
-\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:07) 
-   (00:00:07) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\d (00:00:08) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols/OS102011MS2QN1.dra
-\i (00:00:08) trapsize 580
-\i (00:00:08) trapsize 593
-\i (00:00:08) trapsize 593
-\i (00:00:09) generaledit 
-\i (00:00:29) opencd 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/OS102011MS2QN1.dra' 
-\t (00:00:29) Opening existing design...
-\i (00:00:29) trapsize 580
-\i (00:00:29) trapsize 593
-\i (00:00:29) trapsize 593
-\t (00:00:30)     Journal end - Fri Mar 02 10:13:34 2018
+\t (00:15:24) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:15:24)     Journal start - Thu Mar 15 22:51:11 2018
+\t (00:15:24)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=12748 CPUs=4
+\t (00:15:24) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:15:24) 
+\d (00:15:24) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols/B00JVJDEZE.dra
+\i (00:15:25) generaledit 
+\i (00:15:28) open 
+\i (00:15:36) fillin "C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols\B00JVJDEZE.dra"
+\i (00:15:36) cd "C:\Cadence\SPB_17.2\share\pcb\pcb_lib\symbols"
+\t (00:15:36) Opening existing design...
+\i (00:15:36) trapsize 1161
+\i (00:15:37) trapsize 1185
+\i (00:15:37) trapsize 1185
+\t (00:15:37)     Journal end - Thu Mar 15 22:51:24 2018

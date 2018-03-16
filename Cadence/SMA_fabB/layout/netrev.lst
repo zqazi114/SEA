@@ -1,0 +1,188 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : SMA_fabB.brd                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Wed Mar 14 23:39:18 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro'
+Design Directory:            'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout'
+Old design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd'
+New design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd'
+
+CmdLine: netrev -$ -i C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/#Taaaaae07368.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro/pstchip.dat 
+   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro/pstchip.dat (00:00:00.09)
+Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro/pstxprt.dat 
+   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro/pstxnet.dat 
+   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes C10 for device 'CAP_0603_R_47PF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes C12 for device 'CAP_0603_R_4.7UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes C13 for device 'CAP_0603_R_0.1UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes C16 for device 'CAP_0603_R_1UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes C5 for device 'CAP_0603_R_0.33UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes D1 for device 'DIODE TVS_0603_R_DIODE TVS' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'USBLC6-2SC6' used by RefDes D2 for device 'USBLC6-2SC6_0_USBLC6-2SC6_USBLC' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes D4 for device 'LED_0603_R_LED' not found in PSMPATH or must be "dbdoctor"ed.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'COMB_ELECTRODE_FULL' used by RefDes J10 for device 'COMB_ELECTRODE_COMB_ELECTRODE_F' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'EJ503A' used by RefDes J3 for device 'EJ503A_0_EJ503A_EJ503A_0' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'OS102011MS2QN1' used by RefDes J4 for device 'OS102011MS2QN1_1_OS102011MS2QN1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'AU-Y1007' used by RefDes J5 for device 'AU-Y1007_0_AU-Y1007_AU-Y1007' not found in PSMPATH or must be "dbdoctor"ed.
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'STFW3N150' used by RefDes Q1 for device 'MOSFET N_STFW3N150_STFW3N150' not found in PSMPATH or must be "dbdoctor"ed.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes R1 for device 'POT_0603_R_POT' not found in PSMPATH or must be "dbdoctor"ed.
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes R11 for device 'RESISTOR_0603_R_RESISTOR' not found in PSMPATH or must be "dbdoctor"ed.
+
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes R12 for device 'RESISTOR_0603_R_1K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes R3 for device 'RESISTOR_0603_R_27' not found in PSMPATH or must be "dbdoctor"ed.
+
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes R5 for device 'RESISTOR_0603_R_4.7K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol '0603_R' used by RefDes R6 for device 'RESISTOR_0603_R_10K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'UA78M05CDCY' used by RefDes U3 for device 'UA78M05CDCY_0_UA78M05CDCY_UA78M' not found in PSMPATH or must be "dbdoctor"ed.
+
+#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'TLV1117LV33DCYT' used by RefDes U4 for device 'TLV1117LV33DCYT_2_TLV1117LV33DC' not found in PSMPATH or must be "dbdoctor"ed.
+
+#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'B00JVJDEZE' used by RefDes U5 for device 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ' not found in PSMPATH or must be "dbdoctor"ed.
+
+#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'FT-201X' used by RefDes U6 for device 'FT-201X_1_FT-201X_FT-201X' not found in PSMPATH or must be "dbdoctor"ed.
+
+#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'PCF8575DW' used by RefDes U8 for device 'PCF8575DW_PCF8575DW_PCF8575DW' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 14 23:39:18 2018
+   DESIGN NAME : 'SEA_FABB'
+   PACKAGING ON Jul 30 2017 03:29:02
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 24 warnings detected
+
+cpu time      0:00:59
+elapsed time  0:00:00
+

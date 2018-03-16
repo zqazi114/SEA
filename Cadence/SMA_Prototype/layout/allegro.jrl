@@ -1,0 +1,277 @@
+\t (00:15:56) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:15:56)     Journal start - Thu Mar 15 22:51:44 2018
+\t (00:15:56)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=12748 CPUs=4
+\t (00:15:56) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:15:56) 
+\d (00:15:56) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype.brd
+\i (00:15:58) generaledit 
+\i (00:16:00) zoom out 1 
+\i (00:16:00) setwindow pcb
+\i (00:16:00) zoom out 1196.485 -2266.315
+\i (00:16:00) trapsize 19635
+\i (00:16:01) zoom in 1 
+\i (00:16:01) setwindow pcb
+\i (00:16:01) zoom in 1369.270 -2890.702
+\i (00:16:01) trapsize 9817
+\i (00:16:01) zoom in 1 
+\i (00:16:01) setwindow pcb
+\i (00:16:01) zoom in 1369.271 -2890.701
+\i (00:16:01) trapsize 4909
+\i (00:16:02) zoom out 1 
+\i (00:16:02) setwindow pcb
+\i (00:16:02) zoom out 1419.340 -2843.578
+\i (00:16:02) trapsize 9817
+\i (00:16:06) prepopup 1464.499 -2747.367
+\i (00:16:09) netin 
+\i (00:16:10) setwindow form.niparams
+\i (00:16:10) FORM niparams import  
+\t (00:16:10) Starting Cadence Logic Import...
+\t (00:16:11) Opening existing design...
+\i (00:16:11) setwindow pcb
+\i (00:16:11) trapsize 9817
+\i (00:16:12) generaledit 
+\i (00:16:23) prepopup 1468.426 -2924.080
+\i (00:16:29) pop dyn_option_select '@:@Unplace component' 
+\i (00:16:29) unplace component 
+\i (00:16:29) generaledit 
+\i (00:16:32) done 
+\i (00:16:32) place manual 
+\i (00:16:32) FORM plc_manual placement_list 
+\i (00:16:32) FORM plc_manual categories Components by refdes 
+\i (00:16:32) trapsize 9817
+\i (00:16:34) setwindow form.plc_manual
+\i (00:16:34) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\w (00:16:34) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:16:34) Placing U1 / B00JVJDEZE_B00JVJDEZE_B00JVJDEZ / B00JVJDEZE on Top.
+\i (00:16:34) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:16:45) setwindow pcb
+\i (00:16:45) pick grid 1548.929 -2643.302
+\t (00:16:45) last pick:  1500.000 -2600.000
+\i (00:16:47) pick grid 2114.411 -3283.397
+\t (00:16:47) last pick:  2100.000 -3300.000
+\i (00:16:48) zoom out 1 
+\i (00:16:48) setwindow pcb
+\i (00:16:48) zoom out 2344.138 -3041.889
+\i (00:16:48) trapsize 19635
+\i (00:16:49) zoom in 1 
+\i (00:16:49) setwindow pcb
+\i (00:16:49) zoom in 2230.256 -3018.327
+\i (00:16:49) trapsize 9817
+\i (00:16:50) pick grid 1931.807 -2201.519
+\t (00:16:50) last pick:  1900.000 -2200.000
+\i (00:16:51) prepopup 1802.217 -2185.812
+\i (00:16:51) done 
+\i (00:16:51) generaledit 
+\i (00:16:55) drag_start grid 2190.986 -2592.252
+\i (00:16:55) move 
+\t (00:16:55) last pick:  1500.000 -2600.000
+\t (00:16:55) Moving U1 / B00JVJDEZE_B00JVJDEZE_B00JVJDEZ / B00JVJDEZE.
+\t (00:16:55) Pick new location for the element(s).
+\i (00:16:58) drag_stop grid 1533.221 -2641.339
+\i (00:16:59) generaledit 
+\i (00:17:00) pick grid 2363.772 -3053.669
+\t (00:17:00) last pick:  2400.000 -3100.000
+\i (00:17:04) setwindow form.find
+\i (00:17:04) FORM find all_on  
+\i (00:17:06) FORM find all_off  
+\i (00:17:07) FORM find clines YES 
+\i (00:17:08) setwindow pcb
+\i (00:17:08) prepopup 1629.431 -2068.003
+\i (00:17:09) pop dyn_option_select @:@Delete 
+\i (00:17:09) delete 
+\i (00:17:10) generaledit 
+\i (00:17:10) prepopup 2281.306 -2878.920
+\i (00:17:12) pop dyn_option_select @:@Delete 
+\i (00:17:12) delete 
+\i (00:17:12) generaledit 
+\i (00:17:14) add connect 
+\t (00:17:15) Pick first element.
+\i (00:17:16) add connect 
+\t (00:17:16) Pick first element.
+\i (00:17:19) setwindow form.mini
+\i (00:17:19) FORM mini acon_line_width 30 
+\i (00:17:21) setwindow pcb
+\i (00:17:21) pick grid 1743.313 -1610.512
+\t (00:17:21) last pick:  1750.000 -1600.000
+\t (00:17:21) last pick:  1750.000 -1550.394
+\t (00:17:21) Target Symbol Pin is defined on TOP.
+\t (00:17:21) last pick:  1750.000 -1550.394
+\i (00:17:22) mouse_pos 2037.835 -2407.685
+\i (00:17:23) mouse_pos 2061.397 -2384.123
+\i (00:17:25) pick grid 2088.885 -2219.191
+\t (00:17:25) last pick:  2100.000 -2225.000
+\t (00:17:25) No DRC errors detected.
+\i (00:17:25) mouse_pos 2100.666 -2390.013
+\i (00:17:26) pick grid 2100.666 -2439.100
+\t (00:17:26) last pick:  2100.000 -2450.000
+\t (00:17:26) No DRC errors detected.
+\t (00:17:26) Pick first element.
+\i (00:17:29) pick grid 2536.559 -2878.920
+\t (00:17:29) last pick:  2525.000 -2875.000
+\t (00:17:29) Pick first element.
+\t (00:17:29) Target Symbol Pin is defined on TOP.
+\t (00:17:29) last pick:  2525.000 -2875.000
+\i (00:17:30) mouse_pos 2149.753 -2843.577
+\i (00:17:31) mouse_pos 2167.425 -2837.687
+\i (00:17:31) mouse_pos 2161.534 -2867.139
+\i (00:17:32) mouse_pos 2165.461 -2859.285
+\i (00:17:33) mouse_pos 2161.534 -2855.358
+\i (00:17:33) mouse_pos 2163.498 -2857.321
+\i (00:17:34) pick grid 2187.059 -2853.395
+\t (00:17:34) last pick:  2175.000 -2850.000
+\t (00:17:34) No DRC errors detected.
+\i (00:17:34) mouse_pos 2187.059 -2853.395
+\i (00:17:34) mouse_pos 2159.571 -2841.614
+\i (00:17:35) pick grid 2112.447 -2808.235
+\t (00:17:36) last pick:  2100.000 -2800.000
+\t (00:17:36) No DRC errors detected.
+\t (00:17:36) Pick first element.
+\i (00:17:36) pick grid 2092.812 -2804.308
+\t (00:17:36) last pick:  2100.000 -2800.000
+\t (00:17:36) Pick first element.
+\t (00:17:36) Target Symbol Pin is defined on TOP.
+\t (00:17:36) last pick:  2100.000 -2800.000
+\i (00:17:37) mouse_pos 1558.746 -2804.308
+\i (00:17:38) pick grid 1488.061 -2790.563
+\t (00:17:38) last pick:  1500.000 -2800.000
+\t (00:17:38) No DRC errors detected.
+\t (00:17:38) Pick first element.
+\i (00:17:38) prepopup 997.191 -2637.412
+\i (00:17:39) done 
+\i (00:17:39) generaledit 
+\i (00:17:42) setwindow form.find
+\i (00:17:42) FORM find symbols YES 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) prepopup 1001.118 -1973.756
+\i (00:17:44) pop dyn_option_select @:@Spin 
+\i (00:17:44) spin 
+\t (00:17:44) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\i (00:17:46) iangle 180.000
+\t (00:17:46) last angle:  90.000 Degrees
+\i (00:17:46) generaledit 
+\i (00:17:47) drag_start grid 1034.497 -1914.851
+\i (00:17:47) move 
+\t (00:17:48) last pick:  975.000 -1950.000
+\t (00:17:48) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:17:48) Pick new location for the element(s).
+\i (00:17:49) drag_stop grid 1173.904 -2058.185
+\i (00:17:49) generaledit 
+\i (00:17:50) pick grid 439.563 -2003.208
+\t (00:17:50) last pick:  450.000 -2000.000
+\i (00:17:51) zoom out 1 
+\i (00:17:51) setwindow pcb
+\i (00:17:51) zoom out 1652.993 -1977.683
+\i (00:17:51) trapsize 19635
+\i (00:17:53) drag_start grid 1244.589 -2009.098
+\i (00:17:53) move 
+\t (00:17:53) last pick:  1175.000 -2050.000
+\t (00:17:53) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:17:53) Pick new location for the element(s).
+\i (00:17:55) drag_stop grid 1044.314 -2001.244
+\i (00:17:55) generaledit 
+\i (00:17:55) pick grid 1495.915 -2032.660
+\t (00:17:55) last pick:  1500.000 -2025.000
+\i (00:17:56) add connect 
+\t (00:17:57) Pick first element.
+\i (00:17:58) pick grid 1484.134 -2468.552
+\t (00:17:58) last pick:  1475.000 -2475.000
+\t (00:17:58) last pick:  1500.000 -2500.000
+\t (00:17:58) Target Symbol Pin is defined on TOP.
+\t (00:17:58) last pick:  1500.000 -2500.000
+\i (00:17:58) mouse_pos 1103.219 -2083.710
+\i (00:18:00) mouse_pos 1036.460 -2122.980
+\i (00:18:01) pick grid 1040.387 -2138.688
+\t (00:18:01) last pick:  1050.000 -2150.000
+\t (00:18:01) No DRC errors detected.
+\i (00:18:01) mouse_pos 1048.241 -2107.272
+\i (00:18:01) pick grid 1048.241 -2060.149
+\t (00:18:01) last pick:  1050.000 -2050.000
+\t (00:18:01) No DRC errors detected.
+\t (00:18:01) Pick first element.
+\i (00:18:02) pick grid 1044.314 -1910.924
+\t (00:18:02) last pick:  1050.000 -1900.000
+\t (00:18:02) Pick first element.
+\t (00:18:02) Target Symbol Pin is defined on TOP.
+\t (00:18:02) last pick:  1050.000 -1900.000
+\i (00:18:03) mouse_pos 1570.527 -1349.369
+\i (00:18:03) mouse_pos 1558.746 -1329.734
+\i (00:18:04) pick grid 1437.010 -1231.560
+\t (00:18:04) last pick:  1425.000 -1225.000
+\t (00:18:04) No DRC errors detected.
+\i (00:18:04) mouse_pos 1570.527 -1223.707
+\i (00:18:05) pick grid 1813.998 -1215.853
+\t (00:18:05) last pick:  1825.000 -1225.000
+\t (00:18:05) No DRC errors detected.
+\t (00:18:05) Pick first element.
+\i (00:18:06) prepopup 631.984 -1321.880
+\i (00:18:06) done 
+\i (00:18:07) generaledit 
+\i (00:18:07) zoom out 1 
+\i (00:18:07) setwindow pcb
+\i (00:18:07) zoom out 1582.308 -2358.598
+\i (00:18:07) trapsize 39270
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in 2493.362 -1530.880
+\i (00:18:08) trapsize 19635
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in 2147.790 -2115.997
+\i (00:18:10) trapsize 9817
+\i (00:18:11) zoom out 1 
+\i (00:18:11) setwindow pcb
+\i (00:18:11) zoom out 2155.644 -2100.289
+\i (00:18:11) trapsize 19635
+\i (00:18:11) roam start
+\i (00:18:12) roam x -16
+\i (00:18:12) roam y 16
+\i (00:18:12) roam x -16
+\i (00:18:12) roam x -16
+\i (00:18:12) roam y 16
+\i (00:18:12) roam x -32
+\i (00:18:12) roam y 16
+\i (00:18:12) roam x -32
+\i (00:18:12) roam y 32
+\i (00:18:12) roam x -64
+\i (00:18:12) roam y 32
+\i (00:18:12) roam x -80
+\i (00:18:12) roam y 32
+\i (00:18:12) roam end
+\i (00:18:13) zoom in 1 
+\i (00:18:13) setwindow pcb
+\i (00:18:13) zoom in 2748.407 -1825.402
+\i (00:18:13) trapsize 9817
+\i (00:18:13) zoom out 1 
+\i (00:18:13) setwindow pcb
+\i (00:18:13) zoom out 2748.407 -1825.402
+\i (00:18:13) trapsize 19635
+\i (00:18:15) save 
+\i (00:18:16) fillin yes 
+\i (00:18:16) generaledit 
+\i (00:18:29) dxf out 
+\i (00:18:33) setwindow form.dxf_out
+\i (00:18:33) FORM dxf_out close  
+\i (00:18:33) setwindow pcb
+\i (00:18:33) generaledit 
+\i (00:18:36) prmed 
+\i (00:18:38) setwindow form.prmedit
+\i (00:18:38) FORM prmedit cancel  
+\i (00:18:38) setwindow pcb
+\i (00:18:38) generaledit 
+\i (00:18:42) dxf out 
+\i (00:18:53) setwindow form.dxf_out
+\i (00:18:53) FORM dxf_out browsedxf  
+\i (00:19:00) fillin "SMA_Prototype.dxf"
+\i (00:19:07) FORM dxf_out execute  
+\i (00:19:34) FORM dxf_out browselayer  
+\i (00:19:36) fillin "brd_to_dxf.cnv"
+\i (00:19:37) FORM dxf_out execute  
+\t (00:19:37) Starting DxfFile...
+\t (00:19:39) Translation complete. See logfile (using File->ViewLog).
+\i (00:19:43) FORM dxf_out close  
+\i (00:19:43) setwindow pcb
+\i (00:19:43) generaledit 
+\i (00:19:44) exit 
+\e (00:19:45) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype.brd?
+\i (00:19:46) fillin yes 
+\t (00:19:47)     Journal end - Thu Mar 15 22:55:34 2018

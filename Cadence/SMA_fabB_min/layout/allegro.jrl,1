@@ -1,0 +1,296 @@
+\t (09:43:17) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (09:43:17)     Journal start - Thu Mar 15 19:18:58 2018
+\t (09:43:17)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=3856 CPUs=4
+\t (09:43:17) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (09:43:17) 
+\d (09:43:17) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd
+\i (09:43:19) generaledit 
+\i (09:43:42) done 
+\i (09:43:43) place manual 
+\i (09:43:44) FORM plc_manual placement_list 
+\i (09:43:44) FORM plc_manual categories Components by refdes 
+\i (09:43:44) trapsize 4861
+\i (09:43:46) setwindow form.plc_manual
+\i (09:43:46) FORM plc_manual tree 'MULTISEL YES' J5 'Components by refdes' 
+\t (09:43:46) Placing J5 / AU-Y1007_0_AU-Y1007_AU-Y1007 / AU-Y1007 on Top.
+\i (09:43:46) FORM plc_manual tree  J5 'Components by refdes' 
+\i (09:43:47) setwindow pcb
+\i (09:43:47) zoom in 1 
+\i (09:43:47) setwindow pcb
+\i (09:43:47) zoom in -13.0219 -53.5905
+\i (09:43:47) trapsize 2430
+\i (09:43:48) zoom out 1 
+\i (09:43:48) setwindow pcb
+\i (09:43:48) zoom out -12.0984 -50.7712
+\i (09:43:48) trapsize 4861
+\i (09:43:54) pick grid -16.3757 -52.8128
+\t (09:43:54) last pick:  -16.2560 -52.9365
+\i (09:44:02) setwindow form.plc_manual
+\i (09:44:02) FORM plc_manual tree 'MULTISEL YES' D2 'Components by refdes' 
+\t (09:44:02) Placing D2 / USBLC6-2SC6_0_USBLC6-2SC6_USBLC / USBLC6-2SC6 on Top.
+\i (09:44:02) FORM plc_manual tree  D2 'Components by refdes' 
+\i (09:44:04) setwindow pcb
+\i (09:44:04) zoom in 1 
+\i (09:44:04) setwindow pcb
+\i (09:44:04) zoom in -18.7089 -49.7019
+\i (09:44:04) trapsize 2430
+\i (09:44:04) zoom in 1 
+\i (09:44:05) setwindow pcb
+\i (09:44:05) zoom in -18.2228 -48.5353
+\i (09:44:05) trapsize 1215
+\i (09:44:05) prepopup -16.8375 -47.5631
+\i (09:44:08) rotate 
+\t (09:44:08) Spin the element(s).
+\i (09:44:24) zoom in 1 
+\i (09:44:24) setwindow pcb
+\i (09:44:24) zoom in -13.0704 -53.2501
+\i (09:44:24) trapsize 608
+\i (09:44:26) iangle -90.000
+\t (09:44:26) last angle:  +270.000 Degrees
+\i (09:44:34) roam start
+\i (09:44:34) roam x -16
+\i (09:44:34) roam y 96
+\i (09:44:34) roam x -16
+\i (09:44:34) roam y 48
+\i (09:44:35) roam y 16
+\i (09:44:35) roam y 16
+\i (09:44:35) roam x -16
+\i (09:44:35) roam y 16
+\i (09:44:35) roam end
+\i (09:44:49) prepopup -14.9145 -47.0978
+\i (09:44:50) rotate 
+\t (09:44:50) Spin the element(s).
+\i (09:44:53) iangle 90.000
+\t (09:44:53) last angle:  +90.000 Degrees
+\i (09:45:02) prepopup -13.8816 -48.9813
+\i (09:45:05) rotate 
+\t (09:45:05) Spin the element(s).
+\i (09:45:06) iangle 0.000
+\t (09:45:06) last angle:  +0.000 Degrees
+\i (09:45:10) zoom out 1 
+\i (09:45:10) setwindow pcb
+\i (09:45:10) zoom out -15.8502 -48.2765
+\i (09:45:10) trapsize 1215
+\i (09:45:13) pick grid -15.8746 -47.9363
+\t (09:45:13) last pick:  -15.7480 -47.8565
+\i (09:45:14) prepopup -11.1110 -48.7383
+\i (09:45:15) done 
+\i (09:45:15) generaledit 
+\i (09:45:28) zoom out 1 
+\i (09:45:28) setwindow pcb
+\i (09:45:28) zoom out -11.1596 -58.0710
+\i (09:45:28) trapsize 2430
+\i (09:45:28) zoom out 1 
+\i (09:45:28) setwindow pcb
+\i (09:45:28) zoom out -11.1597 -57.1960
+\i (09:45:28) trapsize 4861
+\i (09:45:31) done 
+\i (09:45:31) place manual 
+\i (09:45:32) FORM plc_manual placement_list 
+\i (09:45:32) FORM plc_manual categories Components by refdes 
+\i (09:45:32) trapsize 4861
+\i (09:45:34) setwindow form.plc_manual
+\i (09:45:34) FORM plc_manual tree 'MULTISEL YES' U6 'Components by refdes' 
+\t (09:45:34) Placing U6 / FT-201X_1_FT201X_FT-201X / FT201X on Top.
+\i (09:45:34) FORM plc_manual tree  U6 'Components by refdes' 
+\i (09:45:35) FORM plc_manual tree 'MULTISEL YES' U8 'Components by refdes' 
+\i (09:45:35) FORM plc_manual tree  U8 'Components by refdes' 
+\i (09:45:36) setwindow pcb
+\i (09:45:36) zoom in 1 
+\i (09:45:36) setwindow pcb
+\i (09:45:36) zoom in -2.5075 -52.2380
+\i (09:45:36) trapsize 2430
+\i (09:45:37) zoom in 1 
+\i (09:45:37) setwindow pcb
+\i (09:45:37) zoom in -2.5075 -52.2380
+\i (09:45:37) trapsize 1215
+\i (09:45:37) zoom out 1 
+\i (09:45:37) setwindow pcb
+\i (09:45:37) zoom out -2.5561 -52.1651
+\i (09:45:37) trapsize 2430
+\i (09:45:41) prepopup -1.8756 -49.3459
+\i (09:45:42) rotate 
+\t (09:45:42) Spin the element(s).
+\i (09:45:44) iangle -90.000
+\t (09:45:44) last angle:  +270.000 Degrees
+\i (09:45:52) pick grid 4.4434 -56.6856
+\t (09:45:52) last pick:  4.3180 -56.7465
+\t (09:45:52) Placing U8 / PCF8575DW_PCF8575DW_PCF8575DW / PCF8575DW on Top.
+\i (09:45:54) zoom out 1 
+\i (09:45:54) setwindow pcb
+\i (09:45:54) zoom out 15.8661 -46.4780
+\i (09:45:54) trapsize 4861
+\i (09:46:00) pick grid 14.4080 -46.8668
+\t (09:46:00) last pick:  14.4780 -46.8405
+\i (09:46:06) setwindow form.plc_manual
+\i (09:46:06) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\e (09:46:06) Cannot load symbol 'B00JVJDEZE'
+\i (09:46:06) FORM plc_manual tree  U5 'Components by refdes' 
+\i (09:46:15) FORM plc_manual done  
+\i (09:46:15) setwindow pcb
+\i (09:46:15) generaledit 
+\i (09:46:17) pick grid -71.3358 -48.6167
+\t (09:46:17) last pick:  -71.3740 -48.6185
+\i (09:46:17) prepopup -70.5580 -45.2142
+\i (09:46:18) pick grid -65.6001 -38.1175
+\t (09:46:18) last pick:  -65.5320 -38.2045
+\i (09:46:19) zoom out 1 
+\i (09:46:19) setwindow pcb
+\i (09:46:19) zoom out -8.0487 -54.0608
+\i (09:46:19) trapsize 9722
+\i (09:46:21) zoom out 1 
+\i (09:46:21) setwindow pcb
+\i (09:46:21) zoom out 2.0132 -48.2278
+\i (09:46:21) trapsize 18034
+\i (09:46:22) zoom in 1 
+\i (09:46:22) setwindow pcb
+\i (09:46:22) zoom in -13.5289 -29.1725
+\i (09:46:22) trapsize 9017
+\i (09:46:23) zoom in 1 
+\i (09:46:23) setwindow pcb
+\i (09:46:23) zoom in -12.8075 -26.4673
+\i (09:46:23) trapsize 4508
+\i (09:46:24) roam start
+\i (09:46:24) roam x -16
+\i (09:46:24) roam y 64
+\i (09:46:24) roam x -64
+\i (09:46:24) roam y 48
+\i (09:46:24) roam x -48
+\i (09:46:24) roam y 32
+\i (09:46:24) roam x -32
+\i (09:46:24) roam x -32
+\i (09:46:24) roam x -16
+\i (09:46:24) roam x -80
+\i (09:46:24) roam x -32
+\i (09:46:24) roam y -16
+\i (09:46:24) roam x -16
+\i (09:46:25) roam end
+\i (09:46:26) zoom out 1 
+\i (09:46:26) setwindow pcb
+\i (09:46:26) zoom out -21.4639 -37.1075
+\i (09:46:26) trapsize 9017
+\i (09:49:17) zoom in 1 
+\i (09:49:18) setwindow pcb
+\i (09:49:18) zoom in 3.4230 -61.2730
+\i (09:49:18) trapsize 4508
+\i (09:49:18) zoom in 1 
+\i (09:49:18) setwindow pcb
+\i (09:49:18) zoom in -32.1940 -65.4207
+\i (09:49:18) trapsize 2254
+\i (09:49:20) roam start
+\i (09:49:20) roam x -96
+\i (09:49:20) roam y -16
+\i (09:49:20) roam y -16
+\i (09:49:20) roam x -32
+\i (09:49:21) roam y -16
+\i (09:49:21) roam x 144
+\i (09:49:21) roam y -48
+\i (09:49:21) roam x 176
+\i (09:49:21) roam y -32
+\i (09:49:21) roam x 80
+\i (09:49:21) roam y -32
+\i (09:49:21) roam x 16
+\i (09:49:21) roam y -16
+\i (09:49:21) roam x 16
+\i (09:49:21) roam x 16
+\i (09:49:21) roam y -16
+\i (09:49:22) roam x -16
+\i (09:49:22) roam x -32
+\i (09:49:22) roam x -16
+\i (09:49:22) roam x -32
+\i (09:49:22) roam x -16
+\i (09:49:22) roam y 16
+\i (09:49:22) roam y 16
+\i (09:49:22) roam y 16
+\i (09:49:23) roam x 16
+\i (09:49:23) roam x 16
+\i (09:49:23) roam y 32
+\i (09:49:23) roam x 16
+\i (09:49:23) roam y 16
+\i (09:49:23) roam x 16
+\i (09:49:23) roam x 48
+\i (09:49:23) roam y 16
+\i (09:49:23) roam x 80
+\i (09:49:23) roam end
+\i (09:49:24) zoom in 1 
+\i (09:49:24) setwindow pcb
+\i (09:49:24) zoom in -20.6073 -60.4164
+\i (09:49:24) trapsize 1127
+\i (09:49:25) zoom out 1 
+\i (09:49:25) setwindow pcb
+\i (09:49:25) zoom out -19.0519 -59.3794
+\i (09:49:25) trapsize 2254
+\i (09:52:54) zoom in 1 
+\i (09:52:54) setwindow pcb
+\i (09:52:54) zoom in -18.4657 -53.9241
+\i (09:52:54) trapsize 1127
+\i (09:52:55) zoom out 1 
+\i (09:52:55) setwindow pcb
+\i (09:52:55) zoom out -17.6993 -53.8790
+\i (09:52:55) trapsize 2254
+\i (09:52:55) zoom in 1 
+\i (09:52:55) setwindow pcb
+\i (09:52:55) zoom in -20.8552 -55.1413
+\i (09:52:55) trapsize 1127
+\i (09:52:57) zoom in 1 
+\i (09:52:57) setwindow pcb
+\i (09:52:57) zoom in -16.8426 -53.6760
+\i (09:52:57) trapsize 564
+\i (09:52:58) zoom in 1 
+\i (09:52:58) setwindow pcb
+\i (09:52:58) zoom in -16.8313 -53.7549
+\i (09:52:58) trapsize 282
+\i (09:53:00) zoom out 1 
+\i (09:53:00) setwindow pcb
+\i (09:53:00) zoom out -16.8313 -53.7605
+\i (09:53:00) trapsize 564
+\i (09:53:01) zoom out 1 
+\i (09:53:01) setwindow pcb
+\i (09:53:01) zoom out -16.8313 -53.8169
+\i (09:53:01) trapsize 1127
+\i (09:53:02) zoom in 1 
+\i (09:53:02) setwindow pcb
+\i (09:53:02) zoom in -16.8314 -53.8169
+\i (09:53:02) trapsize 564
+\i (09:53:03) zoom in 1 
+\i (09:53:03) setwindow pcb
+\i (09:53:03) zoom in -16.8313 -53.8169
+\i (09:53:03) trapsize 282
+\i (09:53:04) zoom out 1 
+\i (09:53:04) setwindow pcb
+\i (09:53:04) zoom out -16.8313 -53.8169
+\i (09:53:04) trapsize 564
+\i (09:53:05) zoom in 1 
+\i (09:53:05) setwindow pcb
+\i (09:53:05) zoom in -16.3917 -53.8394
+\i (09:53:05) trapsize 282
+\i (09:53:26) zoom out 1 
+\i (09:53:26) setwindow pcb
+\i (09:53:26) zoom out -17.4400 -52.2389
+\i (09:53:26) trapsize 564
+\i (09:53:26) zoom out 1 
+\i (09:53:26) setwindow pcb
+\i (09:53:26) zoom out -18.1162 -51.9908
+\i (09:53:26) trapsize 1127
+\i (09:53:27) pick grid -23.1206 -50.2776
+\t (09:53:27) last pick:  -23.1140 -50.3965
+\i (09:53:30) setwindow form.find
+\i (09:53:30) FORM find symbols YES 
+\i (09:53:31) setwindow pcb
+\i (09:53:31) prepopup -20.0097 -51.1117
+\i (09:53:31) prepopup -19.9647 -50.8187
+\i (09:53:34) pop dyn_option_select '@:@Unplace component' 
+\i (09:53:35) unplace component 
+\i (09:53:35) generaledit 
+\i (09:53:37) save 
+\i (09:53:38) fillin yes 
+\i (09:53:39) generaledit 
+\i (09:53:41) open 
+\i (09:53:44) fillin "menu_cancel"
+\i (09:53:44) generaledit 
+\i (09:53:47) opencd 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols/AU-Y1007.dra' 
+\t (09:53:47) Opening existing design...
+\i (09:53:47) trapsize 599
+\i (09:53:48) trapsize 612
+\i (09:53:48) trapsize 612
+\t (09:53:48)     Journal end - Thu Mar 15 19:29:29 2018

@@ -1,0 +1,18 @@
+\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Mar 15 00:01:06 2018
+\t (00:00:03)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=6920 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd
+\i (00:00:05) trapsize 4643
+\i (00:00:06) trapsize 4742
+\i (00:00:06) trapsize 4742
+\i (00:00:06) generaledit 
+\i (00:00:09) open 
+\i (00:00:14) fillin "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_min\layout\SMA_fabB.brd"
+\i (00:00:14) cd "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_min\layout"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 4742
+\t (00:00:14)     Journal end - Thu Mar 15 00:01:17 2018

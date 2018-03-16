@@ -1,0 +1,610 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +3V3         pins ADDED TO this new net
+                                 C8.1                           
+                                 U4.2                           
+                                 U4.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this new net
+                                 C6.1                           
+                                 C7.1                           
+                                 C12.1                          
+                                 C13.1                          
+                                 C16.1                          
+                                 C17.1                          
+                                 D4.1                           
+                                 R1.3                           
+                                 R7.1                           
+                                 R8.1                           
+                                 R12.1                          
+                                 U3.3                           
+                                 U4.3                           
+                                 U6.12                          
+                                 U8.24                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +12V         pins ADDED TO this new net
+                                 C5.1                           
+                                 J4.2                           
+                                 J4.3                           
+                                 U3.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +12V_SW      pins ADDED TO this new net
+                                 D1.2                           
+                                 J3.1                           
+                                 J4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E0_ON        pins ADDED TO this new net
+                                 U8.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E0_ON_8980   pins ADDED TO this new net
+                                 Q1.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E0_VSTAT     pins ADDED TO this new net
+                                 Q1.3                           
+                                 R11.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E1_ON        pins ADDED TO this new net
+                                 U8.5                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  E1_ON_10245  pins ADDED TO this new net
+                                 Q2.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E1_VSTAT     pins ADDED TO this new net
+                                 Q2.3                           
+                                 R14.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E2_ON        pins ADDED TO this new net
+                                 U8.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E2_ON_10381  pins ADDED TO this new net
+                                 Q3.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E2_VSTAT     pins ADDED TO this new net
+                                 Q3.3                           
+                                 R15.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E3_ON        pins ADDED TO this new net
+                                 U8.7                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E3_ON_10694  pins ADDED TO this new net
+                                 Q4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E3_VSTAT     pins ADDED TO this new net
+                                 Q4.3                           
+                                 R16.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E4_ON        pins ADDED TO this new net
+                                 U8.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E4_ON_11169  pins ADDED TO this new net
+                                 Q8.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E4_VSTAT     pins ADDED TO this new net
+                                 Q8.3                           
+                                 R20.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E5_ON        pins ADDED TO this new net
+                                 U8.9                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E5_ON_11131  pins ADDED TO this new net
+                                 Q7.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E5_VSTAT     pins ADDED TO this new net
+                                 Q7.3                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R19.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E6_ON        pins ADDED TO this new net
+                                 U8.10                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E6_ON_11103  pins ADDED TO this new net
+                                 Q6.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E6_VSTAT     pins ADDED TO this new net
+                                 Q6.3                           
+                                 R18.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E7_ON        pins ADDED TO this new net
+                                 U8.11                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E7_ON_11085  pins ADDED TO this new net
+                                 Q5.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E7_VSTAT     pins ADDED TO this new net
+                                 Q5.3                           
+                                 R17.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E9_ON        pins ADDED TO this new net
+                                 U8.14                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E10_ON       pins ADDED TO this new net
+                                 U8.15                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E11_ON       pins ADDED TO this new net
+                                 U8.16                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E12_ON       pins ADDED TO this new net
+                                 U8.17                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E13_ON       pins ADDED TO this new net
+                                 U8.18                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E14_ON       pins ADDED TO this new net
+                                 U8.19                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E15_ON       pins ADDED TO this new net
+                                 U8.20                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FT_D+        pins ADDED TO this new net
+                                 R4.2                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U6.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FT_D-        pins ADDED TO this new net
+                                 R3.2                           
+                                 U6.9                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C5.2                           
+                                 C6.2                           
+                                 C7.2                           
+                                 C8.2                           
+                                 C9.2                           
+                                 C10.2                          
+                                 C11.2                          
+                                 C12.2                          
+                                 C13.2                          
+                                 C16.2                          
+                                 C17.2                          
+                                 D1.1                           
+                                 D2.2                           
+                                 J3.2                           
+                                 J3.3                           
+                                 J5.4                           
+                                 R2.2                           
+                                 R6.2                           
+                                 R11.2                          
+                                 R14.2                          
+                                 R15.2                          
+                                 R16.2                          
+                                 R17.2                          
+                                 R18.2                          
+                                 R19.2                          
+                                 R20.2                          
+                                 U3.2                           
+                                 U3.4                           
+                                 U4.1                           
+                                 U5.2                           
+                                 U5.4                           
+                                 U6.5                           
+                                 U6.13                          
+                                 U8.2                           
+                                 U8.3                           
+                                 U8.12                          
+                                 U8.21                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  I2C_SCL      pins ADDED TO this new net
+                                 R7.2                           
+                                 U6.2                           
+                                 U8.22                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C_SDA      pins ADDED TO this new net
+                                 R8.2                           
+                                 U6.4                           
+                                 U8.23                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04535       pins ADDED TO this new net
+                                 D2.1                           
+                                 J5.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04539       pins ADDED TO this new net
+                                 D2.3                           
+                                 J5.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04930       pins ADDED TO this new net
+                                 R5.2                           
+                                 R6.1                           
+                                 U6.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05131       pins ADDED TO this new net
+                                 C11.1                          
+                                 U6.3                           
+                                 U6.10                          
+                                 U6.11                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09716       pins ADDED TO this new net
+                                 R12.2                          
+                                 U8.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09730       pins ADDED TO this new net
+                                 D4.2                           
+                                 R13.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N09800       pins ADDED TO this new net
+                                 R13.2                          
+                                 U8.13                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0+          pins MOVED FROM this net (to net name listed on right)
+                                 J13.1                          
+                                                                       E7_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  P0-          pins MOVED FROM this net (to net name listed on right)
+                                 J13.2                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P4+          pins MOVED FROM this net (to net name listed on right)
+                                 J9.1                           
+                                                                       E3_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P4-          pins MOVED FROM this net (to net name listed on right)
+                                 J9.2                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P5+          pins MOVED FROM this net (to net name listed on right)
+                                 J10.1                          
+                                                                       E4_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P5-          pins MOVED FROM this net (to net name listed on right)
+                                 J10.2                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P6+          pins MOVED FROM this net (to net name listed on right)
+                                 J11.1                          
+                                                                       E5_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P6-          pins MOVED FROM this net (to net name listed on right)
+                                 J11.2                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P7+          pins MOVED FROM this net (to net name listed on right)
+                                 J12.1                          
+                                                                       E6_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P7-          pins MOVED FROM this net (to net name listed on right)
+                                 J12.2                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P9+          pins MOVED FROM this net (to net name listed on right)
+                                 J6.1                           
+                                                                       E0_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P9-          pins MOVED FROM this net (to net name listed on right)
+                                 J6.2                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P10+         pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J7.1                           
+                                                                       E1_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P10-         pins MOVED FROM this net (to net name listed on right)
+                                 J7.2                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P11+         pins MOVED FROM this net (to net name listed on right)
+                                 J8.1                           
+                                                                       E2_VSTAT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P11-         pins MOVED FROM this net (to net name listed on right)
+                                 J8.2                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB_D+       pins ADDED TO this new net
+                                 C10.1                          
+                                 D2.4                           
+                                 R4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB_D-       pins ADDED TO this new net
+                                 C9.1                           
+                                 D2.6                           
+                                 R3.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V_STAT       pins ADDED TO this new net
+                                 Q1.2                           
+                                 Q2.2                           
+                                 Q3.2                           
+                                 Q4.2                           
+                                 Q5.2                           
+                                 Q6.2                           
+                                 Q7.2                           
+                                 Q8.2                           
+                                 U5.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V_STAT_IN    pins ADDED TO this new net
+                                 R1.1                           
+                                 R2.1                           
+                                 U5.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V_USB        pins ADDED TO this new net
+                                 D2.5                           
+                                 J5.1                           
+                                 R5.1                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ AU-Y1007_0_AU-Y1007_AU-Y1007
+ B00JVJDEZE_B00JVJDEZE_B00JVJDEZ
+ CAP_0603_R_0.1UF
+ CAP_0603_R_0.33UF
+ CAP_0603_R_1UF
+ CAP_0603_R_4.7UF
+ CAP_0603_R_47PF
+ COMB_ELECTRODE_COMB_ELECTRODE_F
+ DIODE TVS_0603_R_DIODE TVS
+ EJ503A_0_EJ503A_EJ503A_0
+ FT-201X_1_FT-201X_FT-201X
+ LED_0603_R_LED
+ MOSFET N_STFW3N150_STFW3N150
+ OS102011MS2QN1_1_OS102011MS2QN1
+ PCF8575DW_PCF8575DW_PCF8575DW
+ POT_0603_R_POT
+ RESISTOR_0603_R_1K
+ RESISTOR_0603_R_4.7K
+ RESISTOR_0603_R_10K
+ RESISTOR_0603_R_27
+ RESISTOR_0603_R_RESISTOR
+ TLV1117LV33DCYT_2_TLV1117LV33DC
+ UA78M05CDCY_0_UA78M05CDCY_UA78M
+ USBLC6-2SC6_0_USBLC6-2SC6_USBLC
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1                  SPIRAL_ELECTRODE_0_COMB_ELECTRO                
+ J2                  SPIRAL_ELECTRODE_0_COMB_ELECTRO                
+ J14                 COMB_ELECTRODE_COMB_ELECTRODE_C                
+ J15                 COMB_ELECTRODE_COMB_ELECTRODE_C                
+ J16                 COMB_ELECTRODE_COMB_ELECTRODE_C                
+ J17                 EDGE_CONNECTOR_2_EDGE_CONNECTOR                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C5                  CAP_0603_R_0.33UF     
+ C6                  CAP_0603_R_0.1UF      
+ C7                  CAP_0603_R_1UF        
+ C8                  CAP_0603_R_1UF        
+ C9                  CAP_0603_R_47PF       
+ C10                 CAP_0603_R_47PF       
+ C11                 CAP_0603_R_47PF       
+ C12                 CAP_0603_R_4.7UF      
+ C13                 CAP_0603_R_0.1UF      
+ C16                 CAP_0603_R_1UF        
+ C17                 CAP_0603_R_0.1UF      
+ D1                  DIODE TVS_0603_R_DIODE TVS 
+ D2                  USBLC6-2SC6_0_USBLC6-2SC6_USBLC 
+ D4                  LED_0603_R_LED        
+ Q1                  MOSFET N_STFW3N150_STFW3N150 
+ Q2                  MOSFET N_STFW3N150_STFW3N150 
+ Q3                  MOSFET N_STFW3N150_STFW3N150 
+ Q4                  MOSFET N_STFW3N150_STFW3N150 
+ Q5                  MOSFET N_STFW3N150_STFW3N150 
+ Q6                  MOSFET N_STFW3N150_STFW3N150 
+ Q7                  MOSFET N_STFW3N150_STFW3N150 
+ Q8                  MOSFET N_STFW3N150_STFW3N150 
+ R1                  POT_0603_R_POT        
+ R2                  RESISTOR_0603_R_RESISTOR 
+ R3                  RESISTOR_0603_R_27    
+ R4                  RESISTOR_0603_R_27    
+ R5                  RESISTOR_0603_R_4.7K  
+ R6                  RESISTOR_0603_R_10K   
+ R7                  RESISTOR_0603_R_10K   
+ R8                  RESISTOR_0603_R_10K   
+ R11                 RESISTOR_0603_R_RESISTOR 
+ R12                 RESISTOR_0603_R_1K    
+ R13                 RESISTOR_0603_R_1K    
+ R14                 RESISTOR_0603_R_RESISTOR 
+ R15                 RESISTOR_0603_R_RESISTOR 
+ R16                 RESISTOR_0603_R_RESISTOR 
+ R17                 RESISTOR_0603_R_RESISTOR 
+ R18                 RESISTOR_0603_R_RESISTOR 
+ R19                 RESISTOR_0603_R_RESISTOR 
+ R20                 RESISTOR_0603_R_RESISTOR 
+ U3                  UA78M05CDCY_0_UA78M05CDCY_UA78M 
+ U4                  TLV1117LV33DCYT_2_TLV1117LV33DC 
+ U5                  B00JVJDEZE_B00JVJDEZE_B00JVJDEZ 
+ U6                  FT-201X_1_FT-201X_FT-201X 
+ U8                  PCF8575DW_PCF8575DW_PCF8575DW 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J3                  EJ503A_0_EJ503A_EJ503A_0                 SPIRAL_ELECTRODE_0_COMB_ELECTRO
+ J4                  OS102011MS2QN1_1_OS102011MS2QN1                 SPIRAL_ELECTRODE_0_COMB_ELECTRO
+ J5                  AU-Y1007_0_AU-Y1007_AU-Y1007                 SPIRAL_ELECTRODE_0_COMB_ELECTRO
+ J6                  COMB_ELECTRODE_COMB_ELECTRODE_F                 SPIRAL_ELECTRODE_0_COMB_ELECTRO
+ J7                  COMB_ELECTRODE_COMB_ELECTRODE_F                 SPIRAL_ELECTRODE_0_COMB_ELECTRO
+ J8                  COMB_ELECTRODE_COMB_ELECTRODE_F                 SPIRAL_ELECTRODE_0_COMB_ELECTRO
+ J9                  COMB_ELECTRODE_COMB_ELECTRODE_F                 COMB_ELECTRODE_COMB_ELECTRODE_C
+ J10                 COMB_ELECTRODE_COMB_ELECTRODE_F                 COMB_ELECTRODE_COMB_ELECTRODE_C
+ J11                 COMB_ELECTRODE_COMB_ELECTRODE_F                 COMB_ELECTRODE_COMB_ELECTRODE_C
+ J12                 COMB_ELECTRODE_COMB_ELECTRODE_F                 COMB_ELECTRODE_COMB_ELECTRODE_C
+ J13                 COMB_ELECTRODE_COMB_ELECTRODE_F                 COMB_ELECTRODE_COMB_ELECTRODE_C
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.5                           PRIM_FILE      .\pstchip.dat
+ D4.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J4.3                           PRIM_FILE      .\pstchip.dat
+ J5.1                           PRIM_FILE      .\pstchip.dat
+ J6.2                           PRIM_FILE      .\pstchip.dat
+ J7.2                           PRIM_FILE      .\pstchip.dat
+ J8.2                           PRIM_FILE      .\pstchip.dat
+ J9.2                           PRIM_FILE      .\pstchip.dat
+ J10.2                          PRIM_FILE      .\pstchip.dat
+ J11.2                          PRIM_FILE      .\pstchip.dat
+ J12.2                          PRIM_FILE      .\pstchip.dat
+ J13.2                          PRIM_FILE      .\pstchip.dat
+ Q1.3                           PRIM_FILE      .\pstchip.dat
+ Q2.3                           PRIM_FILE      .\pstchip.dat
+ Q3.3                           PRIM_FILE      .\pstchip.dat
+ Q4.3                           PRIM_FILE      .\pstchip.dat
+ Q5.3                           PRIM_FILE      .\pstchip.dat
+ Q6.3                           PRIM_FILE      .\pstchip.dat
+ Q7.3                           PRIM_FILE      .\pstchip.dat
+ Q8.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd             |
+|                                                    Wed Mar 14 23:39:18 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ U3.3                           PRIM_FILE      .\pstchip.dat
+ U4.4                           PRIM_FILE      .\pstchip.dat
+ U5.4                           PRIM_FILE      .\pstchip.dat
+ U6.3                           PRIM_FILE      .\pstchip.dat
+ U8.24                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     165                                        |
+|       Comp definitions added:      24                                        |
+|       Components added      :      45                                        |
+|       Components deleted    :       6                                        |
+|       Components changed    :      11                                        |
+|       Slot property added   :      56                                        |
+|                                                                              |
+|   Total ECO changes reported:     307                                        |
+|------------------------------------------------------------------------------|

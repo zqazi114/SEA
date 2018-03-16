@@ -1,0 +1,88 @@
+Date and Time : 03/14/18 23:27:51
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1608): Net has no driving source E0_ON 
+                    SCHEMATIC1, 4. GPIO  (0.50, 3.00) 
+WARNING(ORCAP-1608): Net has no driving source E1_ON 
+                    SCHEMATIC1, 4. GPIO  (1.60, 2.80) 
+WARNING(ORCAP-1608): Net has no driving source E2_ON 
+                    SCHEMATIC1, 4. GPIO  (2.60, 2.60) 
+WARNING(ORCAP-1608): Net has no driving source E3_ON 
+                    SCHEMATIC1, 4. GPIO  (3.60, 2.40) 
+WARNING(ORCAP-1608): Net has no driving source E4_ON 
+                    SCHEMATIC1, 4. GPIO  (4.60, 2.20) 
+WARNING(ORCAP-1608): Net has no driving source E5_ON 
+                    SCHEMATIC1, 4. GPIO  (5.70, 2.00) 
+WARNING(ORCAP-1608): Net has no driving source E6_ON 
+                    SCHEMATIC1, 4. GPIO  (6.70, 1.80) 
+WARNING(ORCAP-1608): Net has no driving source E7_ON 
+                    SCHEMATIC1, 4. GPIO  (7.70, 1.60) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections E12_ON 
+                    SCHEMATIC1, 3. USB  (7.70, 2.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections E14_ON 
+                    SCHEMATIC1, 3. USB  (7.70, 2.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections E1_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 1.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections E7_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections E13_ON 
+                    SCHEMATIC1, 3. USB  (7.70, 2.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections E6_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections E5_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections E10_ON 
+                    SCHEMATIC1, 3. USB  (7.70, 2.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections E0_ON 
+                    SCHEMATIC1, 4. GPIO  (0.50, 3.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections E1_ON 
+                    SCHEMATIC1, 4. GPIO  (1.60, 2.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections E2_ON 
+                    SCHEMATIC1, 4. GPIO  (2.60, 2.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections E3_ON 
+                    SCHEMATIC1, 4. GPIO  (3.60, 2.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections E4_ON 
+                    SCHEMATIC1, 4. GPIO  (4.60, 2.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections E5_ON 
+                    SCHEMATIC1, 4. GPIO  (5.70, 2.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections E6_ON 
+                    SCHEMATIC1, 4. GPIO  (6.70, 1.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections E7_ON 
+                    SCHEMATIC1, 4. GPIO  (7.70, 1.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections E0_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 1.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections E9_ON 
+                    SCHEMATIC1, 3. USB  (7.70, 1.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections E11_ON 
+                    SCHEMATIC1, 3. USB  (7.70, 2.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections E15_ON 
+                    SCHEMATIC1, 3. USB  (7.70, 2.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections E2_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections E3_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections E4_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.20) 
+
+Checking For Unconnected Bus Nets
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E1_ON 
+                    SCHEMATIC1, 4. GPIO  (1.60, 2.80) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E5_ON 
+                    SCHEMATIC1, 4. GPIO  (5.70, 2.00) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E6_ON 
+                    SCHEMATIC1, 4. GPIO  (6.70, 1.80) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E7_ON 
+                    SCHEMATIC1, 4. GPIO  (7.70, 1.60) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E0_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 1.80) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E2_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.00) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E3_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.10) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector E4_ON 
+                    SCHEMATIC1, 3. USB  (5.60, 2.20) 

@@ -1,0 +1,1510 @@
+\t (00:01:46) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:01:46)     Journal start - Thu Mar 15 22:37:34 2018
+\t (00:01:46)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=12748 CPUs=4
+\t (00:01:46) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:01:46) 
+\d (00:01:46) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype.brd
+\i (00:01:47) generaledit 
+\i (00:01:48) netin 
+\i (00:01:51) setwindow form.niparams
+\i (00:01:51) FORM niparams import  
+\t (00:01:51) Starting Cadence Logic Import...
+\t (00:01:52) Opening existing design...
+\i (00:01:52) setwindow pcb
+\i (00:01:52) trapsize 37337
+\i (00:01:54) generaledit 
+\i (00:01:57) done 
+\i (00:01:57) place manual 
+\i (00:01:58) FORM plc_manual placement_list 
+\i (00:01:58) FORM plc_manual categories Components by refdes 
+\i (00:01:58) trapsize 37337
+\i (00:01:59) setwindow form.plc_manual
+\i (00:01:59) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\w (00:01:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:59) Placing C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C on Top.
+\i (00:01:59) FORM plc_manual tree  'Components by refdes' 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 2621.644 -2529.576
+\i (00:02:01) trapsize 18669
+\i (00:02:01) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 2621.644 -2529.576
+\i (00:02:02) trapsize 37337
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 2726.190 -3029.897
+\i (00:02:03) trapsize 18669
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 2726.190 -3029.897
+\i (00:02:03) trapsize 37337
+\i (00:02:04) prepopup 2883.007 -2828.274
+\i (00:02:07) rotate 
+\t (00:02:07) Spin the element(s).
+\i (00:02:08) iangle 90.000
+\t (00:02:08) last angle:  +90.000 Degrees
+\i (00:02:10) pick grid 2965.149 -2746.132
+\t (00:02:10) last pick:  3000.000 -2700.000
+\t (00:02:10) Placing C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C on Top.
+\i (00:02:12) prepopup 3487.873 -2671.457
+\i (00:02:13) rotate 
+\t (00:02:13) Spin the element(s).
+\i (00:02:14) iangle 90.000
+\t (00:02:14) last angle:  +90.000 Degrees
+\i (00:02:15) pick grid 3502.808 -2701.327
+\t (00:02:15) last pick:  3500.000 -2700.000
+\w (00:02:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:15) Placing J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL on Top.
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 3136.901 -2133.798
+\i (00:02:16) trapsize 18669
+\i (00:02:18) zoom out 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom out 3021.156 -2036.720
+\i (00:02:18) trapsize 37337
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in 3521.476 -1969.514
+\i (00:02:19) trapsize 18669
+\i (00:02:19) prepopup 3734.299 -1965.780
+\i (00:02:20) rotate 
+\t (00:02:20) Spin the element(s).
+\i (00:02:22) iangle -90.000
+\t (00:02:22) last angle:  +270.000 Degrees
+\i (00:02:34) pick grid 3850.045 -1991.916
+\t (00:02:34) last pick:  3900.000 -2000.000
+\w (00:02:34) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:34) Placing Q1 / MOSFET N_STFW3N150_MOSFET N / STFW3N150 on Top.
+\i (00:02:51) pick grid 2942.746 -1581.205
+\t (00:02:52) last pick:  2900.000 -1600.000
+\t (00:02:52) Placing R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C on Top.
+\i (00:03:02) prepopup 1639.671 -2283.148
+\i (00:03:03) rotate 
+\t (00:03:03) Spin the element(s).
+\i (00:03:05) iangle 270.000
+\t (00:03:05) last angle:  +270.000 Degrees
+\i (00:03:06) pick grid 1650.872 -2249.544
+\t (00:03:06) last pick:  1700.000 -2200.000
+\t (00:03:06) Placing R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C on Top.
+\i (00:03:11) prepopup 3891.116 -1121.955
+\i (00:03:16) rotate 
+\t (00:03:16) Spin the element(s).
+\i (00:03:20) iangle 270.000
+\t (00:03:20) last angle:  +270.000 Degrees
+\i (00:03:22) pick grid 1703.145 -1555.069
+\t (00:03:22) last pick:  1700.000 -1600.000
+\w (00:03:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:03:22) Placing U1 / B00JVJDEZE_B00JVJDEZE_B00JVJDEZ / B00JVJDEZE on Top.
+\i (00:03:23) roam start
+\i (00:03:23) roam x -112
+\i (00:03:23) roam y -32
+\i (00:03:23) roam x -96
+\i (00:03:23) roam y -32
+\i (00:03:23) roam x -80
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x -64
+\i (00:03:23) roam x -48
+\i (00:03:23) roam y -16
+\i (00:03:24) roam x -32
+\i (00:03:24) roam x -16
+\i (00:03:24) roam end
+\i (00:03:26) prepopup 1072.025 -719.347
+\i (00:03:28) rotate 
+\t (00:03:28) Spin the element(s).
+\i (00:03:30) iangle -180.000
+\t (00:03:30) last angle:  +180.000 Degrees
+\i (00:03:38) pick grid 2300.426 -652.140
+\t (00:03:38) last pick:  2300.000 -700.000
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in 1355.789 -1858.138
+\i (00:03:39) trapsize 9334
+\i (00:03:39) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 1355.789 -1858.137
+\i (00:03:40) trapsize 4667
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 1431.397 -1849.736
+\i (00:03:40) trapsize 9334
+\i (00:03:40) zoom out 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom out 1435.131 -1844.136
+\i (00:03:40) trapsize 18669
+\i (00:03:42) setwindow form.plc_manual
+\i (00:03:42) FORM plc_manual done  
+\i (00:03:42) setwindow pcb
+\i (00:03:42) generaledit 
+\i (00:03:42) roam start
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 80
+\i (00:03:42) roam y 64
+\i (00:03:42) roam y 16
+\i (00:03:43) roam x 16
+\i (00:03:43) roam x 16
+\i (00:03:43) roam y 16
+\i (00:03:43) roam x 32
+\i (00:03:43) roam y 32
+\i (00:03:43) roam x 16
+\i (00:03:43) roam y 32
+\i (00:03:43) roam x 32
+\i (00:03:43) roam y 48
+\i (00:03:43) roam x 48
+\i (00:03:43) roam y 32
+\i (00:03:43) roam end
+\i (00:03:44) zoom in 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom in 3215.193 -2709.430
+\i (00:03:44) trapsize 9334
+\i (00:03:45) zoom out 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom out 3291.734 -2395.796
+\i (00:03:45) trapsize 18669
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in 3358.942 -1738.657
+\i (00:03:45) trapsize 9334
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in 3345.874 -1740.524
+\i (00:03:46) trapsize 4667
+\i (00:03:48) zoom out 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom out 3332.806 -1737.724
+\i (00:03:48) trapsize 9334
+\i (00:03:50) roam start
+\i (00:03:50) roam y -16
+\i (00:03:50) roam y -16
+\i (00:03:50) roam y -16
+\i (00:03:50) roam y -48
+\i (00:03:50) roam x -16
+\i (00:03:50) roam y -48
+\i (00:03:50) roam y -32
+\i (00:03:50) roam y -64
+\i (00:03:50) roam x -16
+\i (00:03:50) roam y -48
+\i (00:03:51) roam y -16
+\i (00:03:51) roam y -48
+\i (00:03:51) roam y -48
+\i (00:03:51) roam end
+\i (00:04:05) zoom out 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom out 2300.426 -1520.234
+\i (00:04:05) trapsize 18669
+\i (00:04:09) setwindow form.find
+\i (00:04:09) FORM find all_off  
+\i (00:04:10) FORM find symbols YES 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 2606.594 -2259.515
+\i (00:04:12) trapsize 9334
+\i (00:04:13) zoom in 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom in 2817.550 -2240.846
+\i (00:04:13) trapsize 4667
+\i (00:04:14) zoom out 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom out 2859.554 -2240.845
+\i (00:04:14) trapsize 9334
+\i (00:04:15) zoom out 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom out 3509.226 -2330.456
+\i (00:04:15) trapsize 18669
+\i (00:04:15) zoom in 1 
+\i (00:04:15) setwindow pcb
+\i (00:04:15) zoom in 3841.529 -2349.124
+\i (00:04:15) trapsize 9334
+\i (00:04:16) zoom in 1 
+\i (00:04:16) setwindow pcb
+\i (00:04:16) zoom in 3841.530 -2349.124
+\i (00:04:16) trapsize 4667
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 3843.396 -2347.257
+\i (00:04:17) trapsize 9334
+\i (00:04:18) roam start
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam x 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 16
+\i (00:04:18) roam y 32
+\i (00:04:19) roam end
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in 3834.994 -2491.007
+\i (00:04:20) trapsize 4667
+\i (00:04:21) roam start
+\i (00:04:21) roam y 80
+\i (00:04:21) roam y 80
+\i (00:04:21) roam y 16
+\i (00:04:21) roam y 16
+\i (00:04:21) roam y 32
+\i (00:04:21) roam x -32
+\i (00:04:21) roam y 32
+\i (00:04:22) roam y 16
+\i (00:04:23) roam end
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 3741.646 -2658.093
+\i (00:04:27) trapsize 9334
+\i (00:04:31) prepopup 3484.019 -2693.563
+\i (00:04:36) pop dyn_option_select @:@Spin 
+\i (00:04:36) spin 
+\t (00:04:36) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\i (00:04:38) iangle -180.000
+\t (00:04:38) last angle:  270.000 Degrees
+\i (00:04:38) generaledit 
+\i (00:04:39) prepopup 3047.171 -2745.836
+\i (00:04:40) pop dyn_option_select @:@Spin 
+\i (00:04:40) spin 
+\t (00:04:41) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\i (00:04:43) iangle -180.000
+\t (00:04:43) last angle:  270.000 Degrees
+\i (00:04:43) generaledit 
+\i (00:04:44) pick grid 3121.846 -2917.588
+\t (00:04:44) last pick:  3100.000 -2900.000
+\i (00:04:48) roam start
+\i (00:04:48) roam x -16
+\i (00:04:48) roam y -32
+\i (00:04:48) roam y -16
+\i (00:04:48) roam y -16
+\i (00:04:49) roam end
+\i (00:04:51) add connect 
+\t (00:04:52) Pick first element.
+\i (00:04:59) setwindow form.mini
+\i (00:04:59) FORM mini acon_line_width 30 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) pick grid 1745.965 -2173.638
+\t (00:05:01) last pick:  1750.000 -2175.000
+\t (00:05:01) last pick:  1700.000 -2170.000
+\t (00:05:01) Target Symbol Pin is defined on TOP.
+\t (00:05:01) last pick:  1700.000 -2170.000
+\i (00:05:05) roam start
+\i (00:05:05) roam x -64
+\i (00:05:05) roam y -16
+\i (00:05:05) roam x -112
+\i (00:05:05) roam y -64
+\i (00:05:05) roam x -16
+\i (00:05:05) roam y -16
+\i (00:05:05) roam x -16
+\i (00:05:06) roam x -48
+\i (00:05:06) roam x -16
+\i (00:05:06) roam x -32
+\i (00:05:06) roam y -16
+\i (00:05:06) roam x -64
+\i (00:05:06) roam x -32
+\i (00:05:06) roam x -16
+\i (00:05:06) roam y -64
+\i (00:05:06) roam y -64
+\i (00:05:06) roam y -16
+\i (00:05:06) roam y -16
+\i (00:05:06) roam x 48
+\i (00:05:06) roam y -16
+\i (00:05:06) roam x 48
+\i (00:05:06) roam y -16
+\i (00:05:06) roam x 48
+\i (00:05:07) roam x 64
+\i (00:05:07) roam x 16
+\i (00:05:07) roam y 16
+\i (00:05:07) roam y 16
+\i (00:05:07) roam x 16
+\i (00:05:07) roam y -32
+\i (00:05:07) roam x 16
+\i (00:05:07) roam y -112
+\i (00:05:07) roam y -64
+\i (00:05:07) roam y -16
+\i (00:05:07) roam y -32
+\i (00:05:07) roam x -48
+\i (00:05:07) roam y -64
+\i (00:05:07) roam x -16
+\i (00:05:07) roam y -32
+\i (00:05:07) roam y 32
+\i (00:05:07) roam x 16
+\i (00:05:07) roam y 64
+\i (00:05:07) roam x 32
+\i (00:05:07) roam y 144
+\i (00:05:08) roam x 48
+\i (00:05:08) roam y 112
+\i (00:05:08) roam x 48
+\i (00:05:08) roam y 80
+\i (00:05:08) roam x 48
+\i (00:05:08) roam y 128
+\i (00:05:08) roam x 48
+\i (00:05:08) roam y 112
+\i (00:05:08) roam x 32
+\i (00:05:08) roam y 48
+\i (00:05:08) roam y 16
+\i (00:05:08) roam x -32
+\i (00:05:08) roam x -48
+\i (00:05:08) roam x -80
+\i (00:05:08) roam x -16
+\i (00:05:08) roam x -16
+\i (00:05:08) roam y -16
+\i (00:05:09) roam x 16
+\i (00:05:09) roam x 16
+\i (00:05:09) roam y -16
+\i (00:05:09) roam end
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 2866.088 -2190.440
+\i (00:05:11) trapsize 4667
+\i (00:05:13) zoom out 1 
+\i (00:05:13) setwindow pcb
+\i (00:05:13) zoom out 2918.361 -2157.770
+\i (00:05:13) trapsize 9334
+\i (00:05:15) mouse_pos 3019.172 -2034.556
+\i (00:05:17) mouse_pos 3056.509 -2045.757
+\i (00:05:20) prepopup 2834.351 -2228.710
+\i (00:05:21) cancel 
+\i (00:05:21) generaledit 
+\i (00:05:22) zoom out 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom out 2662.599 -2157.769
+\i (00:05:22) trapsize 18669
+\i (00:05:23) zoom in 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom in 3640.840 -1306.476
+\i (00:05:23) trapsize 9334
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 3429.884 -1399.819
+\i (00:05:23) trapsize 18669
+\i (00:05:24) prepopup 3134.919 -1504.364
+\i (00:05:25) pop dyn_option_select @:@Spin 
+\i (00:05:25) spin 
+\t (00:05:26) Moving Q1 / MOSFET N_STFW3N150_MOSFET N / STFW3N150.
+\i (00:05:27) iangle -90.000
+\t (00:05:27) last angle:  270.000 Degrees
+\i (00:05:27) generaledit 
+\i (00:05:30) drag_start grid 2974.368 -1646.246
+\i (00:05:30) move 
+\t (00:05:30) last pick:  2900.000 -1600.000
+\t (00:05:30) Moving Q1 / MOSFET N_STFW3N150_MOSFET N / STFW3N150.
+\t (00:05:30) Pick new location for the element(s).
+\i (00:05:32) drag_stop grid 3336.541 -1631.311
+\i (00:05:32) generaledit 
+\i (00:05:34) pick grid 4083.289 -1537.968
+\t (00:05:34) last pick:  4075.000 -1550.000
+\i (00:05:35) zoom in 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom in 2350.833 -1478.228
+\i (00:05:35) trapsize 9334
+\i (00:05:36) zoom out 1 
+\i (00:05:36) setwindow pcb
+\i (00:05:36) zoom out 2350.834 -1478.227
+\i (00:05:36) trapsize 18669
+\i (00:05:37) zoom in 1 
+\i (00:05:37) setwindow pcb
+\i (00:05:37) zoom in 2238.821 -1396.085
+\i (00:05:37) trapsize 9334
+\i (00:05:38) zoom out 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 2194.017 -1407.286
+\i (00:05:38) trapsize 18669
+\i (00:05:39) drag_start grid 1346.457 -1422.222
+\i (00:05:40) drag_stop 1843.045 -2546.078
+\i (00:05:41) drag_start grid 1682.494 -1687.317
+\i (00:05:42) drag_stop grid 2765.278 -1485.695
+\i (00:05:43) prepopup 1738.500 -1657.447
+\i (00:05:43) pop dyn_option_select @:@Move 
+\i (00:05:43) move 
+\t (00:05:44) last pick:  1750.000 -1650.000
+\t (00:05:44) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:05:44) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:05:44) Pick new location for the element(s).
+\i (00:05:47) pick grid 4456.663 -1608.909
+\t (00:05:47) last pick:  4450.000 -1600.000
+\i (00:05:47) generaledit 
+\i (00:05:50) pick grid 4109.425 -2340.722
+\t (00:05:50) last pick:  4100.000 -2350.000
+\i (00:05:51) prepopup 3952.608 -1982.283
+\i (00:05:53) pop dyn_option_select @:@Move 
+\i (00:05:54) move 
+\t (00:05:54) last pick:  3950.000 -1975.000
+\t (00:05:54) last pick:  3900.000 -2000.000
+\t (00:05:54) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\t (00:05:54) Pick new location for the element(s).
+\i (00:05:58) pick grid 3945.140 -2534.876
+\t (00:05:58) last pick:  3950.000 -2525.000
+\i (00:05:58) generaledit 
+\i (00:06:00) prepopup 2821.285 -1299.008
+\i (00:06:01) pop dyn_option_select @:@Move 
+\i (00:06:01) move 
+\t (00:06:01) last pick:  2825.000 -1300.000
+\t (00:06:01) last pick:  3325.000 -1625.000
+\t (00:06:01) Moving Q1 / MOSFET N_STFW3N150_MOSFET N / STFW3N150.
+\t (00:06:01) Pick new location for the element(s).
+\i (00:06:04) pick grid 2111.874 -1803.063
+\t (00:06:04) last pick:  2100.000 -1800.000
+\i (00:06:04) generaledit 
+\i (00:06:05) pick grid 3706.181 -2083.094
+\t (00:06:05) last pick:  3700.000 -2075.000
+\i (00:06:06) drag_start grid 4404.390 -1623.844
+\i (00:06:06) move 
+\t (00:06:06) last pick:  4400.000 -1550.000
+\t (00:06:06) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:06:06) Pick new location for the element(s).
+\i (00:06:12) drag_stop grid 3332.807 -1369.949
+\i (00:06:12) generaledit 
+\i (00:06:13) drag_start grid 4408.124 -2124.165
+\i (00:06:13) move 
+\t (00:06:14) last pick:  4400.000 -2150.000
+\t (00:06:14) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:06:14) Pick new location for the element(s).
+\i (00:06:15) drag_stop grid 3321.606 -1795.596
+\i (00:06:15) generaledit 
+\i (00:06:17) drag_start grid 2944.498 -2766.368
+\i (00:06:17) move 
+\t (00:06:17) last pick:  3000.000 -2700.000
+\t (00:06:17) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:06:17) Pick new location for the element(s).
+\i (00:06:23) drag_stop grid 1723.565 -2766.368
+\i (00:06:23) generaledit 
+\i (00:06:24) drag_start grid 3414.949 -2818.641
+\i (00:06:24) move 
+\t (00:06:24) last pick:  3500.000 -2700.000
+\t (00:06:24) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:06:24) Pick new location for the element(s).
+\i (00:06:26) drag_stop grid 2212.685 -2777.570
+\i (00:06:26) generaledit 
+\i (00:06:27) drag_start grid 3922.738 -2575.948
+\i (00:06:27) move 
+\t (00:06:27) last pick:  3950.000 -2525.000
+\t (00:06:27) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\t (00:06:27) Pick new location for the element(s).
+\i (00:06:29) drag_stop grid 2978.102 -2732.765
+\i (00:06:29) generaledit 
+\i (00:06:29) zoom in 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom in 2922.096 -2747.700
+\i (00:06:29) trapsize 9334
+\i (00:06:31) zoom in 1 
+\i (00:06:31) setwindow pcb
+\i (00:06:31) zoom in 2957.567 -2751.434
+\i (00:06:31) trapsize 4667
+\i (00:06:32) prepopup 3012.639 -2766.368
+\i (00:06:33) pop dyn_option_select @:@Spin 
+\i (00:06:33) spin 
+\t (00:06:34) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\i (00:06:36) iangle -90.000
+\t (00:06:36) last angle:  180.000 Degrees
+\i (00:06:36) generaledit 
+\i (00:06:37) drag_start grid 3012.639 -2757.967
+\i (00:06:37) move 
+\t (00:06:37) last pick:  2975.000 -2725.000
+\t (00:06:37) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\t (00:06:37) Pick new location for the element(s).
+\i (00:06:40) drag_stop grid 3013.573 -2873.713
+\i (00:06:41) generaledit 
+\i (00:06:41) zoom out 1 
+\i (00:06:41) setwindow pcb
+\i (00:06:41) zoom out 2703.672 -2730.898
+\i (00:06:41) trapsize 9334
+\i (00:06:43) drag_start grid 3058.378 -2928.786
+\i (00:06:43) move 
+\t (00:06:43) last pick:  3025.000 -2875.000
+\t (00:06:43) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\t (00:06:43) Pick new location for the element(s).
+\i (00:06:46) drag_stop grid 3043.444 -2932.519
+\i (00:06:47) generaledit 
+\i (00:06:47) pick grid 3409.350 -2732.764
+\t (00:06:47) last pick:  3400.000 -2725.000
+\i (00:06:49) roam start
+\i (00:06:49) roam y -16
+\i (00:06:49) roam x 16
+\i (00:06:49) roam y -80
+\i (00:06:50) roam x 32
+\i (00:06:50) roam y -112
+\i (00:06:50) roam y -80
+\i (00:06:50) roam y -32
+\i (00:06:50) roam y -32
+\i (00:06:50) roam y -32
+\i (00:06:50) roam y 16
+\i (00:06:50) roam end
+\i (00:06:57) zoom out 1 
+\i (00:06:57) setwindow pcb
+\i (00:06:57) zoom out 3256.264 -1652.782
+\i (00:06:57) trapsize 18669
+\i (00:06:57) roam start
+\i (00:06:57) roam x -16
+\i (00:06:58) roam x -128
+\i (00:06:58) roam y -64
+\i (00:06:58) roam x -48
+\i (00:06:58) roam y -48
+\i (00:06:58) roam x -48
+\i (00:06:58) roam y -32
+\i (00:06:58) roam x -32
+\i (00:06:58) roam y -16
+\i (00:06:58) roam x -64
+\i (00:06:58) roam y -48
+\i (00:06:58) roam end
+\i (00:07:02) zoom in 1 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) zoom in 1990.526 -857.496
+\i (00:07:02) trapsize 9334
+\i (00:07:03) roam start
+\i (00:07:03) roam y 16
+\i (00:07:04) roam x -16
+\i (00:07:04) roam y 32
+\i (00:07:04) roam x -16
+\i (00:07:04) roam y 32
+\i (00:07:04) roam y -16
+\i (00:07:04) roam y -16
+\i (00:07:05) roam y -16
+\i (00:07:05) roam y -16
+\i (00:07:06) roam y -16
+\i (00:07:06) roam x 16
+\i (00:07:06) roam x 16
+\i (00:07:06) roam y 16
+\i (00:07:06) roam y 16
+\i (00:07:06) roam y 48
+\i (00:07:06) roam y 16
+\i (00:07:06) roam y 16
+\i (00:07:07) roam end
+\i (00:07:12) add connect 
+\t (00:07:12) Pick first element.
+\i (00:07:17) setwindow form.mini
+\i (00:07:17) FORM mini acon_line_width 30 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) pick grid 2313.494 -820.158
+\t (00:07:19) last pick:  2325.000 -825.000
+\t (00:07:19) last pick:  2300.000 -800.000
+\t (00:07:19) Target Symbol Pin is defined on TOP.
+\t (00:07:19) last pick:  2300.000 -800.000
+\i (00:07:24) mouse_pos 1762.767 -1613.577
+\i (00:07:24) mouse_pos 1772.102 -1609.844
+\i (00:07:26) pick grid 1831.841 -1361.550
+\t (00:07:26) last pick:  1825.000 -1350.000
+\t (00:07:26) No DRC errors detected.
+\i (00:07:26) mouse_pos 1751.566 -1615.444
+\i (00:07:27) pick grid 1751.566 -1663.983
+\t (00:07:27) last pick:  1750.000 -1675.000
+\t (00:07:27) No DRC errors detected.
+\t (00:07:27) Pick first element.
+\i (00:07:48) add connect 
+\t (00:07:49) Pick first element.
+\i (00:07:50) pick grid 2307.893 -513.991
+\t (00:07:50) last pick:  2300.000 -525.000
+\t (00:07:50) last pick:  2300.000 -500.000
+\t (00:07:50) Target Symbol Pin is defined on TOP.
+\t (00:07:50) last pick:  2300.000 -500.000
+\i (00:07:50) mouse_pos 1781.436 -499.056
+\i (00:07:51) pick grid 1712.362 -491.588
+\t (00:07:51) last pick:  1700.000 -500.000
+\t (00:07:51) No DRC errors detected.
+\t (00:07:51) Pick first element.
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 2890.357 -1355.949
+\i (00:07:54) trapsize 4667
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 2891.290 -1355.016
+\i (00:07:54) trapsize 2334
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 2896.425 -1346.615
+\i (00:07:54) trapsize 1167
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 2895.258 -1346.382
+\i (00:07:54) trapsize 583
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 2888.958 -1347.081
+\i (00:07:55) trapsize 292
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 2888.433 -1347.373
+\i (00:07:55) trapsize 146
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 2884.816 -1345.856
+\i (00:07:55) trapsize 292
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 2884.582 -1345.857
+\i (00:07:55) trapsize 583
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 2875.015 -1346.323
+\i (00:07:56) trapsize 1167
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 2868.014 -1340.956
+\i (00:07:56) trapsize 2334
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 2857.747 -1342.355
+\i (00:07:56) trapsize 4667
+\i (00:07:56) zoom out 1 
+\i (00:07:56) setwindow pcb
+\i (00:07:56) zoom out 2857.746 -1342.355
+\i (00:07:56) trapsize 9334
+\i (00:07:57) zoom out 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom out 2852.146 -1319.953
+\i (00:07:57) trapsize 18669
+\i (00:08:00) prepopup 2702.798 -2148.834
+\i (00:08:01) done 
+\i (00:08:01) generaledit 
+\i (00:08:02) drag_start grid 1657.361 -2884.374
+\i (00:08:02) move 
+\t (00:08:03) last pick:  1725.000 -2775.000
+\t (00:08:03) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:08:03) Pick new location for the element(s).
+\i (00:08:05) drag_stop grid 2826.010 -405.195
+\i (00:08:05) generaledit 
+\i (00:08:05) prepopup 2889.483 -382.792
+\i (00:08:07) pop dyn_option_select @:@Spin 
+\i (00:08:07) spin 
+\t (00:08:07) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\i (00:08:09) iangle -180.000
+\t (00:08:09) last angle:  90.000 Degrees
+\i (00:08:10) generaledit 
+\i (00:08:10) drag_start grid 2777.472 -401.461
+\i (00:08:10) move 
+\t (00:08:11) last pick:  2825.000 -400.000
+\t (00:08:11) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:08:11) Pick new location for the element(s).
+\i (00:08:12) drag_stop grid 2799.874 -599.347
+\i (00:08:12) generaledit 
+\i (00:08:15) drag_start grid 3389.799 -1868.806
+\i (00:08:15) move 
+\t (00:08:16) last pick:  3325.000 -1800.000
+\t (00:08:16) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:08:16) Pick new location for the element(s).
+\i (00:08:19) drag_stop grid 3498.076 -976.451
+\i (00:08:19) generaledit 
+\i (00:08:19) prepopup 3546.614 -991.386
+\i (00:08:21) pop dyn_option_select @:@Spin 
+\i (00:08:21) spin 
+\t (00:08:21) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\i (00:08:23) iangle 180.000
+\t (00:08:23) last angle:  90.000 Degrees
+\i (00:08:23) generaledit 
+\i (00:08:25) drag_start grid 3539.147 -980.185
+\i (00:08:25) move 
+\t (00:08:25) last pick:  3500.000 -975.000
+\t (00:08:25) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:08:25) Pick new location for the element(s).
+\i (00:08:28) drag_stop grid 2874.548 -1532.773
+\i (00:08:28) generaledit 
+\i (00:08:29) drag_start grid 2224.884 -2738.759
+\i (00:08:29) move 
+\t (00:08:29) last pick:  2225.000 -2775.000
+\t (00:08:29) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:08:29) Pick new location for the element(s).
+\i (00:08:30) drag_stop grid 3322.592 -576.945
+\i (00:08:30) generaledit 
+\i (00:08:31) prepopup 3326.326 -576.945
+\i (00:08:32) pop dyn_option_select @:@Spin 
+\i (00:08:32) spin 
+\t (00:08:32) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\i (00:08:34) iangle -180.000
+\t (00:08:34) last angle:  90.000 Degrees
+\i (00:08:34) generaledit 
+\i (00:08:35) drag_start grid 3330.060 -506.005
+\i (00:08:35) move 
+\t (00:08:35) last pick:  3325.000 -575.000
+\t (00:08:35) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:08:36) Pick new location for the element(s).
+\i (00:08:37) drag_stop grid 3412.201 -603.081
+\i (00:08:37) generaledit 
+\i (00:08:40) add connect 
+\t (00:08:40) Selected item not valid for current operation, ignored: Symbol "C2"
+\t (00:08:40) No valid items selected for the current operation, exiting.
+\i (00:08:40) generaledit 
+\i (00:08:42) pick grid 2307.025 -498.537
+\t (00:08:42) last pick:  2300.000 -500.000
+\i (00:08:44) add connect 
+\t (00:08:44) Selected item not valid for current operation, ignored: Symbol "U1"
+\t (00:08:44) No valid items selected for the current operation, exiting.
+\i (00:08:44) generaledit 
+\i (00:08:45) pick grid 1052.501 -498.537
+\t (00:08:45) last pick:  1050.000 -500.000
+\i (00:08:46) add connect 
+\t (00:08:46) Pick first element.
+\i (00:08:47) pick grid 2295.824 -517.206
+\t (00:08:47) last pick:  2300.000 -525.000
+\t (00:08:47) last pick:  2300.000 -500.000
+\t (00:08:47) Target Symbol Pin is defined on TOP.
+\t (00:08:47) last pick:  2300.000 -500.000
+\i (00:08:47) mouse_pos 2702.798 -524.673
+\i (00:08:48) pick grid 2762.537 -509.738
+\t (00:08:48) last pick:  2775.000 -500.000
+\t (00:08:48) No DRC errors detected.
+\t (00:08:48) Pick first element.
+\i (00:08:50) pick grid 2814.809 -513.472
+\t (00:08:50) last pick:  2825.000 -525.000
+\t (00:08:50) Pick first element.
+\t (00:08:50) last pick:  2800.000 -500.000
+\t (00:08:50) Target Symbol Pin is defined on TOP.
+\t (00:08:50) last pick:  2800.000 -500.000
+\i (00:08:50) mouse_pos 3288.989 -491.070
+\i (00:08:51) pick grid 3363.663 -491.070
+\t (00:08:51) last pick:  3375.000 -500.000
+\t (00:08:51) No DRC errors detected.
+\t (00:08:51) Pick first element.
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 2755.069 -920.446
+\i (00:08:52) trapsize 9334
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 2755.069 -918.579
+\i (00:08:52) trapsize 4667
+\i (00:08:53) zoom out 1 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom out 2875.482 -970.851
+\i (00:08:53) trapsize 9334
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 3226.449 -1095.929
+\i (00:08:56) trapsize 18669
+\i (00:08:57) roam start
+\i (00:08:57) roam x -32
+\i (00:08:57) roam y 48
+\i (00:08:57) roam x -32
+\i (00:08:57) roam y 80
+\i (00:08:57) roam x -16
+\i (00:08:57) roam y 16
+\i (00:08:57) roam end
+\i (00:08:58) zoom in 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom in 2132.309 -2041.129
+\i (00:08:58) trapsize 9334
+\i (00:08:58) zoom out 1 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom out 2332.062 -1953.387
+\i (00:08:58) trapsize 18669
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 2335.796 -1139.440
+\i (00:08:59) trapsize 9334
+\i (00:09:00) zoom in 1 
+\i (00:09:00) setwindow pcb
+\i (00:09:00) zoom in 2335.796 -1139.440
+\i (00:09:00) trapsize 4667
+\i (00:09:01) zoom out 1 
+\i (00:09:01) setwindow pcb
+\i (00:09:01) zoom out 2335.796 -1146.907
+\i (00:09:01) trapsize 9334
+\i (00:09:02) zoom out 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 2345.130 -1171.177
+\i (00:09:02) trapsize 18669
+\i (00:09:03) roam start
+\i (00:09:03) roam x 16
+\i (00:09:03) roam x 48
+\i (00:09:04) roam x 16
+\i (00:09:04) roam x 16
+\i (00:09:04) roam x 16
+\i (00:09:05) roam x 16
+\i (00:09:05) roam x 16
+\i (00:09:05) roam y -16
+\i (00:09:06) roam end
+\i (00:09:07) zoom in 1 
+\i (00:09:07) setwindow pcb
+\i (00:09:07) zoom in 2651.292 -1227.182
+\i (00:09:07) trapsize 9334
+\i (00:09:16) zoom out 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom out 2636.358 -1141.307
+\i (00:09:16) trapsize 18669
+\i (00:09:18) prepopup 2636.358 -913.550
+\i (00:09:18) done 
+\i (00:09:19) generaledit 
+\i (00:09:20) drag_start grid 2124.840 -2007.525
+\i (00:09:20) move 
+\t (00:09:21) last pick:  2100.000 -1800.000
+\t (00:09:21) Moving Q1 / MOSFET N_STFW3N150_MOSFET N / STFW3N150.
+\t (00:09:21) Pick new location for the element(s).
+\i (00:09:21) drag_stop grid 847.914 -935.952
+\i (00:09:22) generaledit 
+\i (00:09:23) drag_start grid 1736.535 -991.958
+\i (00:09:23) move 
+\t (00:09:23) last pick:  2300.000 -700.000
+\t (00:09:23) Moving U1 / B00JVJDEZE_B00JVJDEZE_B00JVJDEZ / B00JVJDEZE.
+\t (00:09:23) Pick new location for the element(s).
+\i (00:09:24) drag_stop grid 1919.487 -2675.858
+\i (00:09:25) generaledit 
+\i (00:09:25) prepopup 1680.530 -2896.146
+\i (00:09:26) pop dyn_option_select @:@Spin 
+\i (00:09:26) spin 
+\t (00:09:27) Moving U1 / B00JVJDEZE_B00JVJDEZE_B00JVJDEZ / B00JVJDEZE.
+\i (00:09:28) iangle -180.000
+\t (00:09:28) last angle:  0.000 Degrees
+\i (00:09:29) generaledit 
+\i (00:09:30) drag_start grid 1826.144 -2784.135
+\i (00:09:30) move 
+\t (00:09:30) last pick:  1925.000 -2675.000
+\t (00:09:30) Moving U1 / B00JVJDEZE_B00JVJDEZE_B00JVJDEZ / B00JVJDEZE.
+\t (00:09:30) Pick new location for the element(s).
+\i (00:09:32) drag_stop grid 1549.850 -2675.858
+\i (00:09:32) generaledit 
+\i (00:09:33) drag_start grid 1594.655 -215.348
+\i (00:09:34) drag_stop 3719.132 -734.332
+\i (00:09:35) prepopup 3427.903 -644.724
+\i (00:09:36) pop dyn_option_select @:@Move 
+\i (00:09:36) move 
+\t (00:09:36) last pick:  3425.000 -650.000
+\t (00:09:36) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:09:36) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:09:36) Pick new location for the element(s).
+\i (00:09:41) pick grid 3454.039 -2911.081
+\t (00:09:41) last pick:  3450.000 -2900.000
+\i (00:09:41) generaledit 
+\i (00:09:42) drag_start grid 3088.136 -2974.554
+\i (00:09:42) move 
+\t (00:09:42) last pick:  3050.000 -2925.000
+\t (00:09:42) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\t (00:09:42) Pick new location for the element(s).
+\i (00:09:45) drag_stop grid 4107.437 -1555.747
+\i (00:09:45) generaledit 
+\i (00:09:51) setwindow form.find
+\i (00:09:51) FORM find all_on  
+\i (00:09:52) setwindow pcb
+\i (00:09:52) drag_start grid 1740.269 -196.679
+\i (00:09:53) drag_stop 2472.075 -1865.644
+\i (00:09:54) prepopup 2192.047 -1044.230
+\i (00:09:56) pop dyn_option_select @:@Delete 
+\i (00:09:56) delete 
+\t (00:09:56) Selected item not valid for current operation, ignored: Ratsnest "N00239, Q1.3:R1.1"
+\t (00:09:56) Selected item not valid for current operation, ignored: Ratsnest "N00199, R2.2:Q1.2"
+\i (00:09:56) generaledit 
+\i (00:09:57) prepopup 1904.552 -611.120
+\i (00:09:58) pick grid 1781.340 -394.565
+\t (00:09:58) last pick:  1775.000 -400.000
+\i (00:10:00) prepopup 1150.344 -823.941
+\i (00:10:00) pop dyn_option_select @:@Move 
+\i (00:10:01) move 
+\t (00:10:01) last pick:  1150.000 -825.000
+\t (00:10:01) last pick:  850.000 -925.000
+\t (00:10:01) Moving Q1 / MOSFET N_STFW3N150_MOSFET N / STFW3N150.
+\t (00:10:01) Pick new location for the element(s).
+\i (00:10:15) prepopup 1908.286 -1335.459
+\i (00:10:17) rotate 
+\t (00:10:17) Spin the element(s).
+\i (00:10:18) iangle 90.000
+\t (00:10:18) last angle:  0.000 Degrees
+\i (00:10:21) pick grid 1841.079 -1204.779
+\t (00:10:21) last pick:  1850.000 -1200.000
+\i (00:10:21) generaledit 
+\i (00:10:22) pick grid 556.685 -2022.460
+\t (00:10:22) last pick:  550.000 -2025.000
+\i (00:10:24) add connect 
+\t (00:10:24) Pick first element.
+\i (00:10:25) add connect 
+\t (00:10:26) Pick first element.
+\i (00:10:26) zoom in 1 
+\i (00:10:26) setwindow pcb
+\i (00:10:26) zoom in 1617.057 -2578.782
+\i (00:10:26) trapsize 9334
+\i (00:10:28) pick grid 1549.851 -2575.048
+\t (00:10:28) last pick:  1550.000 -2575.000
+\t (00:10:28) Target Symbol Pin is defined on TOP.
+\t (00:10:28) last pick:  1550.000 -2575.000
+\i (00:10:30) pick grid 1738.403 -1945.919
+\t (00:10:30) last pick:  1750.000 -1950.000
+\t (00:10:30) No DRC errors detected.
+\i (00:10:30) mouse_pos 1753.337 -1636.022
+\i (00:10:31) pick grid 1755.204 -1587.483
+\t (00:10:31) last pick:  1750.000 -1575.000
+\t (00:10:31) No DRC errors detected.
+\t (00:10:31) Pick first element.
+\i (00:10:32) zoom out 1 
+\i (00:10:32) setwindow pcb
+\i (00:10:32) zoom out 2160.311 -2046.729
+\i (00:10:32) trapsize 18669
+\i (00:10:33) zoom in 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom in 2668.095 -3024.959
+\i (00:10:34) trapsize 9334
+\i (00:10:35) pick grid 1555.451 -2879.344
+\t (00:10:35) last pick:  1550.000 -2875.000
+\t (00:10:35) Pick first element.
+\t (00:10:35) Target Symbol Pin is defined on TOP.
+\t (00:10:35) last pick:  1550.000 -2875.000
+\i (00:10:36) mouse_pos 2063.235 -2871.877
+\i (00:10:36) pick grid 2137.909 -2870.010
+\t (00:10:36) last pick:  2150.000 -2875.000
+\t (00:10:36) No DRC errors detected.
+\t (00:10:36) Pick first element.
+\i (00:10:37) prepopup 2858.513 -3095.899
+\i (00:10:38) done 
+\i (00:10:38) generaledit 
+\i (00:10:39) prepopup 2886.516 -2871.877
+\i (00:10:41) pop dyn_option_select @:@Spin 
+\i (00:10:42) spin 
+\t (00:10:42) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\i (00:10:44) iangle -180.000
+\t (00:10:44) last angle:  270.000 Degrees
+\i (00:10:44) generaledit 
+\i (00:10:45) prepopup 3386.832 -2911.081
+\i (00:10:46) pop dyn_option_select @:@Spin 
+\i (00:10:46) spin 
+\t (00:10:47) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\i (00:10:48) iangle -180.000
+\t (00:10:48) last angle:  270.000 Degrees
+\i (00:10:48) generaledit 
+\i (00:10:49) pick grid 3125.473 -3142.571
+\t (00:10:49) last pick:  3125.000 -3150.000
+\i (00:10:51) drag_start grid 2914.519 -2996.956
+\i (00:10:51) move 
+\t (00:10:51) last pick:  2825.000 -2850.000
+\t (00:10:51) Moving C1 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:10:51) Pick new location for the element(s).
+\i (00:10:53) drag_stop grid 2841.712 -2774.801
+\i (00:10:54) generaledit 
+\i (00:10:55) drag_start grid 3384.966 -2991.356
+\i (00:10:55) move 
+\t (00:10:56) last pick:  3425.000 -2850.000
+\t (00:10:56) Moving C2 / CAPACITOR_LARGE_R_C_CAPACITOR / LARGE_R_C.
+\t (00:10:56) Pick new location for the element(s).
+\i (00:10:58) drag_stop grid 3483.909 -2774.801
+\i (00:10:59) generaledit 
+\i (00:10:59) zoom out 1 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) zoom out 3093.737 -3052.962
+\i (00:10:59) trapsize 18669
+\i (00:11:00) roam start
+\i (00:11:00) roam x 16
+\i (00:11:00) roam x 128
+\i (00:11:00) roam end
+\i (00:11:02) add connect 
+\t (00:11:02) Selected item not valid for current operation, ignored: Filled Rectangle "C2, Package Geometry/Place_Bound_Top"
+\t (00:11:02) No valid items selected for the current operation, exiting.
+\i (00:11:02) generaledit 
+\i (00:11:03) pick grid 881.518 -2627.319
+\t (00:11:03) last pick:  875.000 -2625.000
+\i (00:11:04) add connect 
+\t (00:11:05) Pick first element.
+\i (00:11:06) pick grid 2154.711 -2896.146
+\t (00:11:06) last pick:  2150.000 -2900.000
+\t (00:11:06) last pick:  2150.000 -2875.000
+\t (00:11:06) Target Symbol Pin is defined on TOP.
+\t (00:11:06) last pick:  2150.000 -2875.000
+\i (00:11:06) mouse_pos 2740.902 -2862.542
+\i (00:11:07) pick grid 2815.576 -2873.743
+\t (00:11:07) last pick:  2825.000 -2875.000
+\t (00:11:07) No DRC errors detected.
+\t (00:11:07) Pick first element.
+\i (00:11:08) pick grid 2849.179 -2896.146
+\t (00:11:08) last pick:  2850.000 -2900.000
+\t (00:11:08) Pick first element.
+\t (00:11:08) last pick:  2850.000 -2875.000
+\t (00:11:08) Target Symbol Pin is defined on TOP.
+\t (00:11:08) last pick:  2850.000 -2875.000
+\i (00:11:08) mouse_pos 3364.430 -2866.276
+\i (00:11:09) pick grid 3439.104 -2866.276
+\t (00:11:09) last pick:  3450.000 -2875.000
+\t (00:11:09) No DRC errors detected.
+\t (00:11:09) Pick first element.
+\i (00:11:09) prepopup 3282.289 -3097.766
+\i (00:11:10) done 
+\i (00:11:10) generaledit 
+\i (00:11:11) zoom in 1 
+\i (00:11:11) setwindow pcb
+\i (00:11:11) zoom in 2475.809 -2657.189
+\i (00:11:11) trapsize 9334
+\i (00:11:11) zoom out 1 
+\i (00:11:11) setwindow pcb
+\i (00:11:11) zoom out 2501.945 -2597.449
+\i (00:11:11) trapsize 18669
+\i (00:11:12) zoom in 1 
+\i (00:11:12) setwindow pcb
+\i (00:11:12) zoom in 2546.749 -2548.911
+\i (00:11:12) trapsize 9334
+\i (00:11:13) zoom in 1 
+\i (00:11:13) setwindow pcb
+\i (00:11:13) zoom in 2584.086 -2519.041
+\i (00:11:13) trapsize 4667
+\i (00:11:14) zoom out 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom out 2541.148 -2483.571
+\i (00:11:14) trapsize 9334
+\i (00:11:14) zoom out 1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) zoom out 2487.010 -2459.301
+\i (00:11:14) trapsize 18669
+\i (00:11:15) roam start
+\i (00:11:15) roam y -16
+\i (00:11:15) roam x 16
+\i (00:11:15) roam y -48
+\i (00:11:15) roam x 16
+\i (00:11:15) roam y -16
+\i (00:11:15) roam y -16
+\i (00:11:15) roam x 32
+\i (00:11:15) roam y -16
+\i (00:11:15) roam x 48
+\i (00:11:15) roam end
+\i (00:11:16) zoom in 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom in 2363.798 -2041.130
+\i (00:11:16) trapsize 9334
+\i (00:11:17) zoom in 1 
+\i (00:11:17) setwindow pcb
+\i (00:11:17) zoom in 2330.194 -2080.334
+\i (00:11:17) trapsize 4667
+\i (00:11:18) zoom out 1 
+\i (00:11:18) setwindow pcb
+\i (00:11:18) zoom out 2303.125 -2060.732
+\i (00:11:18) trapsize 9334
+\i (00:11:18) roam start
+\i (00:11:18) roam y -16
+\i (00:11:19) roam x 48
+\i (00:11:19) roam y -48
+\i (00:11:19) roam x 16
+\i (00:11:19) roam y -16
+\i (00:11:19) roam x 16
+\i (00:11:19) roam y -32
+\i (00:11:19) roam x 16
+\i (00:11:19) roam y -32
+\i (00:11:19) roam x 16
+\i (00:11:19) roam y -32
+\i (00:11:19) roam x 16
+\i (00:11:19) roam y -48
+\i (00:11:19) roam x 16
+\i (00:11:19) roam y -32
+\i (00:11:19) roam end
+\i (00:11:25) drag_start grid 2976.123 -1370.930
+\i (00:11:25) move 
+\t (00:11:26) last pick:  2875.000 -1525.000
+\t (00:11:26) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:11:26) Pick new location for the element(s).
+\i (00:11:27) drag_stop grid 3360.695 -2112.070
+\i (00:11:27) generaledit 
+\i (00:11:28) drag_start grid 3375.629 -1296.256
+\i (00:11:28) move 
+\t (00:11:29) last pick:  3325.000 -1375.000
+\t (00:11:29) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:11:29) Pick new location for the element(s).
+\i (00:11:29) drag_stop grid 3004.126 -1120.772
+\i (00:11:29) generaledit 
+\i (00:11:30) prepopup 3015.327 -1208.514
+\i (00:11:31) pop dyn_option_select @:@Spin 
+\i (00:11:31) spin 
+\t (00:11:31) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\i (00:11:33) iangle -90.000
+\t (00:11:33) last angle:  180.000 Degrees
+\i (00:11:33) generaledit 
+\i (00:11:34) drag_start grid 3039.596 -1118.905
+\i (00:11:34) move 
+\t (00:11:34) last pick:  3000.000 -1125.000
+\t (00:11:34) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:11:34) Pick new location for the element(s).
+\i (00:11:35) drag_stop grid 3067.599 -1202.913
+\i (00:11:36) generaledit 
+\i (00:11:37) add connect 
+\t (00:11:37) Selected item not valid for current operation, ignored: Filled Rectangle "R2, Package Geometry/Place_Bound_Top"
+\t (00:11:37) No valid items selected for the current operation, exiting.
+\i (00:11:37) generaledit 
+\i (00:11:37) pick grid 1200.748 -1021.829
+\t (00:11:37) last pick:  1200.000 -1025.000
+\i (00:11:38) pick grid 1219.416 -1038.631
+\t (00:11:38) last pick:  1225.000 -1050.000
+\i (00:11:38) add connect 
+\t (00:11:39) Pick first element.
+\i (00:11:42) pick grid 1854.146 -1184.245
+\t (00:11:42) last pick:  1850.000 -1175.000
+\t (00:11:42) last pick:  1850.000 -1200.000
+\t (00:11:42) Target Symbol Pin is defined on TOP.
+\t (00:11:42) last pick:  1850.000 -1200.000
+\i (00:11:43) mouse_pos 2912.650 -1208.514
+\i (00:11:43) pick grid 2938.786 -1208.514
+\t (00:11:43) last pick:  2950.000 -1200.000
+\t (00:11:43) No DRC errors detected.
+\t (00:11:43) Pick first element.
+\i (00:11:46) prepopup 2615.821 -1378.397
+\i (00:11:47) done 
+\i (00:11:47) generaledit 
+\i (00:11:47) zoom out 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom out 3063.865 -1527.746
+\i (00:11:48) trapsize 18669
+\i (00:11:48) roam start
+\i (00:11:48) roam x 16
+\i (00:11:48) roam y 16
+\i (00:11:49) roam x 32
+\i (00:11:49) roam y 16
+\i (00:11:49) roam end
+\i (00:11:51) pick grid 3864.747 -2097.135
+\t (00:11:51) last pick:  3875.000 -2100.000
+\i (00:11:53) zoom in 1 
+\i (00:11:53) setwindow pcb
+\i (00:11:53) zoom in 2580.353 -2283.820
+\i (00:11:53) trapsize 9334
+\i (00:11:56) zoom out 1 
+\i (00:11:56) setwindow pcb
+\i (00:11:56) zoom out 2599.021 -2203.546
+\i (00:11:56) trapsize 18669
+\i (00:12:14) undo 
+\i (00:12:14) trapsize 9334
+\i (00:12:14) generaledit 
+\i (00:12:15) zoom out 1 
+\i (00:12:15) setwindow pcb
+\i (00:12:15) zoom out 2815.574 -1499.743
+\i (00:12:15) trapsize 18669
+\i (00:12:17) prepopup 3267.353 -1533.346
+\i (00:12:18) pick grid 3517.511 -1260.785
+\t (00:12:18) last pick:  3525.000 -1250.000
+\i (00:12:22) setwindow form.find
+\i (00:12:22) FORM find all_off  
+\i (00:12:22) FORM find symbols YES 
+\i (00:12:24) setwindow pcb
+\i (00:12:24) pick grid 3726.598 -995.692
+\t (00:12:24) last pick:  3725.000 -1000.000
+\i (00:12:27) prepopup 4141.039 -1619.221
+\i (00:12:29) pop dyn_option_select @:@Spin 
+\i (00:12:29) spin 
+\t (00:12:29) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\i (00:12:30) iangle 90.000
+\t (00:12:30) last angle:  270.000 Degrees
+\i (00:12:30) generaledit 
+\i (00:12:32) drag_start grid 4111.170 -1492.275
+\i (00:12:32) move 
+\t (00:12:32) last pick:  4100.000 -1550.000
+\t (00:12:32) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\t (00:12:32) Pick new location for the element(s).
+\i (00:12:32) drag_stop grid 3808.740 -1522.144
+\i (00:12:32) generaledit 
+\i (00:12:33) drag_start grid 3801.272 -1496.008
+\i (00:12:34) move 
+\t (00:12:34) last pick:  3800.000 -1525.000
+\t (00:12:34) Moving J1 / COMB_ELECTRODE_COMB_ELECTRODE_F / COMB_ELECTRODE_FULL.
+\t (00:12:34) Pick new location for the element(s).
+\i (00:12:37) drag_stop grid 3061.999 -1761.101
+\i (00:12:37) generaledit 
+\i (00:12:38) zoom in 1 
+\i (00:12:38) setwindow pcb
+\i (00:12:38) zoom in 2991.059 -2209.146
+\i (00:12:38) trapsize 9334
+\i (00:12:39) zoom in 1 
+\i (00:12:39) setwindow pcb
+\i (00:12:39) zoom in 3019.062 -2209.146
+\i (00:12:39) trapsize 4667
+\i (00:12:40) zoom out 1 
+\i (00:12:40) setwindow pcb
+\i (00:12:40) zoom out 3154.409 -2153.140
+\i (00:12:40) trapsize 9334
+\i (00:12:41) drag_start grid 3395.233 -2009.393
+\i (00:12:41) move 
+\t (00:12:42) last pick:  3350.000 -2100.000
+\t (00:12:42) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:12:42) Pick new location for the element(s).
+\i (00:12:51) drag_stop grid 2795.974 -2097.135
+\i (00:12:52) generaledit 
+\i (00:12:52) prepopup 3109.605 -1794.705
+\i (00:12:54) pop dyn_option_select '@:@Unplace component' 
+\i (00:12:54) unplace component 
+\i (00:12:54) generaledit 
+\i (00:12:55) drag_start grid 2881.849 -1992.591
+\i (00:12:55) move 
+\t (00:12:56) last pick:  2800.000 -2100.000
+\t (00:12:56) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:12:56) Pick new location for the element(s).
+\i (00:12:57) drag_stop grid 3111.472 -1845.110
+\i (00:12:57) generaledit 
+\i (00:12:58) prepopup 3173.078 -1822.708
+\i (00:13:00) pop dyn_option_select @:@Spin 
+\i (00:13:00) spin 
+\t (00:13:00) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\i (00:13:03) iangle 90.000
+\t (00:13:03) last angle:  180.000 Degrees
+\i (00:13:03) generaledit 
+\i (00:13:04) pick grid 3348.562 -1878.713
+\t (00:13:04) last pick:  3350.000 -1875.000
+\i (00:13:06) prepopup 3128.273 -1889.914
+\i (00:13:07) pop dyn_option_select @:@Spin 
+\i (00:13:07) spin 
+\t (00:13:08) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\i (00:13:10) iangle 90.000
+\t (00:13:10) last angle:  270.000 Degrees
+\i (00:13:10) generaledit 
+\i (00:13:11) pick grid 3348.562 -1919.784
+\t (00:13:11) last pick:  3350.000 -1925.000
+\i (00:13:12) drag_start grid 3176.812 -1927.251
+\i (00:13:12) move 
+\t (00:13:12) last pick:  3100.000 -1850.000
+\t (00:13:12) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:13:12) Pick new location for the element(s).
+\i (00:13:19) drag_stop grid 2963.990 -1930.985
+\i (00:13:19) generaledit 
+\i (00:13:20) pick grid 3275.755 -1899.249
+\t (00:13:20) last pick:  3275.000 -1900.000
+\i (00:13:21) drag_start grid 3042.398 -1906.716
+\i (00:13:21) move 
+\t (00:13:21) last pick:  2975.000 -1925.000
+\t (00:13:21) Moving R1 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:13:21) Pick new location for the element(s).
+\i (00:13:24) drag_stop grid 2848.246 -1988.858
+\i (00:13:24) generaledit 
+\i (00:13:25) pick grid 3161.877 -2112.070
+\t (00:13:25) last pick:  3150.000 -2100.000
+\i (00:13:27) zoom in 1 
+\i (00:13:27) setwindow pcb
+\i (00:13:27) zoom in 3176.812 -1430.669
+\i (00:13:27) trapsize 4667
+\i (00:13:27) zoom out 1 
+\i (00:13:27) setwindow pcb
+\i (00:13:27) zoom out 3151.610 -1418.534
+\i (00:13:27) trapsize 9334
+\i (00:13:28) zoom out 1 
+\i (00:13:28) setwindow pcb
+\i (00:13:28) zoom out 3082.536 -1366.262
+\i (00:13:28) trapsize 18669
+\i (00:13:28) prepopup 3119.874 -1254.251
+\i (00:13:29) pop dyn_option_select @:@Spin 
+\i (00:13:30) spin 
+\t (00:13:30) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\i (00:13:32) iangle 90.000
+\t (00:13:32) last angle:  270.000 Degrees
+\i (00:13:32) generaledit 
+\i (00:13:33) drag_start grid 3149.743 -1205.712
+\i (00:13:33) move 
+\t (00:13:33) last pick:  3075.000 -1200.000
+\t (00:13:33) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:13:33) Pick new location for the element(s).
+\i (00:13:34) drag_stop grid 2880.917 -1373.729
+\i (00:13:35) generaledit 
+\i (00:13:36) zoom in 1 
+\i (00:13:36) setwindow pcb
+\i (00:13:36) zoom in 2854.781 -1426.001
+\i (00:13:36) trapsize 9334
+\i (00:13:38) drag_start grid 2893.985 -1489.474
+\i (00:13:38) move 
+\t (00:13:38) last pick:  2875.000 -1375.000
+\t (00:13:38) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:13:38) Pick new location for the element(s).
+\i (00:13:46) drag_stop grid 2856.648 -1397.998
+\i (00:13:46) generaledit 
+\i (00:13:47) prepopup 2890.251 -1496.941
+\i (00:13:48) pop dyn_option_select @:@Spin 
+\i (00:13:48) spin 
+\t (00:13:49) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\i (00:13:50) iangle -360.000
+\t (00:13:50) last angle:  270.000 Degrees
+\i (00:13:51) generaledit 
+\i (00:13:52) pick grid 3091.871 -1474.539
+\t (00:13:52) last pick:  3100.000 -1475.000
+\i (00:13:53) zoom out 1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) zoom out 2987.328 -1403.599
+\i (00:13:53) trapsize 18669
+\i (00:13:54) roam start
+\i (00:13:54) roam y -16
+\i (00:13:54) roam y -48
+\i (00:13:54) roam end
+\i (00:13:55) zoom in 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom in 2901.453 -1339.193
+\i (00:13:55) trapsize 9334
+\i (00:13:55) zoom in 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom in 2901.453 -1339.193
+\i (00:13:55) trapsize 4667
+\i (00:13:56) zoom out 1 
+\i (00:13:56) setwindow pcb
+\i (00:13:56) zoom out 2901.453 -1353.194
+\i (00:13:56) trapsize 9334
+\i (00:13:56) zoom out 1 
+\i (00:13:56) setwindow pcb
+\i (00:13:56) zoom out 2895.853 -1355.060
+\i (00:13:56) trapsize 18669
+\i (00:13:59) add connect 
+\t (00:13:59) Pick first element.
+\i (00:13:59) zoom in 1 
+\i (00:13:59) setwindow pcb
+\i (00:13:59) zoom in 3254.290 -2161.540
+\i (00:13:59) trapsize 9334
+\i (00:13:59) zoom in 1 
+\i (00:13:59) setwindow pcb
+\i (00:13:59) zoom in 3254.290 -2161.540
+\i (00:13:59) trapsize 4667
+\i (00:14:01) zoom out 1 
+\i (00:14:01) setwindow pcb
+\i (00:14:01) zoom out 3108.676 -2287.553
+\i (00:14:01) trapsize 9334
+\i (00:14:03) pick grid 2535.552 -2871.877
+\t (00:14:03) last pick:  2525.000 -2875.000
+\t (00:14:03) Target Symbol Pin is defined on TOP.
+\t (00:14:03) last pick:  2525.000 -2875.000
+\i (00:14:03) mouse_pos 2757.707 -2119.535
+\i (00:14:04) mouse_pos 2733.438 -2102.734
+\i (00:14:05) mouse_pos 2739.039 -2112.068
+\i (00:14:06) pick grid 2763.308 -2108.334
+\t (00:14:06) last pick:  2775.000 -2100.000
+\t (00:14:06) No DRC errors detected.
+\t (00:14:06) Pick first element.
+\i (00:14:07) zoom out 1 
+\i (00:14:07) setwindow pcb
+\i (00:14:07) zoom out 3213.219 -2390.229
+\i (00:14:07) trapsize 18669
+\i (00:14:08) zoom in 1 
+\i (00:14:08) setwindow pcb
+\i (00:14:08) zoom in 3041.469 -2479.837
+\i (00:14:08) trapsize 9334
+\i (00:14:09) zoom in 1 
+\i (00:14:09) setwindow pcb
+\i (00:14:09) zoom in 3151.613 -2558.245
+\i (00:14:09) trapsize 4667
+\i (00:14:10) zoom out 1 
+\i (00:14:10) setwindow pcb
+\i (00:14:10) zoom out 3111.476 -2515.307
+\i (00:14:10) trapsize 9334
+\i (00:14:11) pick grid 3507.248 -2729.996
+\t (00:14:11) last pick:  3500.000 -2725.000
+\t (00:14:11) Pick first element.
+\t (00:14:11) last pick:  3475.000 -2745.000
+\t (00:14:11) Target Symbol Pin is defined on TOP.
+\t (00:14:11) last pick:  3475.000 -2745.000
+\i (00:14:12) mouse_pos 2962.127 -1975.788
+\i (00:14:13) mouse_pos 2965.861 -1964.587
+\i (00:14:16) pick grid 3324.297 -1986.989
+\t (00:14:16) last pick:  3325.000 -1975.000
+\t (00:14:16) No DRC errors detected.
+\i (00:14:17) mouse_pos 2960.261 -1962.720
+\i (00:14:17) pick grid 2935.991 -1962.720
+\t (00:14:17) last pick:  2925.000 -1975.000
+\t (00:14:17) No DRC errors detected.
+\t (00:14:17) Pick first element.
+\i (00:14:18) pick grid 2891.187 -2737.463
+\t (00:14:18) last pick:  2900.000 -2725.000
+\t (00:14:18) Pick first element.
+\t (00:14:18) last pick:  2850.000 -2745.000
+\t (00:14:18) Target Symbol Pin is defined on TOP.
+\t (00:14:18) last pick:  2850.000 -2745.000
+\i (00:14:19) mouse_pos 3369.101 -2744.931
+\i (00:14:19) pick grid 3440.041 -2739.330
+\t (00:14:19) last pick:  3450.000 -2750.000
+\t (00:14:19) No DRC errors detected.
+\t (00:14:19) Pick first element.
+\i (00:14:20) zoom out 1 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) zoom out 3034.935 -2304.354
+\i (00:14:20) trapsize 18669
+\i (00:14:21) zoom in 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom in 2803.445 -1751.765
+\i (00:14:21) trapsize 9334
+\i (00:14:23) pick grid 2799.711 -1957.118
+\t (00:14:23) last pick:  2800.000 -1950.000
+\t (00:14:23) Pick first element.
+\t (00:14:23) last pick:  2850.000 -1970.000
+\t (00:14:23) Target Symbol Pin is defined on TOP.
+\t (00:14:23) last pick:  2850.000 -1970.000
+\i (00:14:24) mouse_pos 1954.028 -1636.020
+\i (00:14:24) mouse_pos 1939.093 -1675.224
+\i (00:14:26) pick grid 1989.498 -1917.915
+\t (00:14:26) last pick:  2000.000 -1925.000
+\t (00:14:26) No DRC errors detected.
+\i (00:14:27) mouse_pos 1954.028 -1636.020
+\i (00:14:27) pick grid 1952.161 -1611.751
+\t (00:14:27) last pick:  1950.000 -1600.000
+\t (00:14:27) No DRC errors detected.
+\t (00:14:27) Pick first element.
+\i (00:14:28) prepopup 2514.083 -1647.221
+\i (00:14:29) done 
+\i (00:14:29) generaledit 
+\i (00:14:29) zoom out 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom out 2390.871 -1766.700
+\i (00:14:29) trapsize 18669
+\i (00:14:32) zoom out 1 
+\i (00:14:32) setwindow pcb
+\i (00:14:32) zoom out 2529.018 -1374.660
+\i (00:14:32) trapsize 37337
+\i (00:14:33) zoom in 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom in 2327.397 -842.610
+\i (00:14:33) trapsize 18669
+\i (00:14:33) zoom in 1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) zoom in 2327.397 -909.817
+\i (00:14:33) trapsize 9334
+\i (00:14:34) roam start
+\i (00:14:35) roam x -16
+\i (00:14:35) roam x -16
+\i (00:14:35) roam y 32
+\i (00:14:35) roam x -32
+\i (00:14:35) roam y 32
+\i (00:14:35) roam x -32
+\i (00:14:35) roam y 32
+\i (00:14:35) roam x -16
+\i (00:14:35) roam y 16
+\i (00:14:35) roam x -16
+\i (00:14:35) roam y 32
+\i (00:14:35) roam x -16
+\i (00:14:35) roam y 48
+\i (00:14:35) roam x -16
+\i (00:14:35) roam y 48
+\i (00:14:35) roam end
+\i (00:14:38) zoom out 1 
+\i (00:14:38) setwindow pcb
+\i (00:14:38) zoom out 3084.401 -1548.281
+\i (00:14:38) trapsize 18669
+\i (00:14:39) zoom in 1 
+\i (00:14:39) setwindow pcb
+\i (00:14:39) zoom in 2852.912 -1548.281
+\i (00:14:39) trapsize 9334
+\i (00:14:45) save 
+\i (00:14:47) fillin yes 
+\i (00:14:47) generaledit 
+\i (00:14:48) zoom in 1 
+\i (00:14:48) setwindow pcb
+\i (00:14:48) zoom in 2873.448 -1613.621
+\i (00:14:48) trapsize 4667
+\i (00:14:49) zoom out 1 
+\i (00:14:49) setwindow pcb
+\i (00:14:49) zoom out 2873.448 -1613.620
+\i (00:14:49) trapsize 9334
+\i (00:14:49) zoom out 1 
+\i (00:14:49) setwindow pcb
+\i (00:14:49) zoom out 2826.777 -1606.153
+\i (00:14:49) trapsize 18669
+\i (00:14:59) zoom in 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom in 1863.483 -1953.388
+\i (00:14:59) trapsize 9334
+\i (00:15:03) drag_start grid 2897.718 -1525.879
+\i (00:15:03) move 
+\t (00:15:03) last pick:  2850.000 -1400.000
+\t (00:15:03) Moving R2 / RESISTOR_LARGE_R_C_RESISTOR / LARGE_R_C.
+\t (00:15:03) Pick new location for the element(s).
+\i (00:15:05) drag_stop grid 980.462 -1938.453
+\i (00:15:05) generaledit 
+\i (00:15:05) pick grid 1174.615 -2319.290
+\t (00:15:05) last pick:  1175.000 -2325.000
+\i (00:15:06) zoom out 1 
+\i (00:15:06) setwindow pcb
+\i (00:15:06) zoom out 1060.737 -2244.616
+\i (00:15:06) trapsize 18669
+\i (00:15:07) zoom in 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom in 1139.144 -2453.704
+\i (00:15:07) trapsize 9334
+\i (00:15:08) roam start
+\i (00:15:08) roam y 16
+\i (00:15:08) roam y 16
+\i (00:15:08) roam x 16
+\i (00:15:08) roam y 32
+\i (00:15:08) roam x 16
+\i (00:15:08) roam y 32
+\i (00:15:08) roam x 16
+\i (00:15:08) roam y 16
+\i (00:15:08) roam end
+\i (00:15:16) save 
+\i (00:15:17) fillin yes 
+\i (00:15:17) generaledit 
+\i (00:15:23) opencd 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols/B00JVJDEZE.dra' 
+\t (00:15:23) Opening existing design...
+\i (00:15:23) trapsize 1161
+\i (00:15:23) trapsize 1185
+\i (00:15:23) trapsize 1185
+\t (00:15:24)     Journal end - Thu Mar 15 22:51:11 2018

@@ -1,57 +1,9 @@
-\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Mon Mar 05 13:41:19 2018
-\t (00:00:03)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=11948 CPUs=4
-\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:06) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
-\i (00:00:06) trapsize 4643
-\i (00:00:06) trapsize 4742
-\i (00:00:06) trapsize 4742
-\i (00:00:08) generaledit 
-\i (00:00:12) artwork 
-\w (00:00:13) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:00:15) fillin confirm
-\i (00:00:30) setwindow form.film_control
-\i (00:00:30) FORM film_control film_control  
-\i (00:00:41) FORM film_control undefined_line_width 0.254 
-\i (00:00:47) FORM film_control ok  
-\i (00:00:47) setwindow pcb
-\i (00:00:47) generaledit 
-\i (00:00:50) artwork 
-\w (00:00:50) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:00:52) fillin confirm
-\i (00:00:53) setwindow form.film_control
-\i (00:00:53) FORM film_control film_control  
-\i (00:00:57) FORM film_control filmtree  'BOARD GEOMETRY/OUTLINE' DFX 
-\i (00:00:58) FORM film_control filmtree 'MULTISEL YES' DFX 
-\i (00:00:58) FORM film_control filmtree  DFX 
-\i (00:00:59) FORM film_control create  
-\i (00:01:00) fillin yes 
-\t (00:01:00) Checking db records
-\t (00:01:00)     checking for orphans...
-\e (00:01:00) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
-\i (00:01:00) setwindow pcb
-\i (00:01:00) setwindow text
-\i (00:01:00) stick
-\e (00:01:00) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\devices.dml
-\e (00:01:00) No device library files were opened
-\t (00:01:00)     Checked 100 percent
-\t (00:01:00) Done dbdoctor.
-\t (00:01:00) Starting Create artwork films...
-\w (00:01:02) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:01:03) Artwork generated with warnings.
-\i (00:01:05) setwindow text
-\i (00:01:05) close
-\i (00:01:06) setwindow text
-\i (00:01:06) close
-\i (00:01:07) setwindow form.film_control
-\i (00:01:07) FORM film_control cancel  
-\i (00:01:07) setwindow pcb
-\i (00:01:07) generaledit 
-\i (00:01:08) exit 
-\e (00:01:08) Do you want to save the changes you made to SMA_fabA.brd?
-\i (00:01:10) fillin yes 
-   (00:01:10) Loading signal.cxt 
-\t (00:01:10)     Journal end - Mon Mar 05 13:42:26 2018
+\t (00:00:16) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:16)     Journal start - Wed Mar 14 23:36:32 2018
+\t (00:00:16)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=5756 CPUs=4
+\t (00:00:16) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:16) 
+\d (00:00:16) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/comb_electrode_full.dra
+\i (00:00:16) generaledit 
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Wed Mar 14 23:36:35 2018

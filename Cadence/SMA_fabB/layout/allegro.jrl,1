@@ -1,0 +1,485 @@
+\t (00:00:14) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:14)     Journal start - Wed Mar 14 23:38:09 2018
+\t (00:00:14)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=7368 CPUs=4
+\t (00:00:14) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:14) 
+\d (00:00:14) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd
+\i (00:00:14) generaledit 
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ALL"
+\i (00:00:18) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 9.9877 -14.1268
+\i (00:00:19) trapsize 9484
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 21.7475 -24.1794
+\i (00:00:20) trapsize 4742
+\i (00:00:28) setwindow form.find
+\i (00:00:28) FORM find all_off  
+\i (00:00:29) FORM find cline_segs YES 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) drag_start grid -46.4403 15.6521
+\i (00:00:31) drag_stop 43.7497 -53.5789
+\i (00:00:35) prepopup 13.3070 -13.5577
+\i (00:00:40) pop dyn_option_select @:@Delete 
+\i (00:00:40) delete 
+\i (00:00:41) generaledit 
+\i (00:00:44) pick grid -47.9577 -15.9286
+\t (00:00:44) last pick:  -48.0060 -15.8525
+\i (00:00:52) setwindow form.find
+\i (00:00:52) FORM find symbols YES 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) drag_start grid -49.3802 16.3160
+\i (00:00:54) drag_stop 43.7497 -52.9150
+\i (00:00:55) prepopup 37.0163 -48.5525
+\i (00:00:56) pop dyn_option_select '@:@Unplace component' 
+\i (00:00:57) unplace component 
+\i (00:00:57) generaledit 
+\i (00:01:02) setwindow form.find
+\i (00:01:02) FORM find all_off  
+\i (00:01:04) setwindow pcb
+\i (00:01:04) save 
+\i (00:01:05) fillin yes 
+\i (00:01:05) generaledit 
+\i (00:01:08) netin 
+\i (00:01:10) setwindow form.niparams
+\i (00:01:10) FORM niparams browse  
+\i (00:01:15) fillin "allegro"
+\i (00:01:23) FORM niparams import  
+\t (00:01:23) Starting Cadence Logic Import...
+\w (00:01:24) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:01:24) Opening existing design...
+\i (00:01:24) setwindow pcb
+\i (00:01:24) trapsize 4742
+\e (00:01:24) ERROR(SPMHDB-210): OrCAD PCB Designer Lite is limited to 50 components.
+\e (00:01:24) To save this design ERROR(SPMHDB-210): OrCAD PCB Designer Lite is limited to 50 components. Save design disabled.
+\i (00:01:35) fillin confirm
+\i (00:01:37) generaledit 
+\i (00:01:57) setwindow text
+\i (00:01:57) close
+\i (00:02:02) enved 
+\i (00:02:03) generaledit 
+\i (00:02:09) setwindow form.prfedit
+\i (00:02:09) FORM prfedit treelist  Paths 
+\i (00:02:09) FORM prfedit treelist  Config Paths 
+\i (00:02:14) FORM prfedit treelist  Library Paths 
+\i (00:02:15) FORM prfedit padpath  
+\i (00:02:26) FORM prfedit psmpath  
+\i (00:02:32) FORM prfedit done  
+\i (00:02:35) setwindow pcb
+\i (00:02:35) done 
+\i (00:02:36) place manual 
+\i (00:02:36) FORM plc_manual placement_list 
+\i (00:02:36) FORM plc_manual categories Components by refdes 
+\i (00:02:36) trapsize 4742
+\i (00:02:46) setwindow form.plc_manual
+\i (00:02:46) FORM plc_manual cancel  
+\i (00:02:46) setwindow pcb
+\i (00:02:46) generaledit 
+\i (00:02:50) color192 
+\i (00:02:50) generaledit 
+\i (00:02:57) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:02:57) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:03:02) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: DFX"
+\i (00:03:02) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: DFX"
+\i (00:03:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB_NOTES"
+\i (00:03:06) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB_NOTES"
+\i (00:03:11) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ALL"
+\i (00:03:11) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:03:12) zoom out 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom out -23.3949 4.2717
+\i (00:03:12) trapsize 9484
+\i (00:03:13) zoom in 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom in -24.1537 0.8576
+\i (00:03:13) trapsize 4742
+\i (00:03:18) setwindow form.find
+\i (00:03:18) FORM find all_off  
+\i (00:03:21) FORM find other_segs YES 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) drag_start grid -40.8450 6.8323
+\i (00:03:26) drag_stop 40.2407 -47.6989
+\i (00:03:27) prepopup 23.0752 -39.1636
+\i (00:03:28) pop dyn_option_select @:@Delete 
+\i (00:03:28) delete 
+\i (00:03:28) generaledit 
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in -34.3961 -48.8370
+\i (00:03:30) trapsize 2371
+\i (00:03:31) drag_start grid -40.9872 -48.7896
+\i (00:03:34) drag_stop 22.9329 -49.9750
+\i (00:03:39) prepopup 17.4324 -49.8328
+\i (00:03:40) pop dyn_option_select @:@Delete 
+\i (00:03:40) delete 
+\i (00:03:40) generaledit 
+\i (00:03:41) drag_start grid 19.6136 -49.0741
+\i (00:03:43) drag_stop -41.3191 -50.4967
+\i (00:03:44) prepopup -40.2285 -49.9276
+\i (00:03:46) pop dyn_option_select @:@Delete 
+\i (00:03:46) delete 
+\i (00:03:46) generaledit 
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out -32.3570 -53.2943
+\i (00:03:47) trapsize 4742
+\i (00:03:48) zoom in 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom in 38.4861 -51.8718
+\i (00:03:48) trapsize 2371
+\i (00:03:48) drag_start grid 18.1435 -47.2722
+\i (00:03:49) drag_stop 42.4692 -51.9192
+\i (00:03:50) pick grid 32.1320 -47.6515
+\t (00:03:50) last pick:  32.2580 -47.6025
+\i (00:03:51) drag_start grid 20.2299 -46.0867
+\i (00:03:52) drag_stop 41.3786 -52.9624
+\i (00:03:53) prepopup 40.2405 -49.8802
+\i (00:03:54) pop dyn_option_select @:@Delete 
+\i (00:03:54) delete 
+\i (00:03:54) generaledit 
+\i (00:03:55) zoom out 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom out 24.1183 -47.1773
+\i (00:03:55) trapsize 4742
+\i (00:03:58) zoom in 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom in -27.8525 -16.9243
+\i (00:03:58) trapsize 2371
+\i (00:03:59) zoom out 1 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) zoom out -28.3266 -17.0192
+\i (00:03:59) trapsize 4742
+\i (00:03:59) roam start
+\i (00:03:59) roam x -48
+\i (00:03:59) roam y -16
+\i (00:04:00) roam x -32
+\i (00:04:00) roam y -16
+\i (00:04:00) roam x -32
+\i (00:04:00) roam x -32
+\i (00:04:00) roam y -16
+\i (00:04:00) roam x -32
+\i (00:04:00) roam x -32
+\i (00:04:00) roam x -48
+\i (00:04:00) roam y 16
+\i (00:04:00) roam y 16
+\i (00:04:01) roam x -16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam y 16
+\i (00:04:01) roam end
+\i (00:04:05) pick grid 3.9944 -11.0638
+\t (00:04:05) last pick:  4.0640 -11.0265
+\i (00:04:07) undo 
+\i (00:04:07) trapsize 2371
+\i (00:04:08) generaledit 
+\i (00:04:08) undo 
+\i (00:04:08) trapsize 2371
+\i (00:04:08) generaledit 
+\i (00:04:09) undo 
+\i (00:04:09) trapsize 2371
+\i (00:04:09) generaledit 
+\i (00:04:10) undo 
+\i (00:04:10) trapsize 4742
+\i (00:04:10) generaledit 
+\e (00:04:14) Command not found: ~Y
+\i (00:04:18) redo 
+\i (00:04:18) trapsize 4742
+\e (00:04:18) Unmatched quote
+\i (00:04:18) generaledit 
+\i (00:04:19) redo 
+\i (00:04:19) trapsize 2371
+\e (00:04:19) Unmatched quote
+\i (00:04:19) generaledit 
+\i (00:04:20) redo 
+\i (00:04:21) trapsize 2371
+\e (00:04:21) Unmatched quote
+\i (00:04:21) generaledit 
+\i (00:04:22) redo 
+\i (00:04:22) trapsize 2371
+\e (00:04:22) Unmatched quote
+\i (00:04:22) generaledit 
+\i (00:04:25) pick grid 14.4923 -51.1605
+\t (00:04:25) last pick:  14.4780 -51.1585
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 11.2204 -45.9445
+\i (00:04:26) trapsize 4742
+\i (00:04:27) roam start
+\i (00:04:27) roam x -64
+\i (00:04:27) roam x -96
+\i (00:04:27) roam x -32
+\i (00:04:28) roam x -16
+\i (00:04:28) roam y -16
+\i (00:04:28) roam x -64
+\i (00:04:28) roam y -64
+\i (00:04:28) roam x -32
+\i (00:04:28) roam y -32
+\i (00:04:28) roam end
+\i (00:04:30) drag_start grid -40.9583 7.4294
+\i (00:04:32) drag_stop 40.6015 -49.7573
+\i (00:04:33) prepopup 37.9461 -47.7657
+\i (00:04:34) pop dyn_option_select @:@Delete 
+\i (00:04:34) delete 
+\i (00:04:34) generaledit 
+\i (00:04:35) drag_start grid -41.0531 -47.8606
+\i (00:04:37) drag_stop 40.9809 -50.8005
+\i (00:04:38) pick grid tgl -32.3281 -53.3611
+\t (00:04:38) last pick:  -32.2580 -53.4445
+\i (00:04:40) pick grid tgl -29.4830 -51.6541
+\t (00:04:40) last pick:  -29.4640 -51.6665
+\i (00:04:41) pick grid tgl -30.3366 -50.4212
+\t (00:04:41) last pick:  -30.2260 -50.3965
+\i (00:04:42) prepopup -21.9909 -49.9470
+\i (00:04:43) pop dyn_option_select @:@Delete 
+\i (00:04:43) delete 
+\i (00:04:43) generaledit 
+\i (00:04:45) save 
+\e (00:04:45) Demo mode, design cannot be saved.
+\i (00:04:47) fillin confirm
+\i (00:04:47) generaledit 
+\i (00:05:03) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:05:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB_NOTES"
+\i (00:05:06) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB_NOTES"
+\i (00:05:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ALL"
+\i (00:05:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ALL"
+\i (00:05:09) pick grid -46.5537 0.9805
+\t (00:05:09) last pick:  -46.4820 0.9115
+\i (00:05:12) done 
+\i (00:05:12) place manual 
+\i (00:05:13) FORM plc_manual placement_list 
+\i (00:05:13) FORM plc_manual categories Components by refdes 
+\i (00:05:13) trapsize 4742
+\i (00:05:26) setwindow form.plc_manual
+\i (00:05:26) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\e (00:05:26) Cannot load symbol 'UA78M05CDCY'
+\i (00:05:26) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:05:26) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
+\i (00:05:26) FORM plc_manual tree  U4 'Components by refdes' 
+\i (00:05:27) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\i (00:05:27) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:05:28) FORM plc_manual tree 'MULTISEL YES' U6 'Components by refdes' 
+\i (00:05:28) FORM plc_manual tree  U6 'Components by refdes' 
+\i (00:05:28) FORM plc_manual tree 'MULTISEL YES' U8 'Components by refdes' 
+\i (00:05:28) FORM plc_manual tree  U8 'Components by refdes' 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) pick grid -18.5768 -10.2103
+\t (00:05:31) last pick:  -18.5420 -10.2645
+\e (00:05:31) Cannot load symbol 'TLV1117LV33DCYT'
+\i (00:05:32) pick grid -10.9898 -8.3135
+\t (00:05:32) last pick:  -10.9220 -8.2325
+\e (00:05:32) Cannot load symbol 'B00JVJDEZE'
+\i (00:05:47) setwindow form.plc_manual
+\i (00:05:47) FORM plc_manual cancel  
+\i (00:05:48) setwindow pcb
+\i (00:05:48) generaledit 
+\i (00:05:50) enved 
+\i (00:05:51) generaledit 
+\i (00:05:54) setwindow form.prfedit
+\i (00:05:54) FORM prfedit psmpath  
+\i (00:06:01) fillin "C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols"
+\i (00:06:07) FORM prfedit padpath  
+\i (00:06:16) fillin "C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols"
+\i (00:06:19) FORM prfedit done  
+\i (00:06:21) setwindow pcb
+\i (00:06:21) done 
+\i (00:06:21) place manual 
+\i (00:06:22) FORM plc_manual placement_list 
+\i (00:06:22) FORM plc_manual categories Components by refdes 
+\i (00:06:22) trapsize 4742
+\i (00:06:24) setwindow form.plc_manual
+\i (00:06:24) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\e (00:06:24) Cannot load symbol '0603_R'
+\i (00:06:24) FORM plc_manual tree  'Components by refdes' 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) pick grid -53.7613 -22.5391
+\t (00:06:26) last pick:  -53.8480 -22.4565
+\e (00:06:26) Cannot load symbol '0603_R'
+\i (00:06:27) pick grid -50.1575 -20.5475
+\t (00:06:27) last pick:  -50.0380 -20.4245
+\e (00:06:27) Cannot load symbol '0603_R'
+\i (00:06:27) pick grid -49.6833 -18.2714
+\t (00:06:27) last pick:  -49.7840 -18.3925
+\e (00:06:27) Cannot load symbol '0603_R'
+\i (00:06:28) pick grid -48.4504 -17.5127
+\t (00:06:28) last pick:  -48.5140 -17.6305
+\e (00:06:28) Cannot load symbol '0603_R'
+\i (00:06:29) pick grid -48.3556 -16.4695
+\t (00:06:29) last pick:  -48.2600 -16.3605
+\e (00:06:29) Cannot load symbol '0603_R'
+\i (00:06:30) pick grid dbl -48.3556 -16.4695
+\t (00:06:30) last pick:  -48.2600 -16.3605
+\e (00:06:30) Cannot load symbol '0603_R'
+\i (00:06:30) pick grid -48.3556 -16.4695
+\t (00:06:30) last pick:  -48.2600 -16.3605
+\e (00:06:30) Cannot load symbol '0603_R'
+\i (00:06:30) pick grid dbl -48.3556 -16.4695
+\t (00:06:30) last pick:  -48.2600 -16.3605
+\e (00:06:30) Cannot load symbol '0603_R'
+\i (00:06:30) pick grid -48.3556 -16.4695
+\t (00:06:30) last pick:  -48.2600 -16.3605
+\e (00:06:30) Cannot load symbol '0603_R'
+\i (00:06:30) pick grid dbl -48.3556 -16.4695
+\t (00:06:30) last pick:  -48.2600 -16.3605
+\e (00:06:30) Cannot load symbol '0603_R'
+\i (00:06:31) pick grid -48.3556 -16.4695
+\t (00:06:31) last pick:  -48.2600 -16.3605
+\e (00:06:31) Cannot load symbol '0603_R'
+\i (00:06:31) pick grid dbl -48.3556 -16.4695
+\t (00:06:31) last pick:  -48.2600 -16.3605
+\e (00:06:31) Cannot load symbol 'USBLC6-2SC6'
+\i (00:06:31) pick grid -48.3556 -16.4695
+\t (00:06:31) last pick:  -48.2600 -16.3605
+\e (00:06:31) Cannot load symbol '0603_R'
+\i (00:06:31) pick grid dbl -48.3556 -16.4695
+\t (00:06:31) last pick:  -48.2600 -16.3605
+\e (00:06:31) Cannot load symbol 'EJ503A'
+\i (00:06:31) pick grid -48.3556 -16.4695
+\t (00:06:31) last pick:  -48.2600 -16.3605
+\e (00:06:31) Cannot load symbol 'OS102011MS2QN1'
+\i (00:06:32) pick grid dbl -48.3556 -16.4695
+\t (00:06:32) last pick:  -48.2600 -16.3605
+\e (00:06:32) Cannot load symbol 'AU-Y1007'
+\i (00:06:32) pick grid -48.3556 -16.4695
+\t (00:06:32) last pick:  -48.2600 -16.3605
+\e (00:06:32) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:32) pick grid dbl -48.3556 -16.4695
+\t (00:06:32) last pick:  -48.2600 -16.3605
+\e (00:06:32) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:32) pick grid -48.3556 -16.4695
+\t (00:06:32) last pick:  -48.2600 -16.3605
+\e (00:06:32) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:32) pick grid dbl -48.3556 -16.4695
+\t (00:06:32) last pick:  -48.2600 -16.3605
+\e (00:06:32) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:33) pick grid -48.3556 -16.4695
+\t (00:06:33) last pick:  -48.2600 -16.3605
+\e (00:06:33) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:33) pick grid dbl -48.3556 -16.4695
+\t (00:06:33) last pick:  -48.2600 -16.3605
+\e (00:06:33) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:33) pick grid -48.3556 -16.4695
+\t (00:06:33) last pick:  -48.2600 -16.3605
+\e (00:06:33) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:33) pick grid dbl -48.3556 -16.4695
+\t (00:06:33) last pick:  -48.2600 -16.3605
+\e (00:06:33) Cannot load symbol 'COMB_ELECTRODE_FULL'
+\i (00:06:34) pick grid -48.3556 -16.4695
+\t (00:06:34) last pick:  -48.2600 -16.3605
+\e (00:06:34) Cannot load symbol 'STFW3N150'
+\i (00:06:34) pick grid dbl -48.3556 -16.4695
+\t (00:06:34) last pick:  -48.2600 -16.3605
+\e (00:06:34) Cannot load symbol 'STFW3N150'
+\i (00:06:34) pick grid -48.2607 -16.4695
+\t (00:06:34) last pick:  -48.2600 -16.3605
+\e (00:06:34) Cannot load symbol 'STFW3N150'
+\i (00:06:34) pick grid dbl -48.2607 -16.4695
+\t (00:06:34) last pick:  -48.2600 -16.3605
+\e (00:06:34) Cannot load symbol 'STFW3N150'
+\i (00:06:34) pick grid -48.2607 -16.5644
+\t (00:06:34) last pick:  -48.2600 -16.6145
+\e (00:06:34) Cannot load symbol 'STFW3N150'
+\i (00:06:35) pick grid dbl -48.2607 -16.5644
+\t (00:06:35) last pick:  -48.2600 -16.6145
+\e (00:06:35) Cannot load symbol 'STFW3N150'
+\i (00:06:35) pick grid -48.2607 -16.5644
+\t (00:06:35) last pick:  -48.2600 -16.6145
+\e (00:06:35) Cannot load symbol 'STFW3N150'
+\i (00:06:35) pick grid dbl -48.2607 -16.5644
+\t (00:06:35) last pick:  -48.2600 -16.6145
+\e (00:06:35) Cannot load symbol 'STFW3N150'
+\i (00:06:35) pick grid -48.2607 -16.5644
+\t (00:06:35) last pick:  -48.2600 -16.6145
+\e (00:06:35) Cannot load symbol '0603_R'
+\i (00:06:35) pick grid dbl -48.2607 -16.5644
+\t (00:06:35) last pick:  -48.2600 -16.6145
+\e (00:06:36) Cannot load symbol '0603_R'
+\i (00:06:36) pick grid -48.2607 -16.5644
+\t (00:06:36) last pick:  -48.2600 -16.6145
+\e (00:06:36) Cannot load symbol '0603_R'
+\i (00:06:36) pick grid dbl -48.2607 -16.5644
+\t (00:06:36) last pick:  -48.2600 -16.6145
+\e (00:06:36) Cannot load symbol '0603_R'
+\i (00:06:36) pick grid -48.2607 -16.5644
+\t (00:06:36) last pick:  -48.2600 -16.6145
+\e (00:06:36) Cannot load symbol '0603_R'
+\i (00:06:36) pick grid dbl -48.2607 -16.5644
+\t (00:06:36) last pick:  -48.2600 -16.6145
+\e (00:06:36) Cannot load symbol '0603_R'
+\i (00:06:37) pick grid -48.2607 -16.5644
+\t (00:06:37) last pick:  -48.2600 -16.6145
+\e (00:06:37) Cannot load symbol '0603_R'
+\i (00:06:37) pick grid dbl -48.2607 -16.5644
+\t (00:06:37) last pick:  -48.2600 -16.6145
+\e (00:06:37) Cannot load symbol '0603_R'
+\i (00:06:37) pick grid -48.2607 -16.5644
+\t (00:06:37) last pick:  -48.2600 -16.6145
+\e (00:06:37) Cannot load symbol '0603_R'
+\i (00:06:37) pick grid dbl -48.2607 -16.5644
+\t (00:06:37) last pick:  -48.2600 -16.6145
+\e (00:06:37) Cannot load symbol '0603_R'
+\i (00:06:38) pick grid -48.2607 -16.5644
+\t (00:06:38) last pick:  -48.2600 -16.6145
+\e (00:06:38) Cannot load symbol '0603_R'
+\i (00:06:38) pick grid dbl -48.2607 -16.5644
+\t (00:06:38) last pick:  -48.2600 -16.6145
+\e (00:06:38) Cannot load symbol '0603_R'
+\i (00:06:38) pick grid -48.2607 -16.5644
+\t (00:06:38) last pick:  -48.2600 -16.6145
+\e (00:06:38) Cannot load symbol '0603_R'
+\i (00:06:38) pick grid dbl -48.2607 -16.5644
+\t (00:06:38) last pick:  -48.2600 -16.6145
+\e (00:06:38) Cannot load symbol '0603_R'
+\i (00:06:38) pick grid -48.2607 -16.5644
+\t (00:06:38) last pick:  -48.2600 -16.6145
+\e (00:06:38) Cannot load symbol '0603_R'
+\i (00:06:39) pick grid dbl -48.2607 -16.5644
+\t (00:06:39) last pick:  -48.2600 -16.6145
+\e (00:06:39) Cannot load symbol '0603_R'
+\i (00:06:39) pick grid -48.2607 -16.5644
+\t (00:06:39) last pick:  -48.2600 -16.6145
+\e (00:06:39) Cannot load symbol '0603_R'
+\i (00:06:39) pick grid dbl -48.2607 -16.5644
+\t (00:06:39) last pick:  -48.2600 -16.6145
+\e (00:06:39) Cannot load symbol '0603_R'
+\i (00:06:39) pick grid -48.2607 -16.5644
+\t (00:06:39) last pick:  -48.2600 -16.6145
+\e (00:06:39) Cannot load symbol 'UA78M05CDCY'
+\i (00:06:40) pick grid dbl -48.2607 -16.5644
+\t (00:06:40) last pick:  -48.2600 -16.6145
+\e (00:06:40) Cannot load symbol 'TLV1117LV33DCYT'
+\i (00:06:40) pick grid -48.2607 -16.5644
+\t (00:06:40) last pick:  -48.2600 -16.6145
+\e (00:06:40) Cannot load symbol 'B00JVJDEZE'
+\i (00:06:40) pick grid dbl -48.2607 -16.5644
+\t (00:06:40) last pick:  -48.2600 -16.6145
+\e (00:06:40) Cannot load symbol 'FT-201X'
+\i (00:06:40) pick grid -48.2607 -16.5644
+\t (00:06:40) last pick:  -48.2600 -16.6145
+\e (00:06:40) Cannot load symbol 'PCF8575DW'
+\i (00:06:40) pick grid dbl -48.2607 -16.5644
+\t (00:06:40) last pick:  -48.2600 -16.6145
+\i (00:06:41) pick grid -48.2607 -16.5644
+\t (00:06:41) last pick:  -48.2600 -16.6145
+\i (00:06:41) pick grid dbl -48.2607 -16.5644
+\t (00:06:41) last pick:  -48.2600 -16.6145
+\i (00:06:42) pick grid -48.2607 -16.5644
+\t (00:06:42) last pick:  -48.2600 -16.6145
+\i (00:06:42) pick grid dbl -48.2607 -16.5644
+\t (00:06:42) last pick:  -48.2600 -16.6145
+\i (00:06:45) setwindow form.plc_manual
+\i (00:06:45) FORM plc_manual done  
+\i (00:06:45) setwindow pcb
+\i (00:06:45) generaledit 
+\i (00:06:50) netin 
+\i (00:06:51) setwindow form.niparams
+\i (00:06:51) FORM niparams import  
+\e (00:06:51) In demo mode cannot do an operation that requires the design to be saved.
+\i (00:06:56) fillin confirm
+\i (00:06:57) FORM niparams close  
+\i (00:06:57) setwindow pcb
+\i (00:06:57) generaledit 
+\i (00:07:10) exit 
+\e (00:07:10) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/layout/SMA_fabB.brd?
+\i (00:07:11) fillin no 
+\t (00:07:12)     Journal end - Wed Mar 14 23:45:06 2018

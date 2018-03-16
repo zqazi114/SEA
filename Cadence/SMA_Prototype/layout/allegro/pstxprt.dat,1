@@ -1,0 +1,80 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 22:26:14 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SMA_PROTOTYPE';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_0603_R_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS160@DISCRETE.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins160@discrete.\capacitor.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins160@discrete.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_0603_R_CAPACITOR':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS176@DISCRETE.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins176@discrete.\capacitor.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins176@discrete.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'COMB_ELECTRODE_COMB_ELECTRODE_F':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS24@PASSIVE.COMB_ELECTRODE.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins24@passive.\comb_electrode.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins24@passive.\comb_electrode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N_STFW3N150_MOSFET N':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS92@DISCRETE.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins92@discrete.\mosfet n.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins92@discrete.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_0603_R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS119@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins119@discrete.\resistor.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins119@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_0603_R_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS135@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins135@discrete.\resistor.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins135@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS53@SMA_FABB_LIB.B00JVJDEZE.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins53@sma_fabb_lib.\b00jvjdeze.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins53@sma_fabb_lib.\b00jvjdeze.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

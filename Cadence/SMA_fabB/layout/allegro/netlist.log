@@ -1,0 +1,18 @@
+{ Using PSTWRITER 17.2.0 d001Mar-14-2018 at 23:37:14 }
+
+#1 WARNING(ORCAP-36006): Part Name "USBLC6-2SC6_0_USBLC6-2SC6_USBLC6-2SC6" is renamed to "USBLC6-2SC6_0_USBLC6-2SC6_USBLC".
+#2 WARNING(ORCAP-36006): Part Name "COMB_ELECTRODE_COMB_ELECTRODE_FULL_COMB_ELECTRODE" is renamed to "COMB_ELECTRODE_COMB_ELECTRODE_F".
+#3 WARNING(ORCAP-36006): Part Name "OS102011MS2QN1_1_OS102011MS2QN1_OS102011MS2QN1_1" is renamed to "OS102011MS2QN1_1_OS102011MS2QN1".
+#4 WARNING(ORCAP-36006): Part Name "UA78M05CDCY_0_UA78M05CDCY_UA78M05CDCY" is renamed to "UA78M05CDCY_0_UA78M05CDCY_UA78M".
+#5 WARNING(ORCAP-36006): Part Name "TLV1117LV33DCYT_2_TLV1117LV33DCYT_TLV1117LV33DCYT_1" is renamed to "TLV1117LV33DCYT_2_TLV1117LV33DC".
+#6 WARNING(ORCAP-36006): Part Name "B00JVJDEZE_B00JVJDEZE_B00JVJDEZE" is renamed to "B00JVJDEZE_B00JVJDEZE_B00JVJDEZ".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\layout\allegro/pstchip.dat
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\layout\allegro/pstchip.dat
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\layout\allegro/pstxprt.dat
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\layout\allegro/pstxnet.dat
+packaging the design view...
