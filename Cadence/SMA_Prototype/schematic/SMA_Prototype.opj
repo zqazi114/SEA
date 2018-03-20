@@ -76,7 +76,7 @@
       (Path "Design Resources")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\sma_prototype.dsn"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -87,8 +87,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1201 52 417")
-        (Scroll "-181 -5")
-        (Zoom "70")
+        (Scroll "216 158")
+        (Zoom "140")
         (Occurrence "/"))
       (Path
          "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_PROTOTYPE\SCHEMATIC\SMA_PROTOTYPE.DSN")

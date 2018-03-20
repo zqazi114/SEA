@@ -1,0 +1,247 @@
+\t (00:00:00) allegro_free_viewer 17.2 S015 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Mar 20 10:38:03 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=7868 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\Zain's Surface\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_min\layout\SMA_fabB.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:01) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd
+\i (00:00:01) trapsize 6391
+\i (00:00:01) trapsize 6224
+\i (00:00:02) trapsize 6391
+\i (00:00:02) trapsize 6391
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 53.2345 -19.3004
+\i (00:00:03) trapsize 12781
+\i (00:00:05) setwindow form.vf_vis
+\i (00:00:05) FORM vf_vis colorview_list Film: ALL 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 51.1895 -43.3291
+\i (00:00:06) trapsize 6391
+\i (00:00:07) roam start
+\i (00:00:07) roam x -32
+\i (00:00:07) roam y -32
+\i (00:00:07) roam x -48
+\i (00:00:07) roam y -64
+\i (00:00:08) roam end
+\i (00:00:10) setwindow form.vf_vis
+\i (00:00:10) FORM vf_vis colorview_list Film: GND 
+\i (00:00:16) FORM vf_vis colorview_list Film: VDD 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -3.6796 -29.8560
+\i (00:00:17) trapsize 12781
+\i (00:00:26) setwindow form.vf_vis
+\i (00:00:26) FORM vf_vis colorview_list Film: TOP 
+\i (00:00:30) FORM vf_vis colorview_list Film: TOP 
+\i (00:00:33) FORM vf_vis colorview_list Film: VDD 
+\i (00:00:55) FORM vf_vis colorview_list Film: ALL 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 16.0035 -63.3430
+\i (00:00:56) trapsize 6391
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in 21.3717 -57.2080
+\i (00:00:57) trapsize 3195
+\i (00:01:00) roam start
+\i (00:01:00) roam x -48
+\i (00:01:00) roam y -32
+\i (00:01:00) roam x -80
+\i (00:01:00) roam y -80
+\i (00:01:01) roam x -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -48
+\i (00:01:01) roam x -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -32
+\i (00:01:01) roam y -16
+\i (00:01:01) roam end
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -4.1272 -27.0443
+\i (00:01:04) trapsize 1598
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -4.3828 -26.9164
+\i (00:01:04) trapsize 3195
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -4.5744 -26.7248
+\i (00:01:04) trapsize 6391
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -4.5744 -26.3413
+\i (00:01:04) trapsize 12781
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -4.0632 -25.8300
+\i (00:01:04) trapsize 25554
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 25.9009 68.2345
+\i (00:01:04) trapsize 25554
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in -0.6757 -45.7381
+\i (00:01:06) trapsize 12777
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in -2.2089 -42.4160
+\i (00:01:06) trapsize 6389
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in -6.8086 -36.1551
+\i (00:01:06) trapsize 3194
+\i (00:01:52) setwindow form.vf_vis
+\i (00:01:52) FORM vf_vis colorview_list Film: VDD 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 5.7130 -39.0939
+\i (00:01:54) trapsize 6389
+\i (00:01:55) roam start
+\i (00:01:56) roam x -16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x -16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam y 16
+\i (00:01:56) roam x -16
+\i (00:01:56) roam y 32
+\i (00:01:57) roam end
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in 3.1578 -43.1825
+\i (00:01:58) trapsize 3194
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 3.0301 -42.8630
+\i (00:02:01) trapsize 6389
+\i (00:02:07) setwindow form.vf_vis
+\i (00:02:07) FORM vf_vis colorview_list Film: ALL 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom in 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom in 9.2908 -43.2463
+\i (00:02:39) trapsize 3194
+\i (00:02:39) zoom in 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom in 9.3548 -43.2463
+\i (00:02:39) trapsize 1597
+\i (00:02:40) zoom in 1 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom in 9.9936 -43.8851
+\i (00:02:40) trapsize 799
+\i (00:02:40) roam start
+\i (00:02:40) roam y 16
+\i (00:02:41) roam x 16
+\i (00:02:41) roam y -32
+\i (00:02:41) roam x -32
+\i (00:02:41) roam y -64
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y -32
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y -32
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam x -16
+\i (00:02:41) roam y -16
+\i (00:02:41) roam y -32
+\i (00:02:41) roam y -32
+\i (00:02:42) roam y -16
+\i (00:02:42) roam y -16
+\i (00:02:42) roam y -16
+\i (00:02:42) roam y -16
+\i (00:02:42) roam y -16
+\i (00:02:42) roam y -16
+\i (00:02:42) roam end
+\i (00:02:44) zoom out 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom out 8.8282 -37.8158
+\i (00:02:44) trapsize 1597
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in 6.4964 -38.4865
+\i (00:02:45) trapsize 799
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out 7.8699 -38.1191
+\i (00:03:17) trapsize 1597
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 7.8700 -38.1191
+\i (00:03:18) trapsize 799
+\i (00:03:20) zoom out 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom out 7.7263 -38.1031
+\i (00:03:20) trapsize 1597
+\i (00:03:20) zoom out 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom out 7.7263 -38.1032
+\i (00:03:20) trapsize 3194
+\i (00:03:21) zoom out 1 
+\i (00:03:21) setwindow pcb
+\i (00:03:21) zoom out 6.3207 -38.6782
+\i (00:03:21) trapsize 6389
+\i (00:03:21) roam start
+\i (00:03:21) roam y -64
+\i (00:03:21) roam y -64
+\i (00:03:22) roam y -32
+\i (00:03:22) roam y -32
+\i (00:03:22) roam x -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam end
+\i (00:03:35) setwindow form.vf_vis
+\i (00:03:35) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in -0.5471 -5.7448
+\i (00:03:37) trapsize 3194
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out -12.8771 -6.4475
+\i (00:03:41) trapsize 6389
+\i (00:03:53) setwindow form.vf_vis
+\i (00:03:53) FORM vf_vis colorview_list Film: ALL 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 0.5390 -1.7199
+\i (00:03:54) trapsize 3194
+\i (00:03:57) setwindow form.vf_vis
+\i (00:03:57) FORM vf_vis colorview_list Film: DFX 
+\i (00:04:18) FORM vf_vis colorview_list Film: ALL 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 2.7751 -10.4723
+\i (00:04:50) trapsize 6389
+\i (00:04:52) roam start
+\i (00:04:52) roam x -16
+\i (00:04:52) roam y 48
+\i (00:04:53) roam y 16
+\i (00:04:53) roam y 16
+\i (00:04:53) roam y 16
+\i (00:04:53) roam x -16
+\i (00:04:53) roam y 16
+\i (00:04:53) roam y 16
+\i (00:04:54) roam y 16
+\i (00:04:54) roam y 16
+\i (00:04:54) roam y 16
+\i (00:04:54) roam x -16
+\i (00:04:54) roam y 16
+\i (00:04:54) roam y 16
+\i (00:04:55) roam y 16
+\i (00:04:57) roam y 16
+\i (00:04:57) roam y 16
+\i (00:04:57) roam x -16
+\i (00:04:58) roam end
+\i (01:05:46) exit 
+\t (01:05:46)     Journal end - Tue Mar 20 11:43:48 2018

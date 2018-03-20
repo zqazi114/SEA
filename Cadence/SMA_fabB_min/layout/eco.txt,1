@@ -3,41 +3,56 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd         |
-|                                                    Thu Mar 15 00:06:27 2018  |
+|                                                    Mon Mar 19 14:52:15 2018  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- FT-201X_1_FT201X_FT-201X
+  E0_ON_8980   pins MOVED FROM this net (to net name listed on right)
+                                 Q1.1            23.6220  3.1875
+                                                                          E0_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E1_ON_10245  pins MOVED FROM this net (to net name listed on right)
+                                 Q2.1             2.7940  3.1875
+                                                                          E1_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E2_ON_10381  pins MOVED FROM this net (to net name listed on right)
+                                 Q3.1            -17.780  3.1875
+                                                                          E2_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E3_ON_10694  pins MOVED FROM this net (to net name listed on right)
+                                 Q4.1            -38.354  3.1875
+                                                                          E3_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E4_ON_11169  pins MOVED FROM this net (to net name listed on right)
+                                 Q8.1            23.8760 -17.894
+                                                                          E4_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E5_ON_11131  pins MOVED FROM this net (to net name listed on right)
+                                 Q7.1             3.3020 -17.894
+                                                                          E5_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E6_ON_11103  pins MOVED FROM this net (to net name listed on right)
+                                 Q6.1            -17.526 -17.894
+                                                                          E6_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E7_ON_11085  pins MOVED FROM this net (to net name listed on right)
+                                 Q5.1            -38.354 -17.894
+                                                                          E7_ON
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd         |
-|                                                    Thu Mar 15 00:06:27 2018  |
+|                                                    Mon Mar 19 14:52:15 2018  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U6                  FT-201X_1_FT201X_FT-201X                 FT-201X_1_FT-201X_FT-201X
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd         |
-|                                                    Thu Mar 15 00:06:27 2018  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U6.3                           PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|       Comp definitions added:       1                                        |
-|       Components changed    :       1                                        |
-|       Slot property added   :       1                                        |
+|       Nets changed          :       8                                        |
 |                                                                              |
-|   Total ECO changes reported:       3                                        |
+|   Total ECO changes reported:       8                                        |
 |------------------------------------------------------------------------------|

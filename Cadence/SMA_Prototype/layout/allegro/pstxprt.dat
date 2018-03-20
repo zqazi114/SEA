@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 22:35:38 }
+{ Using PSTWRITER 17.2.0 d001Mar-19-2018 at 13:37:34 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SMA_PROTOTYPE';
@@ -64,6 +64,16 @@ SECTION_NUMBER 1
  '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS135@DISCRETE.RESISTOR.NORMAL(CHIPS)':
  C_PATH='@sma_prototype.schematic1(sch_1):ins135@discrete.\resistor.normal\(chips)',
  P_PATH='@sma_prototype.schematic1(sch_1):page1_ins135@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_LARGE_R_C_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE.SCHEMATIC1(SCH_1):INS836@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype.schematic1(sch_1):ins836@discrete.\resistor.normal\(chips)',
+ P_PATH='@sma_prototype.schematic1(sch_1):page1_ins836@discrete.\resistor.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

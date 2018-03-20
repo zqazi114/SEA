@@ -1,0 +1,120 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-20-2018 at 15:42:04 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SMA_PROTOTYPE_B';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_LARGE_R_C_CAP':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS1249@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins1249@discrete.\cap.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins1249@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_LARGE_R_C_CAP':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS1305@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins1305@discrete.\cap.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins1305@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_LARGE_R_C_CAP':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS1567@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins1567@discrete.\cap.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins1567@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_LARGE_R_C_CAP':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS1583@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins1583@discrete.\cap.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins1583@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET P_1_VP0550-1_MOSFET P':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS1200@SMA_PROTOTYPE_B.MOSFET P_1.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins1200@sma_prototype_b.\mosfet p_1.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins1200@sma_prototype_b.\mosfet p_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_LARGE_R_C_1M':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS1835@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins1835@discrete.\resistor.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins1835@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_LARGE_R_C_1K':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS2113@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins2113@discrete.\resistor.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins2113@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_LARGE_R_C_4.7K':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS2129@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins2129@discrete.\resistor.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins2129@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS53@SMA_FABB_LIB.B00JVJDEZE.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins53@sma_fabb_lib.\b00jvjdeze.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins53@sma_fabb_lib.\b00jvjdeze.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'PLA170_0_PLA170_PLA170':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS1962@SMA_PROTOTYPE_B.PLA170_0.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins1962@sma_prototype_b.\pla170_0.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins1962@sma_prototype_b.\pla170_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TC1550_TC1550_TC1550':;
+
+SECTION_NUMBER 1
+ '@SMA_PROTOTYPE_B.SCHEMATIC1(SCH_1):INS2370@SMA_FABB_LIB.TC1550.NORMAL(CHIPS)':
+ C_PATH='@sma_prototype_b.schematic1(sch_1):ins2370@sma_fabb_lib.\tc1550.normal\(chips)',
+ P_PATH='@sma_prototype_b.schematic1(sch_1):page1_ins2370@sma_fabb_lib.\tc1550.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

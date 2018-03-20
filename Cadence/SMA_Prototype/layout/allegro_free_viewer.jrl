@@ -1,0 +1,106 @@
+\t (00:00:00) allegro_free_viewer 17.2 S015 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Mar 19 19:35:37 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=11084 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\Zain's Surface\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_Prototype\layout\SMA_Prototype_Drain.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype_Drain.brd
+\i (00:00:01) trapsize 50320
+\i (00:00:01) trapsize 49007
+\i (00:00:01) trapsize 50320
+\i (00:00:01) trapsize 50320
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 3068.180 -1862.210
+\i (00:00:05) trapsize 25160
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 3445.578 -2013.169
+\i (00:00:11) trapsize 12580
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 3445.578 -2013.169
+\i (00:00:13) trapsize 6290
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 3441.804 -2020.717
+\i (00:00:15) trapsize 12580
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 3326.068 -2043.360
+\i (00:00:17) trapsize 25160
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 2349.867 -3019.563
+\i (00:00:19) trapsize 12580
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 2344.835 -3006.982
+\i (00:00:19) trapsize 25160
+\i (00:56:35) zoom out 1 
+\i (00:56:35) setwindow pcb
+\i (00:56:35) zoom out 1363.602 -2161.612
+\i (00:56:35) trapsize 50320
+\i (00:56:35) zoom in 1 
+\i (00:56:35) setwindow pcb
+\i (00:56:35) zoom in 1061.684 -2000.589
+\i (00:56:35) trapsize 25160
+\i (00:56:35) zoom in 1 
+\i (00:56:35) setwindow pcb
+\i (00:56:35) zoom in 1061.684 -2000.588
+\i (00:56:35) trapsize 12580
+\i (00:56:36) zoom out 1 
+\i (00:56:36) setwindow pcb
+\i (00:56:36) zoom out 1184.967 -2043.360
+\i (00:56:36) trapsize 25160
+\i (00:56:37) zoom in 1 
+\i (00:56:37) setwindow pcb
+\i (00:56:37) zoom in 1184.967 -2033.296
+\i (00:56:37) trapsize 12580
+\i (00:56:38) zoom out 1 
+\i (00:56:38) setwindow pcb
+\i (00:56:38) zoom out 1335.926 -2078.584
+\i (00:56:38) trapsize 25160
+\i (00:56:41) zoom in 1 
+\i (00:56:41) setwindow pcb
+\i (00:56:41) zoom in 1215.159 -1988.008
+\i (00:56:41) trapsize 12580
+\i (00:56:42) zoom in 1 
+\i (00:56:42) setwindow pcb
+\i (00:56:42) zoom in 1200.064 -1497.391
+\i (00:56:42) trapsize 6290
+\i (00:56:43) roam start
+\i (00:56:43) roam y 16
+\i (00:56:43) roam x 16
+\i (00:56:44) roam y 16
+\i (00:56:44) roam x 16
+\i (00:56:44) roam y 16
+\i (00:56:44) roam x 16
+\i (00:56:44) roam x 32
+\i (00:56:44) roam y 16
+\i (00:56:44) roam x 32
+\i (00:56:44) roam x 48
+\i (00:56:44) roam y 16
+\i (00:56:44) roam end
+\i (00:56:44) zoom out 1 
+\i (00:56:44) setwindow pcb
+\i (00:56:44) zoom out 1475.382 -1718.914
+\i (00:56:44) trapsize 12580
+\i (00:56:48) zoom out 1 
+\i (00:56:48) setwindow pcb
+\i (00:56:48) zoom out 2564.804 -1839.682
+\i (00:56:48) trapsize 25160
+\i (00:56:48) roam start
+\i (00:56:49) roam x 16
+\i (00:56:49) roam y 16
+\i (00:56:49) roam x 32
+\i (00:56:49) roam x 32
+\i (00:56:49) roam y 16
+\i (00:56:49) roam x 32
+\i (00:56:49) roam end
+\i (15:02:16) zoom out 1 
+\i (15:02:16) setwindow pcb
+\i (15:02:16) zoom out 1656.533 -1094.950
+\i (15:02:16) trapsize 50320
+\i (16:08:10) exit 
+\t (16:08:10)     Journal end - Tue Mar 20 11:43:47 2018

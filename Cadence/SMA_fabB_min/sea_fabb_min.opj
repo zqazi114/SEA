@@ -91,6 +91,12 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (comb_electrode
       (FullPartName "comb_electrode.Normal")
       (LibraryName
@@ -221,9 +227,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 573 0 417")
-        (Scroll "89 146")
-        (Zoom "280")
+        (Placement "44 0 1 -1 -1 -8 -31 0 573 0 417")
+        (Scroll "306 0")
+        (Zoom "140")
         (Occurrence "/"))
       (Path
          "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB_MIN\SEA_FABB_MIN.DSN")
@@ -232,8 +238,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 729 156 573")
-        (Scroll "0 0")
+        (Placement "44 2 3 -1 -1 -8 -31 156 729 156 573")
+        (Scroll "-181 -5")
         (Zoom "70")
         (Occurrence "/"))
       (Path

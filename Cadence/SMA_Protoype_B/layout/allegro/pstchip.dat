@@ -1,0 +1,147 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Mar-20-2018 at 16:21:24}
+primitive 'CAP_LARGE_R_C_CAP';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP';
+    JEDEC_TYPE='large_r_c';
+    VALUE='CAP';
+  end_body;
+end_primitive;
+primitive 'MOSFET P_1_VP0550-1_MOSFET P';
+  pin
+    'GATE':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'DRAIN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'SOURCE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MOSFET P_1';
+    JEDEC_TYPE='VP0550-1';
+    VALUE='MOSFET P';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_LARGE_R_C_1M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='large_r_c';
+    VALUE='1M';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_LARGE_R_C_4.7K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='large_r_c';
+    VALUE='4.7k';
+  end_body;
+end_primitive;
+primitive 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ';
+  pin
+    'VIN+':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'VIN-':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'VOUT+':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'VOUT-':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='B00JVJDEZE';
+    JEDEC_TYPE='B00JVJDEZE';
+    VALUE='B00JVJDEZE';
+  end_body;
+end_primitive;
+primitive 'PLA170_0_PLA170_PLA170';
+  pin
+    'CNT+':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CNT-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'NC':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'NC2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'LOAD-':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'LOAD+':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='PLA170_0';
+    JEDEC_TYPE='PLA170';
+    VALUE='PLA170';
+  end_body;
+end_primitive;
+primitive 'TC1550_TC1550_TC1550';
+  pin
+    'SN':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GN':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'SP':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'GP':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'DP':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'DP2':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'DN':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'DN2':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TC1550';
+    JEDEC_TYPE='TC1550';
+    VALUE='TC1550';
+  end_body;
+end_primitive;
+END.

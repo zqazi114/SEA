@@ -1,0 +1,16 @@
+M48
+INCH
+T01C.018
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : SMA_Prototype_B-1-2.drl for  ... layers TOP and BOTTOM
+;DESIGN: SMA_Prototype_B.brd
+;T01 Holesize 1. = 18.000000 Tolerance = +0.000000/-0.000000 PLATED MILS Quantity = 3
+%
+G90
+T01
+X021550Y-024250
+X022000Y-024250
+X022450Y-024250
+M30

@@ -2,10 +2,64 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../Documents/GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype.brd   |
-|                                                    Thu Mar 15 22:51:59 2018  |
+|  C:.../GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype_Drain.brd       |
+|                                                    Mon Mar 19 13:39:36 2018  |
 |------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N00199       pins MOVED FROM this net (to net name listed on right)
+                                 Q1.2            1850.00 -1200.0
+                                                                         N00243
+                                 R2.2            1050.00 -1900.0
+                                                                         N00243
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00239       pins MOVED FROM this net (to net name listed on right)
+                                 C1.1            2850.00 -2745.0
+                                                                         N00243
+                                 C2.1            3475.00 -2745.0
+                                                                         N00243
+                                 J1.1                           
+                                                                         N00243
+                                 Q1.3            1950.00 -1550.3
+                                                                         N00856
+                                 R1.1            2850.00 -1970.0
+                                                                         N00852
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00852       pins ADDED TO this new net
+                                 R3.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00856       pins ADDED TO this new net
+                                 R3.1                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
+|  C:.../GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype_Drain.brd       |
+|                                                    Mon Mar 19 13:39:36 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R3                  RESISTOR_LARGE_R_C_RESISTOR 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/SEA/Cadence/SMA_Prototype/layout/SMA_Prototype_Drain.brd       |
+|                                                    Mon Mar 19 13:39:36 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R3.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :       9                                        |
+|       Components added      :       1                                        |
+|       Slot property added   :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:       0                                        |
+|   Total ECO changes reported:      11                                        |
 |------------------------------------------------------------------------------|

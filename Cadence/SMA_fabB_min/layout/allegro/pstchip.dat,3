@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 00:06:16}
+{ Using PSTWRITER 17.2.0 d001Mar-19-2018 at 14:51:50}
 primitive 'CAP_0603_R_47PF';
   pin
     '1':
@@ -90,19 +90,19 @@ primitive 'DIODE TVS_0603_R_DIODE TVS';
     VALUE='DIODE TVS';
   end_body;
 end_primitive;
-primitive 'USBLC6-2SC6_0_USBLC6-2SC6_USBLC';
+primitive 'USBLC6-2SC6_1_USBLC6-2SC6_USBLC';
   pin
     'I/01_IN':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'I/01_OUT':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    'I/O2_IN':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
-    'I/O2_OUT':
+    'I/01_OUT':
       PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'I/O2_IN':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'I/O2_OUT':
+      PIN_NUMBER='(6)';
       PINUSE='UNSPEC';
     'GND':
       PIN_NUMBER='(2)';
@@ -112,7 +112,7 @@ primitive 'USBLC6-2SC6_0_USBLC6-2SC6_USBLC';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='USBLC6-2SC6_0';
+    PART_NAME='USBLC6-2SC6_1';
     JEDEC_TYPE='USBLC6-2SC6';
     VALUE='USBLC6-2SC6';
   end_body;

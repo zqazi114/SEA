@@ -1,1 +1,1 @@
-SMA_Prototype.brd
+SMA_Prototype_Drain.brd

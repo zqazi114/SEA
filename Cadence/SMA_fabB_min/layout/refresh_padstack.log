@@ -1,0 +1,122 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SMA_fabB.brd                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Mon Mar 19 14:18:39 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Mar 19 14:18:39 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'VIA00'  pad stack refresh starting.
+
+     'VIA00'  pad stack refreshed successfully.
+     
+'COMB_ELECTRODE_L'  pad stack refresh starting.
+
+     'COMB_ELECTRODE_L'  pad stack refreshed successfully.
+     
+'COMB_ELECTRODE_R'  pad stack refresh starting.
+
+     'COMB_ELECTRODE_R'  pad stack refreshed successfully.
+     
+'S0600_0900'  pad stack refresh starting.
+
+     'S0600_0900'  pad stack refreshed successfully.
+     
+'S060_120'  pad stack refresh starting.
+
+     'S060_120'  pad stack refreshed successfully.
+     
+'S1300_105'  pad stack refresh starting.
+
+     'S1300_105'  pad stack refreshed successfully.
+     
+'S0210_0410'  pad stack refresh starting.
+
+     'S0210_0410'  pad stack refreshed successfully.
+     
+'S095_215'  pad stack refresh starting.
+
+     'S095_215'  pad stack refreshed successfully.
+     
+'S325_215'  pad stack refresh starting.
+
+     'S325_215'  pad stack refreshed successfully.
+     
+'S1400_0410'  pad stack refresh starting.
+
+     'S1400_0410'  pad stack refreshed successfully.
+     
+'S0254_1370'  pad stack refresh starting.
+
+     'S0254_1370'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'H330R101P'  pad stack refresh starting.
+
+     'H330R101P'  pad stack refreshed successfully.
+     
+'H101R330P'  pad stack refresh starting.
+
+     'H101R330P'  pad stack refreshed successfully.
+     
+'H105P'  pad stack refresh starting.
+
+     'H105P'  pad stack refreshed successfully.
+     
+'H175U'  pad stack refresh starting.
+
+     'H175U'  pad stack refreshed successfully.
+     
+'H85P'  pad stack refresh starting.
+
+     'H85P'  pad stack refreshed successfully.
+     
+'H140P'  pad stack refresh starting.
+
+     'H140P'  pad stack refreshed successfully.
+     
+'VIA_POWER'  pad stack refresh starting.
+
+     'VIA_POWER'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'EDGE_CONN_PIN', in directory search path.
+
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

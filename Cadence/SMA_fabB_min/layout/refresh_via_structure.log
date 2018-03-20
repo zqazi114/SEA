@@ -1,0 +1,95 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Via Structure Refresh Logfile                                    )
+(                                                                     )
+(    Drawing          : SMA_fabB.brd                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Mon Mar 19 14:14:27 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Via Structure Refresh Options ------
+   DESIGN FILE = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/#Taaaaaf00212.tmp'
+   VIA STRUCTURE LIST FILE  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/netrev.lst'
+   IGNORING FIXED VIAS
+------ Library Paths ------
+   PADPATH = C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols
+   ->        .
+   ->        symbols
+   ->        ..
+   ->        ../symbols
+   ->        C:/Cadence/SPB_17.2/share/local/pcb/padstacks
+   ->        C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols
+   ->        C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols
+------ Via Structures Listed for Refresh in C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/netrev.lst ------
+   1 WARNINGS DETECTED
+   #1   WARNING(SPMHNI-192): DEVICE/SYMBOL CHECK WARNING DETECTED. [HELP]
+   (                                                                     )
+   (    ALLEGRO NETREV IMPORT LOGIC                                      )
+   (    DATE/TIME        : THU MAR 15 19:38:26 2018                      )
+   (    DRAWING          : SMA_FABB.BRD                                  )
+   (    SOFTWARE VERSION : 17.2S025                                      )
+   (---------------------------------------------------------------------)
+   ------ DIRECTIVES ------------
+   ------ LIBRARY PATHS ------
+   ------ OVERSIGHTS/WARNINGS/ERRORS ------
+   ------ PREPARING TO READ PST FILES ------
+   ------ SUMMARY STATISTICS ------
+   .
+   ..
+   ../SYMBOLS
+   C:/CADENCE/SPB_17.2/SHARE/LOCAL/PCB/MODULES
+   C:/CADENCE/SPB_17.2/SHARE/LOCAL/PCB/PADSTACKS
+   C:/CADENCE/SPB_17.2/SHARE/LOCAL/PCB/SYMBOLS
+   C:/CADENCE/SPB_17.2/SHARE/PCB/ALLEGROLIB/SYMBOLS
+   C:/CADENCE/SPB_17.2/SHARE/PCB/PCB_LIB/SYMBOLS
+   CHECK_PIN_NAMES OFF
+   CMDLINE: NETREV -$ -I C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO -Y 1 -H -Q NETREV_CONSTRAINT_REPORT.XML C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/#TAAAABM03856.TMP
+   COMPILE 'LOGIC'
+   CPU TIME      0:02:46
+   CROSS_REFERENCE OFF
+   DESIGN DIRECTORY:            'C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT'
+   DESIGN NAME : 'SEA_FABB_MIN'
+   DRC UPDATE:                  YES
+   ELAPSED TIME  0:00:01
+   FEEDBACK OFF
+   FINISHED READING C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO/PSTCHIP.DAT (00:00:00.25)
+   FINISHED READING C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO/PSTXNET.DAT (00:00:00.01)
+   FINISHED READING C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO/PSTXPRT.DAT (00:00:00.00)
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   MISSING SYMBOL HAS ERROR:    NO
+   MODULEPATH =  .
+   NETREV RUN ON MAR 15 19:38:26 2018
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   NEW DESIGN NAME:             'C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/SMA_FABB.BRD'
+   NO ERROR DETECTED
+   NO OVERSIGHT DETECTED
+   OLD DESIGN NAME:             'C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/SMA_FABB.BRD'
+   OVERSIGHTS ON
+   PACKAGING ON JUL 30 2017 03:29:02
+   PADPATH =  C:/USERS/ZAINS SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB/PCB_LIB/SYMBOLS
+   PSMPATH =  C:/USERS/ZAINS SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB/PCB_LIB/SYMBOLS
+   REPLACE_CHECK OFF
+   RIPUP DELETE FIRST SEGMENT:  NO
+   RIPUP ETCH:                  NO
+   RIPUP RETAIN BONDWIRE:       NO
+   RIPUP SYMBOLS:               ALWAYS
+   SCHEMATIC DIRECTORY:         'C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO'
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   STARTING TO READ C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO/PSTCHIP.DAT
+   STARTING TO READ C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO/PSTXNET.DAT
+   STARTING TO READ C:/USERS/ZAIN'S SURFACE/DOCUMENTS/GITHUB/SEA/CADENCE/SMA_FABB_MIN/LAYOUT/ALLEGRO/PSTXPRT.DAT
+   SUPPRESS   20
+   SYMBOLS
+   WARNING(SPMHNI-194): SYMBOL 'B00JVJDEZE' USED BY REFDES U5 FOR DEVICE 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ' NOT FOUND IN PSMPATH OR MUST BE "DBDOCTOR"ED.
+   WARNINGS ON
+------ Via Structure Refresh Messages ------
+   Completed refreshing all via structures successfully.
+------ End of Refresh Via Structure ------
+Mon Mar 19 14:14:27 2018

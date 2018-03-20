@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SMA_fabB.brd                                  )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Thu Mar 15 19:38:26 2018                      )
+(    Date/Time        : Mon Mar 19 15:26:59 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,23 +22,19 @@ Design Directory:            'C:/Users/Zain's Surface/Documents/GitHub/SEA/Caden
 Old design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd'
 New design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/SMA_fabB.brd'
 
-CmdLine: netrev -$ -i C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/#Taaaabm03856.tmp
+CmdLine: netrev -$ -i C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/#Taaaaac11392.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstchip.dat 
-   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstchip.dat (00:00:00.25)
+   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstchip.dat (00:00:00.07)
 Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstxprt.dat 
    Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstxnet.dat 
-   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstxnet.dat (00:00:00.01)
+   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_min/layout/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
-
-#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'B00JVJDEZE' used by RefDes U5 for device 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ' not found in PSMPATH or must be "dbdoctor"ed.
 
 ------ Library Paths ------
 MODULEPATH =  . 
@@ -66,7 +62,7 @@ PADPATH =  C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/
 ------ Summary Statistics ------
 
 
-netrev run on Mar 15 19:38:26 2018
+netrev run on Mar 19 15:26:59 2018
    DESIGN NAME : 'SEA_FABB_MIN'
    PACKAGING ON Jul 30 2017 03:29:02
 
@@ -89,8 +85,8 @@ netrev run on Mar 15 19:38:26 2018
 
  No error detected
  No oversight detected
-  1 warnings detected
+ No warning detected
 
-cpu time      0:02:46
-elapsed time  0:00:01
+cpu time      0:01:11
+elapsed time  0:00:00
 

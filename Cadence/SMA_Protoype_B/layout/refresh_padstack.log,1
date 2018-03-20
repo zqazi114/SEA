@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SMA_Prototype_B.brd                           )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Mar 20 17:54:35 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Mar 20 17:54:35 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD80BY180'  pad stack refresh starting.
+
+     'SMD80BY180'  pad stack refreshed successfully.
+     
+'COMB_ELECTRODE_L'  pad stack refresh starting.
+
+     'COMB_ELECTRODE_L'  pad stack refreshed successfully.
+     
+'COMB_ELECTRODE_R'  pad stack refresh starting.
+
+     'COMB_ELECTRODE_R'  pad stack refreshed successfully.
+     
+'S1300_105'  pad stack refresh starting.
+
+     'S1300_105'  pad stack refreshed successfully.
+     
+'S0210_0410'  pad stack refresh starting.
+
+     'S0210_0410'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'H30P'  pad stack refresh starting.
+
+     'H30P'  pad stack refreshed successfully.
+     
+'SMD50_25'  pad stack refresh starting.
+
+     'SMD50_25'  pad stack refreshed successfully.
+     
+'S0065_0165'  pad stack refresh starting.
+
+     'S0065_0165'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

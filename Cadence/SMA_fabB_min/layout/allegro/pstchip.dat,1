@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Mar-14-2018 at 23:37:16}
+{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 00:06:16}
 primitive 'CAP_0603_R_47PF';
   pin
     '1':
@@ -222,39 +222,6 @@ primitive 'MOSFET N_STFW3N150_STFW3N150';
     VALUE='STFW3N150';
   end_body;
 end_primitive;
-primitive 'POT_0603_R_POT';
-  pin
-    'A':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'B':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'WIPER':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='POT';
-    JEDEC_TYPE='0603_r';
-    VALUE='POT';
-  end_body;
-end_primitive;
-primitive 'RESISTOR_0603_R_RESISTOR';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RESISTOR';
-    JEDEC_TYPE='0603_r';
-    VALUE='RESISTOR';
-  end_body;
-end_primitive;
 primitive 'RESISTOR_0603_R_1K';
   pin
     '1':
@@ -378,7 +345,7 @@ primitive 'B00JVJDEZE_B00JVJDEZE_B00JVJDEZ';
     VALUE='B00JVJDEZE';
   end_body;
 end_primitive;
-primitive 'FT-201X_1_FT-201X_FT-201X';
+primitive 'FT-201X_1_FT201X_FT-201X';
   pin
     'VCC':
       PIN_NUMBER='(12)';
@@ -431,7 +398,7 @@ primitive 'FT-201X_1_FT-201X_FT-201X';
   end_pin;
   body
     PART_NAME='FT-201X_1';
-    JEDEC_TYPE='FT-201X';
+    JEDEC_TYPE='ft201x';
     VALUE='FT-201X';
   end_body;
 end_primitive;

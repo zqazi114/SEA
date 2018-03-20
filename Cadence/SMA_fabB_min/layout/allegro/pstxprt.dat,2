@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 00:00:48 }
+{ Using PSTWRITER 17.2.0 d001Mar-15-2018 at 19:37:51 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SEA_FABB_MIN';
@@ -128,12 +128,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D2 'USBLC6-2SC6_0_USBLC6-2SC6_USBLC':;
+ D2 'USBLC6-2SC6_1_USBLC6-2SC6_USBLC':;
 
 SECTION_NUMBER 1
- '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS3921@SEA_FABB.USBLC6-2SC6_0.NORMAL(CHIPS)':
- C_PATH='@sea_fabb_min.schematic1(sch_1):ins3921@sea_fabb.\usblc6-2sc6_0.normal\(chips)',
- P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins3921@sea_fabb.\usblc6-2sc6_0.normal\(chips)',
+ '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS3921@SEA_FABB_MIN.USBLC6-2SC6_1.NORMAL(CHIPS)':
+ C_PATH='@sea_fabb_min.schematic1(sch_1):ins3921@sea_fabb_min.\usblc6-2sc6_1.normal\(chips)',
+ P_PATH='@sea_fabb_min.schematic1(sch_1):page1_ins3921@sea_fabb_min.\usblc6-2sc6_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -448,7 +448,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U6 'FT-201X_1_FT-201X_FT-201X':;
+ U6 'FT-201X_1_FT201X_FT-201X':;
 
 SECTION_NUMBER 1
  '@SEA_FABB_MIN.SCHEMATIC1(SCH_1):INS3982@SEA_FABB.FT-201X_1.NORMAL(CHIPS)':
