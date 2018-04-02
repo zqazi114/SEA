@@ -1,0 +1,24 @@
+\t (00:00:00) allegro_free_viewer 17.2 S015 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Mar 26 14:52:33 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=14656 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\Zain's Surface\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabA\layout\SMA_fabA.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabA/layout/SMA_fabA.brd
+\i (00:00:01) trapsize 6721
+\i (00:00:01) trapsize 6546
+\i (00:00:01) trapsize 6721
+\i (00:00:01) trapsize 6885
+\i (00:00:05) setwindow form.vf_vis
+\i (00:00:05) FORM vf_vis colorview_list Film: ALL 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 15.3718 -35.7040
+\i (00:00:07) trapsize 3442
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 15.4407 -36.1170
+\i (00:00:08) trapsize 6885
+\i (00:10:01) exit 
+\t (00:10:02)     Journal end - Mon Mar 26 15:02:35 2018

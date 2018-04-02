@@ -1,0 +1,14 @@
+{ Using PSTWRITER 17.2.0 d001Mar-27-2018 at 12:35:03 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.4" ignored for U2: SCHEMATIC1, OPTO-SSR (1.30, 1.80). Connecting pin to net "V_STAT".
+#2 WARNING(ORCAP-36006): Part Name "B00JVJDEZE_B00JVJDEZE_B00JVJDEZE" is renamed to "B00JVJDEZE_B00JVJDEZE_B00JVJDEZ".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_C\layout\allegro/pstchip.dat
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_C\layout\allegro/pstchip.dat
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_C\layout\allegro/pstxprt.dat
+
+Loading... C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_C\layout\allegro/pstxnet.dat
+packaging the design view...

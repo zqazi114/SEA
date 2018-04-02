@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PCF8575DW.dra                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat Feb 17 20:01:18 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/zq2154/share/pcb/pcb_lib/symbols
+    Name      = pcf8575dw.psm
+    User      = zq2154
+    Machine   = ET251PC05
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : large_r_c.dra                                 )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Thu Mar 15 22:37:30 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols
+    Name      = large_r_c.psm
+    User      = Zain's Surface
+    Machine   = DESKTOP-VRN6FI2
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

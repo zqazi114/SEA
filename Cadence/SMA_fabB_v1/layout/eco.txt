@@ -1,0 +1,58 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd  |
+|                                                    Sun Apr 01 22:10:16 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  E11_ON       pins MOVED FROM this net (to net name listed on right)
+                                 J35.2           -24.384 -35.306
+                                                                          E4_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E12_ON       pins MOVED FROM this net (to net name listed on right)
+                                 J35.12          -24.384 -48.006
+                                                                          E3_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E14_ON       pins MOVED FROM this net (to net name listed on right)
+                                 J35.10          -24.384 -45.466
+                                                                          E1_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E1_ON        pins MOVED FROM this net (to net name listed on right)
+                                 J35.8           -24.384 -42.926
+                                                                         E14_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E3_ON        pins MOVED FROM this net (to net name listed on right)
+                                 J35.6           -24.384 -40.386
+                                                                         E12_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E4_ON        pins MOVED FROM this net (to net name listed on right)
+                                 J35.16          -24.384 -53.086
+                                                                         E11_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E6_ON        pins MOVED FROM this net (to net name listed on right)
+                                 J35.14          -24.384 -50.546
+                                                                          E9_ON
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E9_ON        pins MOVED FROM this net (to net name listed on right)
+                                 J35.4           -24.384 -37.846
+                                                                          E6_ON
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd  |
+|                                                    Sun Apr 01 22:10:16 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :       8                                        |
+|                                                                              |
+|   Total ECO changes reported:       8                                        |
+|------------------------------------------------------------------------------|

@@ -109,7 +109,8 @@
       (Path "Design Resources" ".\sma_prototype_b.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\sma_prototype_b.dsn"))
+      (Select "Design Resources" ".\sma_prototype_b.dsn" "SCHEMATIC1"
+         "OPTO-SSR"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -141,8 +142,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 703 104 469")
-        (Scroll "275 285")
+        (Placement "44 2 3 -1 -1 -8 -31 104 703 104 469")
+        (Scroll "273 285")
         (Zoom "140")
         (Occurrence "/"))
       (Path
@@ -152,8 +153,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 729 130 495")
-        (Scroll "297 316")
+        (Placement "44 0 1 -1 -1 -8 -31 130 729 130 495")
+        (Scroll "26 274")
         (Zoom "140")
         (Occurrence "/"))
       (Path

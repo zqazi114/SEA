@@ -1,0 +1,16 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Mar 31 23:24:32 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=9372 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\pcb_lib\symbols\h101r330p.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:11) QtSignal GuidedDrillTab HoleType CurrentIndexChanged Square
+\d (00:00:11) QtSignal GuidedDrillTab HoleType activated Square
+\d (00:00:15) QtSignal GuidedDrillTab HoleType CurrentIndexChanged Circle
+\d (00:00:15) QtSignal GuidedDrillTab HoleType activated Circle
+\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:47) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\t (00:00:47)     Journal end - Sat Mar 31 23:25:20 2018

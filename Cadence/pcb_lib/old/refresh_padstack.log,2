@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : test.dra                                      )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Mar 20 15:26:48 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Mar 20 15:26:48 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'test.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'H30P'  pad stack refresh starting.
+
+     'H30P'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

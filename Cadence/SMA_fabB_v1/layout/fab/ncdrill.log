@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : SMA_fabB_v1_auto.brd                          )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Apr 01 22:41:41 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout' ...
+
+
+
+     'SMA_fabB_v1_auto-1-4.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.2500    0.0050/  0.0050      PLATED         63
+            2.   0.3000    0.0100/  0.0100      PLATED         49
+            3.   0.9144    0.0000/  0.0000      PLATED         35
+            4.   1.0100    0.1000/  0.1000      PLATED          3
+            5.   1.0300    0.1000/  0.1000      PLATED          2
+            6.   2.3500    0.0000/  0.0000      PLATED          3
+            7.   3.1750    0.0000/  0.0000  NON_PLATED          3
+
+     ---- Total holes:                                        158
+
+     ---- Total head travel:              13.18 feet (4.02 meters)
+

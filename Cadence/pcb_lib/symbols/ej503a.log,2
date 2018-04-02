@@ -1,0 +1,44 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : EJ503A.dra                                    )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Apr 01 00:03:42 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols
+    Name      = ej503a.psm
+    User      = Zain's Surface
+    Machine   = DESKTOP-VRN6FI2
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-269): Shape has no segments. 4192555528 
+SHAPE        @4192555528
+1)  mask              = 40
+2)  class             = 13 = REF DES
+3)  subclass          = 253 = ASSEMBLY_TOP
+4)  branch_link       = 4188221768
+5)  branch_ptr        = 4188221768
+6)  symbol_ins_link   = 0
+7)  symbol_ins_ptr    = 0
+8)  first_connection       = 0
+9)  first_void        = 0
+10) first_outline_seg = 0
+11) first_patch_set   = 0
+12) shape_fill        = 1
+13) first_text        = 0
+14) first_relation    = 0
+15) extents.min       = (0, 0)
+16) extents.max       = (0, 0)
+17) prev_branch_item  = 0
+
+ WARNING(SPMHA1-269): Shape has no segments. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

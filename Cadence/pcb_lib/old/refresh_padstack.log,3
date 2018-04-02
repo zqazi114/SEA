@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : VP0550-1.dra                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Mar 20 15:27:10 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Mar 20 15:27:10 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/VP0550-1.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'H30P'  pad stack refresh starting.
+
+     'H30P'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

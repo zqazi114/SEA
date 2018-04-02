@@ -1,429 +1,111 @@
-\t (00:00:03) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Tue Mar 20 17:52:01 2018
-\t (00:00:03)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=14320 CPUs=4
-\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:05) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd
-\i (00:00:05) trapsize 29928
-\i (00:00:05) trapsize 30567
-\i (00:00:05) trapsize 30566
-\i (00:00:06) generaledit 
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in 1170.222 -2261.241
-\i (00:00:07) trapsize 15283
-\i (00:00:21) add connect 
-\t (00:00:21) Pick first element.
-\i (00:00:22) pick grid 785.084 -2200.107
-\t (00:00:22) last pick:  775.000 -2200.000
-\t (00:00:22) last pick:  780.000 -2250.000
-\t (00:00:22) Target Symbol Pin is defined on TOP.
-\t (00:00:22) last pick:  780.000 -2250.000
-\i (00:00:23) mouse_pos 797.310 -1961.689
-\i (00:00:23) mouse_pos 757.574 -1973.915
-\i (00:00:24) mouse_pos 604.741 -1766.063
-\i (00:00:24) mouse_pos 635.308 -1738.553
-\i (00:00:24) mouse_pos 714.781 -1848.593
-\i (00:00:24) mouse_pos 846.217 -1925.009
-\i (00:00:24) mouse_pos 2982.815 -1319.792
-\i (00:00:28) setwindow form.mini
-\i (00:00:28) FORM mini acon_line_width 30.000 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) mouse_pos 1723.475 -2224.561
-\i (00:00:29) mouse_pos 809.537 -2472.149
-\i (00:00:29) mouse_pos 809.537 -2331.543
-\i (00:00:32) setwindow form.mini
-\i (00:00:32) FORM mini acon_line_width 20.000 
-\i (00:00:32) setwindow pcb
-\i (00:00:32) mouse_pos 1894.648 -2120.634
-\i (00:00:32) mouse_pos 1671.512 -2148.144
-\i (00:00:33) mouse_pos 757.574 -1964.745
-\i (00:00:33) pick grid 763.687 -1906.669
-\t (00:00:33) last pick:  775.000 -1900.000
-\t (00:00:33) No DRC errors detected.
-\t (00:00:33) Pick first element.
-\i (00:00:34) prepopup 1167.165 -2035.048
-\i (00:00:34) done 
-\i (00:00:35) generaledit 
-\i (00:00:35) zoom out 1 
-\i (00:00:35) setwindow pcb
-\i (00:00:35) zoom out 1451.434 -2074.785
-\i (00:00:35) trapsize 30566
-\i (00:00:37) roam start
-\i (00:00:37) roam end
-\i (00:00:37) zoom in 1 
-\i (00:00:37) setwindow pcb
-\i (00:00:37) zoom in 2612.960 -3419.710
-\i (00:00:37) trapsize 15283
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 2869.719 -3428.880
-\i (00:00:38) trapsize 30566
-\i (00:00:39) zoom in 1 
-\i (00:00:39) setwindow pcb
-\i (00:00:39) zoom in 2417.335 -2566.904
-\i (00:00:39) trapsize 15283
-\i (00:00:40) zoom in 1 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom in 2417.335 -2566.904
-\i (00:00:40) trapsize 7642
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out 2446.374 -2559.262
-\i (00:00:41) trapsize 15283
-\i (00:00:42) roam start
-\i (00:00:42) roam x -16
-\i (00:00:43) roam x -16
-\i (00:00:43) roam y -16
-\i (00:00:43) roam x -16
-\i (00:00:43) roam y -16
-\i (00:00:43) roam x -16
-\i (00:00:43) roam y -16
-\i (00:00:44) roam end
-\i (00:00:47) zoom in 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom in 2539.600 -2062.559
-\i (00:00:47) trapsize 7642
-\i (00:00:49) zoom in 1 
-\i (00:00:49) setwindow pcb
-\i (00:00:49) zoom in 2539.601 -2062.558
-\i (00:00:49) trapsize 3821
-\i (00:00:49) zoom out 1 
-\i (00:00:49) setwindow pcb
-\i (00:00:49) zoom out 2553.356 -2067.908
-\i (00:00:49) trapsize 7642
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 2698.547 -2044.982
-\i (00:00:50) trapsize 15283
-\i (00:00:50) roam start
-\i (00:00:50) roam x 96
-\i (00:00:50) roam y -16
-\i (00:00:50) roam x 64
-\i (00:00:50) roam y -16
-\i (00:00:51) roam x 48
-\i (00:00:51) roam y -16
-\i (00:00:51) roam x 32
-\i (00:00:51) roam y -16
-\i (00:00:51) roam end
-\i (00:00:53) zoom in 1 
-\i (00:00:53) setwindow pcb
-\i (00:00:53) zoom in 3823.394 -1191.414
-\i (00:00:53) trapsize 7642
-\i (00:00:54) zoom in 1 
-\i (00:00:54) setwindow pcb
-\i (00:00:54) zoom in 3731.695 -1385.511
-\i (00:00:54) trapsize 3821
-\i (00:00:54) zoom out 1 
-\i (00:00:54) setwindow pcb
-\i (00:00:54) zoom out 3693.486 -1418.370
-\i (00:00:54) trapsize 7642
-\i (00:00:55) zoom out 1 
-\i (00:00:55) setwindow pcb
-\i (00:00:55) zoom out 3653.751 -1427.539
-\i (00:00:55) trapsize 15283
-\i (00:00:57) zoom in 1 
-\i (00:00:57) setwindow pcb
-\i (00:00:57) zoom in 3066.874 -2048.039
-\i (00:00:57) trapsize 7642
-\i (00:00:57) roam start
-\i (00:00:57) roam x -16
-\i (00:00:57) roam x -160
-\i (00:00:57) roam y 32
-\i (00:00:58) roam x -128
-\i (00:00:58) roam y 32
-\i (00:00:58) roam x -48
-\i (00:00:58) roam end
-\i (00:01:01) zoom out 1 
-\i (00:01:01) setwindow pcb
-\i (00:01:01) zoom out 2846.794 -2071.729
-\i (00:01:01) trapsize 15283
-\i (00:01:02) roam start
-\i (00:01:02) roam x -144
-\i (00:01:02) roam y 32
-\i (00:01:02) roam x -160
-\i (00:01:02) roam y 32
-\i (00:01:03) roam x -32
-\i (00:01:03) roam y 16
-\i (00:01:03) roam x -32
-\i (00:01:03) roam x -48
-\i (00:01:03) roam y 16
-\i (00:01:03) roam x -32
-\i (00:01:03) roam x -16
-\i (00:01:03) roam y 16
-\i (00:01:04) roam y 16
-\i (00:01:04) roam y 32
-\i (00:01:04) roam y 16
-\i (00:01:04) roam y 16
-\i (00:01:05) roam y -16
-\i (00:01:05) roam end
-\i (00:01:10) save 
-\i (00:01:11) fillin yes 
-\i (00:01:11) generaledit 
-\i (00:01:12) roam start
-\i (00:01:12) roam x 16
-\i (00:01:13) roam x 32
-\i (00:01:13) roam x 32
-\i (00:01:13) roam x 16
-\i (00:01:13) roam y 16
-\i (00:01:13) roam y 16
-\i (00:01:13) roam x 16
-\i (00:01:13) roam y 16
-\i (00:01:13) roam x 16
-\i (00:01:13) roam x 16
-\i (00:01:13) roam x 64
-\i (00:01:14) roam x 32
-\i (00:01:14) roam x 16
-\i (00:01:14) roam y -16
-\i (00:01:14) roam x 16
-\i (00:01:14) roam x 16
-\i (00:01:14) roam x 16
-\i (00:01:14) roam y -16
-\i (00:01:14) roam end
-\i (00:01:19) roam start
-\i (00:01:19) roam x -16
-\i (00:01:19) roam y 48
-\i (00:01:19) roam x -16
-\i (00:01:19) roam y 16
-\i (00:01:19) roam y 16
-\i (00:01:20) roam x -16
-\i (00:01:20) roam y 32
-\i (00:01:20) roam x -16
-\i (00:01:20) roam y 16
-\i (00:01:20) roam y 16
-\i (00:01:20) roam x 32
-\i (00:01:20) roam y 16
-\i (00:01:20) roam x 32
-\i (00:01:20) roam x 32
-\i (00:01:20) roam x 16
-\i (00:01:20) roam x 16
-\i (00:01:20) roam x 16
-\i (00:01:20) roam x 16
-\i (00:01:20) roam x 16
-\i (00:01:20) roam y -32
-\i (00:01:21) roam y -16
-\i (00:01:21) roam y -32
-\i (00:01:21) roam x 16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam x 16
-\i (00:01:21) roam y -32
-\i (00:01:21) roam y -32
-\i (00:01:21) roam x 16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam x 16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam x 16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam x -16
-\i (00:01:21) roam y -16
-\i (00:01:21) roam x -176
-\i (00:01:21) roam y -48
-\i (00:01:21) roam x -64
-\i (00:01:21) roam y -16
-\i (00:01:22) roam x -48
-\i (00:01:22) roam x -16
-\i (00:01:22) roam x 16
-\i (00:01:22) roam y -16
-\i (00:01:22) roam x 32
-\i (00:01:23) roam x 16
-\i (00:01:23) roam y -16
-\i (00:01:23) roam x 16
-\i (00:01:23) roam y -16
-\i (00:01:23) roam x 16
-\i (00:01:23) roam y -16
-\i (00:01:23) roam x 16
-\i (00:01:23) roam y -16
-\i (00:01:23) roam x 16
-\i (00:01:23) roam x 16
-\i (00:01:23) roam y 16
-\i (00:01:24) roam y 16
-\i (00:01:25) roam end
-\i (00:01:27) roam start
-\i (00:01:27) roam x -64
-\i (00:01:27) roam y 48
-\i (00:01:27) roam x -64
-\i (00:01:27) roam y 32
-\i (00:01:27) roam x -16
-\i (00:01:27) roam y 32
-\i (00:01:27) roam y 32
-\i (00:01:27) roam y 16
-\i (00:01:28) roam x 16
-\i (00:01:28) roam x 16
-\i (00:01:28) roam x 16
-\i (00:01:28) roam x 32
-\i (00:01:28) roam x 32
-\i (00:01:28) roam x 32
-\i (00:01:28) roam x 16
-\i (00:01:28) roam x 16
-\i (00:01:29) roam x 16
-\i (00:01:29) roam x 16
-\i (00:01:29) roam y 16
-\i (00:01:29) roam y 16
-\i (00:01:29) roam y 16
-\i (00:01:29) roam x 16
-\i (00:01:29) roam x 32
-\i (00:01:29) roam y -32
-\i (00:01:29) roam x 16
-\i (00:01:29) roam y -32
-\i (00:01:29) roam y -16
-\i (00:01:30) roam end
-\i (00:01:31) roam start
-\i (00:01:31) roam x -48
-\i (00:01:31) roam y -48
-\i (00:01:31) roam x -32
-\i (00:01:31) roam y -64
-\i (00:01:31) roam y -32
-\i (00:01:31) roam x -16
-\i (00:01:31) roam y -32
-\i (00:01:31) roam y -16
-\i (00:01:31) roam end
-\i (00:01:34) roam start
-\i (00:01:34) roam x -48
-\i (00:01:34) roam y 64
-\i (00:01:34) roam x -16
-\i (00:01:34) roam y 32
-\i (00:01:34) roam end
-\i (00:01:35) zoom in 1 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom in 2310.352 -2472.150
-\i (00:01:35) trapsize 7642
-\i (00:01:35) zoom in 1 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom in 2310.352 -2461.451
-\i (00:01:35) trapsize 3821
-\i (00:01:36) zoom in 1 
-\i (00:01:36) setwindow pcb
-\i (00:01:36) zoom in 2321.050 -2440.055
-\i (00:01:36) trapsize 1910
-\i (00:01:36) roam start
-\i (00:01:36) roam x -64
-\i (00:01:36) roam y 48
-\i (00:01:36) roam x -144
-\i (00:01:36) roam y 96
-\i (00:01:36) roam end
-\i (00:02:02) zoom in 1 
-\i (00:02:02) setwindow pcb
-\i (00:02:02) zoom in 2251.128 -2436.236
-\i (00:02:02) trapsize 955
-\i (00:02:03) zoom in 1 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) zoom in 2328.881 -2441.776
-\i (00:02:03) trapsize 478
-\i (00:02:04) roam start
-\i (00:02:04) roam x -16
-\i (00:02:04) roam x -256
-\i (00:02:04) roam y 32
-\i (00:02:04) roam x -112
-\i (00:02:04) roam y 16
-\i (00:02:04) roam end
-\i (00:02:04) zoom out 1 
-\i (00:02:04) setwindow pcb
-\i (00:02:04) zoom out 2293.343 -2446.556
-\i (00:02:04) trapsize 955
-\i (00:02:05) zoom out 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom out 2290.095 -2446.365
-\i (00:02:05) trapsize 1910
-\i (00:02:35) refresh padstack 
-\i (00:02:37) setwindow form.rf_pad
-\i (00:02:37) FORM rf_pad execute  
-\t (00:02:37) Starting Refreshing padstacks...
-\t (00:02:38) Opening existing design...
-\i (00:02:38) setwindow pcb
-\i (00:02:38) trapsize 1910
-\i (00:02:40) zoom out 1 
-\i (00:02:40) setwindow pcb
-\i (00:02:40) zoom out 2032.190 -2381.794
-\i (00:02:40) trapsize 3821
-\i (00:02:41) setwindow form.rf_pad
-\i (00:02:41) FORM rf_pad cancel  
-\i (00:02:42) setwindow pcb
-\i (00:02:42) generaledit 
-\i (00:02:42) zoom out 1 
-\i (00:02:42) setwindow pcb
-\i (00:02:42) zoom out 1977.935 -2445.983
-\i (00:02:42) trapsize 7642
-\i (00:02:43) zoom in 1 
-\i (00:02:43) setwindow pcb
-\i (00:02:43) zoom in 2087.975 -2528.513
-\i (00:02:43) trapsize 3821
-\i (00:02:43) zoom in 1 
-\i (00:02:43) setwindow pcb
-\i (00:02:43) zoom in 2087.975 -2528.513
-\i (00:02:43) trapsize 1910
-\i (00:02:44) zoom in 1 
-\i (00:02:44) setwindow pcb
-\i (00:02:44) zoom in 2155.221 -2452.861
-\i (00:02:44) trapsize 955
-\i (00:02:44) zoom in 1 
-\i (00:02:45) setwindow pcb
-\i (00:02:45) zoom in 2159.425 -2449.995
-\i (00:02:45) trapsize 478
-\i (00:02:46) zoom out 1 
-\i (00:02:46) setwindow pcb
-\i (00:02:46) zoom out 2209.382 -2449.995
-\i (00:02:46) trapsize 955
-\i (00:02:49) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
-\i (00:02:49) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
-\i (00:02:52) zoom out 1 
-\i (00:02:52) setwindow pcb
-\i (00:02:52) zoom out 2227.149 -2436.813
-\i (00:02:52) trapsize 1910
-\i (00:02:53) zoom out 1 
-\i (00:02:53) setwindow pcb
-\i (00:02:53) zoom out 2231.353 -2457.827
-\i (00:02:53) trapsize 3821
-\i (00:02:54) zoom in 1 
-\i (00:02:54) setwindow pcb
-\i (00:02:54) zoom in 2218.362 -2437.958
-\i (00:02:54) trapsize 1910
-\i (00:02:54) zoom in 1 
-\i (00:02:54) setwindow pcb
-\i (00:02:54) zoom in 2218.362 -2437.958
-\i (00:02:54) trapsize 955
-\i (00:02:55) zoom in 1 
-\i (00:02:55) setwindow pcb
-\i (00:02:55) zoom in 2218.362 -2436.430
-\i (00:02:55) trapsize 478
-\i (00:02:57) zoom in 1 
-\i (00:02:57) setwindow pcb
-\i (00:02:57) zoom in 2218.363 -2434.233
-\i (00:02:57) trapsize 239
-\i (00:02:59) zoom out 1 
-\i (00:02:59) setwindow pcb
-\i (00:02:59) zoom out 2216.787 -2433.086
-\i (00:02:59) trapsize 478
-\i (00:03:00) roam start
-\i (00:03:00) roam y -16
-\i (00:03:00) roam x 16
-\i (00:03:00) roam y -16
-\i (00:03:00) roam end
-\i (00:03:01) zoom in 1 
-\i (00:03:01) setwindow pcb
-\i (00:03:01) zoom in 2214.805 -2429.761
-\i (00:03:01) trapsize 239
-\i (00:03:44) refresh padstack 
-\i (00:03:45) setwindow form.rf_pad
-\i (00:03:45) FORM rf_pad execute  
-\t (00:03:45) Starting Refreshing padstacks...
-\t (00:03:45) Opening existing design...
-\i (00:03:45) setwindow pcb
-\i (00:03:45) trapsize 239
-\i (00:03:50) setwindow form.rf_pad
-\i (00:03:50) FORM rf_pad cancel  
-\i (00:03:50) setwindow pcb
-\i (00:03:50) generaledit 
-\i (00:03:55) opencd C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/VP0550-1.dra 
-\e (00:03:56) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd?
-\i (00:03:57) fillin yes 
-\t (00:03:57) Opening existing design...
-\i (00:03:57) trapsize 12163
-\i (00:03:57) trapsize 12422
-\i (00:03:57) trapsize 12422
-\t (00:03:57)     Journal end - Tue Mar 20 17:55:55 2018
+\t (00:05:14) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:05:14)     Journal start - Tue Mar 20 17:57:11 2018
+\t (00:05:14)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=14320 CPUs=4
+\t (00:05:14) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:05:14) 
+\d (00:05:14) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd
+\i (00:05:15) generaledit 
+\i (00:05:15) zoom out 1 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom out 2184.851 -2453.679
+\i (00:05:15) trapsize 502
+\i (00:05:37) refresh padstack 
+\i (00:05:38) setwindow form.rf_pad
+\i (00:05:38) FORM rf_pad execute  
+\t (00:05:38) Starting Refreshing padstacks...
+\t (00:05:39) Opening existing design...
+\i (00:05:39) setwindow pcb
+\i (00:05:39) trapsize 502
+\i (00:06:05) setwindow form.rf_pad
+\i (00:06:05) FORM rf_pad viewlog  
+\i (00:06:07) setwindow pcb
+\i (00:06:07) setwindow text
+\i (00:06:07) close
+\i (00:06:07) setwindow form.rf_pad
+\i (00:06:07) FORM rf_pad execute  
+\t (00:06:07) Starting Refreshing padstacks...
+\t (00:06:08) Opening existing design...
+\i (00:06:08) setwindow pcb
+\i (00:06:08) trapsize 502
+\i (00:06:10) setwindow form.rf_pad
+\i (00:06:10) FORM rf_pad cancel  
+\i (00:06:10) setwindow pcb
+\i (00:06:10) generaledit 
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 2147.378 -2406.663
+\i (00:06:10) trapsize 1005
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 2148.784 -2410.078
+\i (00:06:10) trapsize 2009
+\i (00:06:11) zoom out 1 
+\i (00:06:11) setwindow pcb
+\i (00:06:11) zoom out 2151.195 -2411.685
+\i (00:06:11) trapsize 4019
+\i (00:06:11) zoom out 1 
+\i (00:06:11) setwindow pcb
+\i (00:06:11) zoom out 2215.491 -2434.189
+\i (00:06:11) trapsize 8037
+\i (00:06:11) zoom out 1 
+\i (00:06:11) setwindow pcb
+\i (00:06:11) zoom out 2218.706 -2435.796
+\i (00:06:11) trapsize 16074
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out 2344.085 -2522.597
+\i (00:06:14) trapsize 32148
+\i (00:06:15) roam start
+\i (00:06:15) roam end
+\i (00:06:16) save 
+\i (00:06:17) fillin yes 
+\i (00:06:18) generaledit 
+\i (00:06:19) artwork 
+\i (00:06:21) setwindow form.film_control
+\i (00:06:21) FORM film_control filmtree 'MULTISEL YES' TOP_OUTLINE 
+\i (00:06:21) FORM film_control filmtree  TOP_OUTLINE 
+\i (00:06:21) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:06:21) FORM film_control filmtree  TOP 
+\i (00:06:22) FORM film_control filmtree 'MULTISEL YES' OUTLINE 
+\i (00:06:22) FORM film_control filmtree  OUTLINE 
+\i (00:06:24) FORM film_control create  
+\i (00:06:28) fillin yes 
+\t (00:06:28) Checking db records
+\t (00:06:28)     checking for orphans...
+\e (00:06:28) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_B\layout\devices.dml
+\i (00:06:28) setwindow pcb
+\i (00:06:28) setwindow text
+\i (00:06:28) stick
+\e (00:06:28) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_B\layout\devices.dml
+\e (00:06:28) No device library files were opened
+\t (00:06:28)     Checked 100 percent
+\w (00:06:28) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:06:28) Done dbdoctor.
+\t (00:06:28) Starting Create artwork films...
+\w (00:06:29) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:06:30) Artwork generated with warnings.
+\i (00:06:31) setwindow text
+\i (00:06:31) close
+\i (00:06:32) setwindow text
+\i (00:06:32) close
+\i (00:06:33) setwindow form.film_control
+\i (00:06:33) FORM film_control cancel  
+\i (00:06:33) setwindow pcb
+\i (00:06:33) generaledit 
+\i (00:06:35) nctape_full 
+\i (00:06:38) setwindow form.nc_drill
+\i (00:06:38) FORM nc_drill parameters  
+\i (00:06:39) setwindow form.nc_parameters
+\i (00:06:39) FORM nc_parameters cancel  
+\i (00:06:40) setwindow form.nc_drill
+\i (00:06:40) FORM nc_drill execute  
+\t (00:06:40) Starting Generating NC Drill...
+\i (00:06:43) FORM nc_drill cancel  
+\i (00:06:43) setwindow pcb
+\i (00:06:43) generaledit 
+\i (00:06:44) exit 
+\e (00:06:44) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd?
+\i (00:06:45) fillin yes 
+   (00:06:45) Loading signal.cxt 
+\t (00:06:45)     Journal end - Tue Mar 20 17:58:42 2018

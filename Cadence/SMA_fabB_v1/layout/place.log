@@ -1,0 +1,71 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLACEMENT LOG                                                    )
+(                                                                     )
+(    Drawing          : SMA_fabB_v1_auto.brd                          )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sun Apr 01 12:19:27 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Autoplace C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd 
+ Save as C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd 
+
+ Will search while getting acceptable improvement
+ Will not scale complete graph edges
+ Start time Sun Apr 01 12:19:27 2018
+
+
+ 
+ 	 	 Placement Task Version 1.00 
+ 
+ 
+ Algorithm  : IC
+ Place within: board
+ Map grid points to: library origin
+ Place leftovers on bottom: YES
+ Allow component overlap: NO
+ Soft boundary: NO
+ Cluster: NO
+ No Rat: NO
+ Remove TAG: NO
+ Components at rotation of 0 degrees are weighted 50
+
+ Components at rotation of 90 degrees are weighted 0
+
+ Components at rotation of 180 degrees are weighted 0
+
+ Components at rotation of 270 degrees are weighted 0
+
+ Board direction of north is weighted 50
+
+ Board direction of east is weighted 50
+
+ Board direction of south is weighted 50
+
+ Board direction of west is weighted 50
+
+ Component mirroring weight is 50
+
+ Component straightness weight is 50
+
+ Warning: unplaced components are not PLACE TAGGED.
+
+ Placement Keepin
+
+  line seg 	(100.0000,-100.0000) (100.0000,0.0000)
+  line seg 	(100.0000,0.0000) (0.0000,0.0000)
+  line seg 	(0.0000,0.0000) (0.0000,-100.0000)
+  line seg 	(0.0000,-100.0000) (100.0000,-100.0000)
+
+ Error: No Placement Grid was found
+
+ Error: See message(s) above
+
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sun Apr 01 12:19:27 2018
+

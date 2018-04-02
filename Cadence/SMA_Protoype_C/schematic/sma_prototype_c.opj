@@ -1,0 +1,145 @@
+(ExpressProject "Design1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\..\sma_protoype_b\sma_fabb\schematic\passive.olb"
+        (Type "Schematic Library")
+        (DisplayName "..\..\sma_protoype_b\sma_fabb\schematic\passive.olb"))
+      (File "..\..\sma_protoype_b\sma_fabb\schematic\sma_fabb_lib.olb"
+        (Type "Schematic Library")
+        (DisplayName "..\..\sma_protoype_b\sma_fabb\schematic\sma_fabb_lib.olb")))
+    (NoModify)
+    (File ".\sma_prototype_c.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\sma_prototype_c.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_C\layout\allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\SMA_PROTOTYPE.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Outputs"
+    (File "..\..\sma_protoype_b\sma_prototype\layout\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\..\sma_protoype_b\sma_prototype\layout\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\..\sma_protoype_b\sma_prototype\layout\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\..\sma_protoype_b\layout\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\..\sma_protoype_b\layout\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\..\sma_protoype_b\layout\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\layout\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\layout\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\layout\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TC1550
+      (FullPartName "TC1550.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PLA170
+      (FullPartName "PLA170.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET P"
+      (FullPartName "MOSFET P.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (B00JVJDEZE
+      (FullPartName "B00JVJDEZE.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\SMA_FABB_LIB.OLB")
+      (DeviceIndex "0"))
+    (comb_electrode
+      (FullPartName "comb_electrode.Normal")
+      (LibraryName
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_FABB\SCHEMATIC\PASSIVE.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Zain's Surface")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_protoype_c\schematic\sma_prototype_c.dsn")
+      (Path "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_protoype_c\schematic\sma_prototype_c.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_protoype_c\schematic\sma_prototype_c.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 746"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 130 729 130 495")
+        (Scroll "423 149")
+        (Zoom "152")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ZAIN'S SURFACE\DOCUMENTS\GITHUB\SEA\CADENCE\SMA_PROTOYPE_C\SCHEMATIC\SMA_PROTOTYPE_C.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "OPTO-SSR")))
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB\schematic"))

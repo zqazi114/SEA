@@ -1,111 +1,19 @@
-\t (00:05:14) allegro 17.2 S025 Windows SPB 64-bit Edition
-\t (00:05:14)     Journal start - Tue Mar 20 17:57:11 2018
-\t (00:05:14)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=14320 CPUs=4
-\t (00:05:14) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:05:14) 
-\d (00:05:14) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd
-\i (00:05:15) generaledit 
-\i (00:05:15) zoom out 1 
-\i (00:05:15) setwindow pcb
-\i (00:05:15) zoom out 2184.851 -2453.679
-\i (00:05:15) trapsize 502
-\i (00:05:37) refresh padstack 
-\i (00:05:38) setwindow form.rf_pad
-\i (00:05:38) FORM rf_pad execute  
-\t (00:05:38) Starting Refreshing padstacks...
-\t (00:05:39) Opening existing design...
-\i (00:05:39) setwindow pcb
-\i (00:05:39) trapsize 502
-\i (00:06:05) setwindow form.rf_pad
-\i (00:06:05) FORM rf_pad viewlog  
-\i (00:06:07) setwindow pcb
-\i (00:06:07) setwindow text
-\i (00:06:07) close
-\i (00:06:07) setwindow form.rf_pad
-\i (00:06:07) FORM rf_pad execute  
-\t (00:06:07) Starting Refreshing padstacks...
-\t (00:06:08) Opening existing design...
-\i (00:06:08) setwindow pcb
-\i (00:06:08) trapsize 502
-\i (00:06:10) setwindow form.rf_pad
-\i (00:06:10) FORM rf_pad cancel  
-\i (00:06:10) setwindow pcb
-\i (00:06:10) generaledit 
-\i (00:06:10) zoom out 1 
-\i (00:06:10) setwindow pcb
-\i (00:06:10) zoom out 2147.378 -2406.663
-\i (00:06:10) trapsize 1005
-\i (00:06:10) zoom out 1 
-\i (00:06:10) setwindow pcb
-\i (00:06:10) zoom out 2148.784 -2410.078
-\i (00:06:10) trapsize 2009
-\i (00:06:11) zoom out 1 
-\i (00:06:11) setwindow pcb
-\i (00:06:11) zoom out 2151.195 -2411.685
-\i (00:06:11) trapsize 4019
-\i (00:06:11) zoom out 1 
-\i (00:06:11) setwindow pcb
-\i (00:06:11) zoom out 2215.491 -2434.189
-\i (00:06:11) trapsize 8037
-\i (00:06:11) zoom out 1 
-\i (00:06:11) setwindow pcb
-\i (00:06:11) zoom out 2218.706 -2435.796
-\i (00:06:11) trapsize 16074
-\i (00:06:14) zoom out 1 
-\i (00:06:14) setwindow pcb
-\i (00:06:14) zoom out 2344.085 -2522.597
-\i (00:06:14) trapsize 32148
-\i (00:06:15) roam start
-\i (00:06:15) roam end
-\i (00:06:16) save 
-\i (00:06:17) fillin yes 
-\i (00:06:18) generaledit 
-\i (00:06:19) artwork 
-\i (00:06:21) setwindow form.film_control
-\i (00:06:21) FORM film_control filmtree 'MULTISEL YES' TOP_OUTLINE 
-\i (00:06:21) FORM film_control filmtree  TOP_OUTLINE 
-\i (00:06:21) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:06:21) FORM film_control filmtree  TOP 
-\i (00:06:22) FORM film_control filmtree 'MULTISEL YES' OUTLINE 
-\i (00:06:22) FORM film_control filmtree  OUTLINE 
-\i (00:06:24) FORM film_control create  
-\i (00:06:28) fillin yes 
-\t (00:06:28) Checking db records
-\t (00:06:28)     checking for orphans...
-\e (00:06:28) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_B\layout\devices.dml
-\i (00:06:28) setwindow pcb
-\i (00:06:28) setwindow text
-\i (00:06:28) stick
-\e (00:06:28) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_B\layout\devices.dml
-\e (00:06:28) No device library files were opened
-\t (00:06:28)     Checked 100 percent
-\w (00:06:28) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:06:28) Done dbdoctor.
-\t (00:06:28) Starting Create artwork films...
-\w (00:06:29) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:06:30) Artwork generated with warnings.
-\i (00:06:31) setwindow text
-\i (00:06:31) close
-\i (00:06:32) setwindow text
-\i (00:06:32) close
-\i (00:06:33) setwindow form.film_control
-\i (00:06:33) FORM film_control cancel  
-\i (00:06:33) setwindow pcb
-\i (00:06:33) generaledit 
-\i (00:06:35) nctape_full 
-\i (00:06:38) setwindow form.nc_drill
-\i (00:06:38) FORM nc_drill parameters  
-\i (00:06:39) setwindow form.nc_parameters
-\i (00:06:39) FORM nc_parameters cancel  
-\i (00:06:40) setwindow form.nc_drill
-\i (00:06:40) FORM nc_drill execute  
-\t (00:06:40) Starting Generating NC Drill...
-\i (00:06:43) FORM nc_drill cancel  
-\i (00:06:43) setwindow pcb
-\i (00:06:43) generaledit 
-\i (00:06:44) exit 
-\e (00:06:44) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd?
-\i (00:06:45) fillin yes 
-   (00:06:45) Loading signal.cxt 
-\t (00:06:45)     Journal end - Tue Mar 20 17:58:42 2018
+\t (00:00:12) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:12)     Journal start - Tue Mar 27 11:53:54 2018
+\t (00:00:12)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=3280 CPUs=4
+\t (00:00:12) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:12) 
+   (00:00:13) Loading axlcore.cxt 
+\t (00:00:13) Opening existing design...
+\d (00:00:14) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd
+\i (00:00:15) trapsize 32437
+\i (00:00:15) trapsize 33493
+\i (00:00:15) trapsize 33493
+\i (00:00:16) trapsize 34449
+\i (00:00:17) generaledit 
+\i (00:00:21) opencd C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/large_r_c.dra 
+\t (00:00:22) Opening existing design...
+\i (00:00:23) trapsize 599
+\i (00:00:23) trapsize 612
+\i (00:00:23) trapsize 612
+\t (00:00:23)     Journal end - Tue Mar 27 11:54:06 2018

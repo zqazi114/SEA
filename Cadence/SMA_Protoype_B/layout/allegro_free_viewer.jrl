@@ -1,0 +1,81 @@
+\t (00:00:00) allegro_free_viewer 17.2 S015 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Mar 22 20:25:22 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=13472 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\Zain's Surface\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_Protoype_B\layout\SMA_Prototype_B.brd
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_Protoype_B/layout/SMA_Prototype_B.brd
+\i (00:00:01) trapsize 45569
+\i (00:00:01) trapsize 44380
+\i (00:00:01) trapsize 45569
+\i (00:00:01) trapsize 45569
+\i (00:00:11) zoom in 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 4267.788 -1737.252
+\i (00:00:11) trapsize 22785
+\i (00:00:13) zoom fit 
+\i (00:00:13) trapsize 28205
+\i (00:00:16) zoom in 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 2497.179 -2002.821
+\i (00:00:16) trapsize 14103
+\i (00:00:17) zoom in 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 2497.179 -2002.821
+\i (00:00:17) trapsize 7051
+\i (00:00:18) roam y -96 
+\i (00:00:18) roam y -96
+\i (00:00:19) roam y -96 
+\i (00:00:19) roam y -96
+\i (00:00:19) roam y -96 
+\i (00:00:19) roam y -96
+\i (00:00:19) roam x 96 
+\i (00:00:19) roam x 96
+\i (00:00:19) roam x 96 
+\i (00:00:19) roam x 96
+\i (00:00:19) roam x 96 
+\i (00:00:19) roam x 96
+\i (00:00:19) roam x 96 
+\i (00:00:19) roam x 96
+\i (00:00:19) roam x 96 
+\i (00:00:19) roam x 96
+\i (00:00:19) roam x 96 
+\i (00:00:19) roam x 96
+\i (00:00:20) roam x 96 
+\i (00:00:20) roam x 96
+\i (00:00:20) roam x 96 
+\i (00:00:20) roam x 96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:21) roam y -96 
+\i (00:00:21) roam y -96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam y 96 
+\i (00:00:21) roam y 96
+\i (00:00:22) roam x 96 
+\i (00:00:22) roam x 96
+\i (00:00:23) roam y -96 
+\i (00:00:23) roam y -96
+\i (00:00:23) roam y 96 
+\i (00:00:23) roam y 96
+\i (00:00:24) roam y 96 
+\i (00:00:24) roam y 96
+\i (00:00:25) roam x -96 
+\i (00:00:25) roam x -96
+\i (00:00:25) roam x 96 
+\i (00:00:25) roam x 96
+\i (00:00:26) roam y -96 
+\i (00:00:26) roam y -96
+\i (00:00:27) roam y 96 
+\i (00:00:27) roam y 96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (15:50:27) exit 
+\t (15:50:28)     Journal end - Fri Mar 23 12:15:50 2018

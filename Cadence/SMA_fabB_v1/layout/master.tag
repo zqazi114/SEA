@@ -1,0 +1,1 @@
+SMA_fabB_v1_auto.brd
