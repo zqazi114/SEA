@@ -1,34 +1,115 @@
 \t (00:00:00) allegro_free_viewer 17.2 S015 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sun Apr 01 12:17:57 2018
-\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=14072 CPUs=4
-\t (00:00:00) CmdLine= C:\Users\Zain's Surface\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\SMA_fabB_v1.brd
+\t (00:00:00)     Journal start - Wed Apr 04 11:45:30 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=12812 CPUs=4
+\t (00:00:00) CmdLine= C:\Users\Zain's Surface\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\SMA_fabB_v1_auto.brd
 \t (00:00:00) 
 \t (00:00:00) Opening existing design...
-\d (00:00:00) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1.brd
-\i (00:00:00) trapsize 6391
-\i (00:00:00) trapsize 6224
-\i (00:00:01) trapsize 6391
-\i (00:00:01) trapsize 6391
-\i (00:00:04) show measure 
-\i (00:00:05) pick grid -49.6068 -18.8030
-\t (00:00:05) last pick:  -49.5300 -18.7960
-\i (00:00:07) pick grid 40.5006 -17.1414
-\t (00:00:07) last pick:  40.3860 -17.0180
-\i (00:00:11) pick grid -5.0004 -67.4994
-\t (00:00:11) last pick:  -5.0800 -67.5640
-\i (00:00:12) zoom out 1 
-\i (00:00:12) setwindow pcb
-\i (00:00:12) zoom out 2.7961 -53.6957
-\i (00:00:12) trapsize 12781
-\i (00:00:13) pick grid 4.3298 23.5028
-\t (00:00:13) last pick:  4.3180 23.6220
-\i (00:00:15) setwindow text
-\i (00:00:15) close 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) prmed 
-\i (00:00:19) setwindow form.prmedit
-\i (00:00:19) FORM prmedit design  
-\i (00:00:20) FORM prmedit cancel  
-\i (00:00:22) setwindow pcb
-\i (00:00:22) exit 
-\t (00:00:23)     Journal end - Sun Apr 01 12:18:20 2018
+\d (00:00:00) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd
+\i (00:00:01) trapsize 12781
+\i (00:00:01) trapsize 12448
+\i (00:00:01) trapsize 12781
+\i (00:00:01) trapsize 12781
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -48.8676 -31.3715
+\i (00:00:03) trapsize 6391
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -48.8676 -31.3715
+\i (00:00:03) trapsize 3195
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -49.3149 -31.6271
+\i (00:00:03) trapsize 6391
+\i (00:00:04) roam start
+\i (00:00:04) roam x -16
+\i (00:00:04) roam y 112
+\i (00:00:04) roam x -16
+\i (00:00:04) roam y 64
+\i (00:00:04) roam x -16
+\i (00:00:04) roam y 32
+\i (00:00:04) roam x -16
+\i (00:00:04) roam y 32
+\i (00:00:04) roam end
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -45.8579 -62.4484
+\i (00:00:05) trapsize 3195
+\i (00:00:07) show measure 
+\i (00:00:10) setwindow form.find
+\i (00:00:10) FORM find all_off  
+\i (00:00:12) FORM find shapes YES 
+\i (00:00:16) setwindow form.vf_vis
+\i (00:00:16) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:17) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) prepopup -40.8093 -59.6365
+\i (00:00:23) pop dyn_option_select 'Snap pick to@:@Segment' 
+\t (00:00:23) last pick:  -40.8940 -59.6365
+\i (00:00:26) prepopup -49.1171 -61.1702
+\i (00:00:30) pop dyn_option_select 'Snap pick to@:@Segment' 
+\t (00:00:30) last pick:  -49.0220 -61.1702
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -37.2945 -55.4187
+\i (00:00:33) trapsize 6391
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in -46.3692 -49.5392
+\i (00:00:34) trapsize 3195
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -45.4744 -49.5392
+\i (00:00:35) trapsize 6391
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -45.2188 -49.5391
+\i (00:00:35) trapsize 12781
+\i (00:00:36) roam start
+\i (00:00:36) roam y -48
+\i (00:00:36) roam y -16
+\i (00:00:36) roam end
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -36.7833 -23.9768
+\i (00:00:37) trapsize 6391
+\i (00:00:40) setwindow text
+\i (00:00:40) close 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out -30.9039 -46.7274
+\i (00:00:58) trapsize 12781
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -43.1738 -69.9894
+\i (00:00:59) trapsize 6391
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -43.1738 -69.9894
+\i (00:00:59) trapsize 3195
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in -44.3240 -68.9669
+\i (00:01:00) trapsize 1598
+\i (00:01:03) prepopup -47.3276 -62.9277
+\i (00:01:05) pop dyn_option_select 'Snap pick to@:@Segment' 
+\i (00:01:06) pick grid -47.1358 -63.4070
+\t (00:01:06) last pick:  -47.2440 -63.5000
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out -44.3879 -64.5573
+\i (00:01:11) trapsize 3195
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out -44.1961 -63.6626
+\i (00:01:13) trapsize 6391
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out -43.8127 -63.6627
+\i (00:01:13) trapsize 12781
+\i (00:01:22) setwindow text
+\i (00:01:22) close 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) exit 
+\t (00:01:30)     Journal end - Wed Apr 04 11:47:00 2018

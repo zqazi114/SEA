@@ -214,10 +214,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\sea_fabb_v1.dsn")
-      (Path "Design Resources" ".\sea_fabb_v1.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb_v1\schematic\sea_fabb_v1.dsn")
+      (Path "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb_v1\schematic\sea_fabb_v1.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\sea_fabb_v1.dsn"))
+      (Select "Design Resources"
+         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb_v1\schematic\sea_fabb_v1.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

@@ -1,15 +1,15 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    PLCTXT Log                                                       )
 (                                                                     )
 (    Drawing          : SMA_fabB_v1_040418.brd                        )
-(    Software Version : 17.2P028                                      )
-(    Date/Time        : Wed Apr 04 13:45:20 2018                      )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Apr 04 13:45:57 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+ Create a placement by text file: SMA_fabB_040418_CPL.txt
 
-1 warnings, 0 errors detected, 0 errors could be fixed.
+ Successfully processed 121 placed components

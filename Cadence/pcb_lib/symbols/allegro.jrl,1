@@ -1,24 +1,16 @@
 \t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sun Apr 01 01:54:49 2018
-\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=10332 CPUs=4
-\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\pcb_lib\symbols\PLA170.dra
+\t (00:00:00)     Journal start - Sun Apr 01 03:06:51 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=13256 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\pcb_lib\symbols\comb_electrode_full.dra
 \t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
+   (00:00:01) Loading axlcore.cxt 
 \t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/PLA170.dra
-\i (00:00:03) trapsize 64
-\i (00:00:03) trapsize 65
-\i (00:00:03) trapsize 65
+\d (00:00:03) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/comb_electrode_full.dra
+\i (00:00:03) trapsize 18999
+\i (00:00:03) trapsize 19404
+\i (00:00:03) trapsize 19404
 \i (00:00:04) generaledit 
-\i (00:00:16) show measure 
-\i (00:00:17) pick grid -5.229 2.655
-\t (00:00:17) last pick:  -5.080 2.540
-\i (00:00:18) pick grid 5.154 2.655
-\t (00:00:18) last pick:  5.080 2.540
-\i (00:00:26) setwindow text
-\i (00:00:26) close 
-\i (00:00:29) setwindow pcb
-\i (00:00:29) exit 
-\e (00:00:29) Do you want to save the changes you made to PLA170.dra?
-\i (00:00:31) fillin no 
-\t (00:00:31)     Journal end - Sun Apr 01 01:55:19 2018
+\i (00:00:05) exit 
+\e (00:00:05) Do you want to save the changes you made to comb_electrode_full.dra?
+\i (00:00:06) fillin no 
+\t (00:00:06)     Journal end - Sun Apr 01 03:06:57 2018

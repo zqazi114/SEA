@@ -2,12 +2,17 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_auto.brd                          )
+(    Drawing          : SMA_fabB_v1_040418.brd                        )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Sun Apr 01 22:41:11 2018                      )
+(    Date/Time        : Wed Apr 04 13:45:20 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
 
  ---- Photoplot outline rectangle not found; using drawing extents.
 
@@ -29,7 +34,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_TOP_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_TOP_fabB_040418.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -67,12 +72,12 @@ Results from parameter file ...
   RECTANGLE  3.25000     x 2.15000       0.000 NO     DARK 
   RECTANGLE  3.80000     x 1.51000       0.000 NO     DARK 
 
-     SMA_TOP_faba created.
+     SMA_TOP_fabB_040418 created with warnings
 
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_BOTTOM_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_BOTTOM_fabB_040418.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -110,12 +115,12 @@ Results from parameter file ...
   PAD SHAPE  COMB_ELECTRODE_R            0.000 YES    DARK 
   PAD SHAPE  COMB_ELECTRODE_L            0.000 YES    DARK 
 
-     SMA_BOTTOM_faba created with warnings
+     SMA_BOTTOM_fabB_040418 created with warnings
 
 
 ================================================================
-     PROCESSING FILM < SILKSCREEN >
-     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_SILKSCREEN_faba.art > ...
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_SILKSCREEN_TOP_fabB_040418.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -149,12 +154,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.25400                                  DARK 
 
-     SMA_SILKSCREEN_faba created with warnings
+     SMA_SILKSCREEN_TOP_fabB_040418 created with warnings
 
 
 ================================================================
      PROCESSING FILM < FAB_NOTES >
-     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_FAB_NOTES_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_FAB_NOTES_fabB_040418.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -176,12 +181,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.25400                                  DARK 
 
-     SMA_FAB_NOTES_faba created.
+     SMA_FAB_NOTES_fabB_040418 created with warnings
 
 
 ================================================================
      PROCESSING FILM < VDD >
-     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_VDD_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_VDD_fabB_040418.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -215,12 +220,12 @@ Results from parameter file ...
   RECTANGLE  1.51000     x 3.80000       0.000 NO     DARK 
   RECTANGLE  3.80000     x 1.51000       0.000 NO     DARK 
 
-     SMA_VDD_faba created with warnings
+     SMA_VDD_fabB_040418 created with warnings
 
 
 ================================================================
      PROCESSING FILM < GND >
-     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_GND_faba.art > ...
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_GND_fabB_040418.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -250,16 +255,100 @@ Results from parameter file ...
   RECTANGLE  1.51000     x 3.80000       0.000 NO     DARK 
   RECTANGLE  3.80000     x 1.51000       0.000 NO     DARK 
 
-     SMA_GND_faba created.
+     SMA_GND_fabB_040418 created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOT >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_SILKSCREEN_BOT_fabB_040418.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2540
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+
+     SMA_SILKSCREEN_BOT_fabB_040418 created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSM_TOP >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_ASSM_TOP_fabB_040418.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2540
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+
+     SMA_ASSM_TOP_fabB_040418 created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSM_BOT >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_ASSM_BOT_fabB_040418.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2540
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+
+     SMA_ASSM_BOT_fabB_040418 created with warnings
 
 
 ------------------------------------------------------
  SUMMARY:
-        SMA_TOP_faba created.
-        SMA_BOTTOM_faba created with warnings
-        SMA_SILKSCREEN_faba created with warnings
-        SMA_FAB_NOTES_faba created.
-        SMA_VDD_faba created with warnings
-        SMA_GND_faba created.
+        SMA_TOP_fabB_040418 created with warnings
+        SMA_BOTTOM_fabB_040418 created with warnings
+        SMA_SILKSCREEN_TOP_fabB_040418 created with warnings
+        SMA_FAB_NOTES_fabB_040418 created with warnings
+        SMA_VDD_fabB_040418 created with warnings
+        SMA_GND_fabB_040418 created with warnings
+        SMA_SILKSCREEN_BOT_fabB_040418 created with warnings
+        SMA_ASSM_TOP_fabB_040418 created with warnings
+        SMA_ASSM_BOT_fabB_040418 created with warnings
 
  ARTWORK had warnings
