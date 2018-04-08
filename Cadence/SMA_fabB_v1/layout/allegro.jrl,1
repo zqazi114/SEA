@@ -1,380 +1,476 @@
-\t (00:07:19) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:07:19)     Journal start - Wed Apr 04 13:34:01 2018
-\t (00:07:19)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=936 CPUs=4
-\t (00:07:19) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\SMA_fabB_v1_auto.brd
-\t (00:07:19) 
-\d (00:07:19) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd
-\i (00:07:20) generaledit 
-\i (00:07:22) refresh symbol 
-\i (00:07:25) setwindow form.upd_element
-\i (00:07:25) FORM upd_element tree 'MULTISEL YES' CONN10 'Package symbols' 
-\i (00:07:25) FORM upd_element tree  CONN10 'Package symbols' 
-\i (00:07:26) FORM upd_element tree 'MULTISEL YES' CONN16 'Package symbols' 
-\i (00:07:26) FORM upd_element tree  CONN16 'Package symbols' 
-\i (00:07:27) FORM upd_element refresh  
-\t (00:07:27) Starting Refresh Symbol...
-\t (00:07:28) Opening existing design...
-\i (00:07:28) setwindow pcb
-\i (00:07:28) trapsize 4987
-\t (00:07:29) Updating dynamic shape (1 of 4) Gnd, Boundary/Top @ (-47.4980 -67.5640) ...
-\t (00:07:29) Updating dynamic shape (2 of 4) +5V, Boundary/Vdd @ (-49.0219 -68.0619) ...
-\t (00:07:29) Updating dynamic shape (3 of 4) +12V_Sw, Boundary/Top @ (-33.2740 -61.2140) ...
-\t (00:07:29) Updating dynamic shape (4 of 4) Gnd, Boundary/Gnd @ (-49.0219 -67.9124) ...
-\i (00:07:30) setwindow form.upd_element
-\i (00:07:30) FORM upd_element close  
-\i (00:07:30) setwindow pcb
-\i (00:07:30) generaledit 
-\i (00:07:32) zoom in 1 
-\i (00:07:32) setwindow pcb
-\i (00:07:32) zoom in -29.1707 11.7512
-\i (00:07:32) trapsize 2494
-\i (00:07:33) zoom in 1 
-\i (00:07:33) setwindow pcb
-\i (00:07:33) zoom in -29.7193 11.2026
-\i (00:07:33) trapsize 1247
-\i (00:07:34) drag_start grid -29.9687 11.2026
-\i (00:07:34) move 
-\t (00:07:34) last pick:  -28.0670 11.9380
-\t (00:07:34) Pick new location for the element(s).
-\i (00:07:36) drag_stop grid -26.9264 17.4367
-\i (00:07:36) generaledit 
-\i (00:07:37) zoom out 1 
-\i (00:07:37) setwindow pcb
-\i (00:07:37) zoom out -27.1010 14.4693
-\i (00:07:37) trapsize 2494
-\i (00:07:37) roam start
-\i (00:07:37) roam y 240
-\i (00:07:37) roam x -16
-\i (00:07:37) roam y 160
-\i (00:07:37) roam y 96
-\i (00:07:37) roam y 80
-\i (00:07:37) roam x -16
-\i (00:07:37) roam y 64
-\i (00:07:38) roam y 64
-\i (00:07:38) roam y 48
-\i (00:07:38) roam y 32
-\i (00:07:38) roam end
-\i (00:07:39) drag_start grid -18.6616 -45.1170
-\i (00:07:39) move 
-\t (00:07:39) last pick:  -19.9390 -42.2910
-\t (00:07:39) Pick new location for the element(s).
-\i (00:07:41) drag_stop grid -26.5416 -42.1745
-\i (00:07:41) generaledit 
-\i (00:07:41) roam start
-\i (00:07:42) roam x 176
-\i (00:07:42) roam y 32
-\i (00:07:42) roam x 400
-\i (00:07:42) roam y 96
-\i (00:07:42) roam x 496
-\i (00:07:42) roam y 96
-\i (00:07:42) roam x 144
-\i (00:07:42) roam y 32
-\i (00:07:42) roam x 64
-\i (00:07:42) roam y 16
-\i (00:07:42) roam x 32
-\i (00:07:42) roam y 16
-\i (00:07:42) roam x -96
-\i (00:07:42) roam y -16
-\i (00:07:42) roam x -144
-\i (00:07:42) roam y -64
-\i (00:07:42) roam x -128
-\i (00:07:42) roam y -48
-\i (00:07:42) roam x -144
-\i (00:07:42) roam y -32
-\i (00:07:42) roam x -48
-\i (00:07:42) roam y -32
-\i (00:07:42) roam x -16
-\i (00:07:43) roam end
-\i (00:07:44) drag_start grid 4.3299 -54.8422
-\i (00:07:44) move 
-\t (00:07:44) last pick:  5.4610 -57.1500
-\t (00:07:44) Pick new location for the element(s).
-\i (00:07:46) drag_stop grid 7.9706 -56.5878
-\i (00:07:46) generaledit 
-\i (00:07:47) drag_start grid 25.0771 -53.7949
-\i (00:07:47) move 
-\t (00:07:47) last pick:  26.0350 -55.6260
-\t (00:07:47) Pick new location for the element(s).
-\i (00:07:49) drag_stop grid 28.6679 -55.3409
-\i (00:07:49) generaledit 
-\i (00:07:50) drag_start grid 21.5361 -43.6706
-\i (00:07:50) move 
-\t (00:07:50) last pick:  19.3040 -44.3230
-\t (00:07:50) Pick new location for the element(s).
-\i (00:07:52) drag_stop grid 20.0399 -47.1119
-\i (00:07:52) generaledit 
-\i (00:07:52) zoom out 1 
-\i (00:07:52) setwindow pcb
-\i (00:07:52) zoom out 9.0179 -48.0595
-\i (00:07:52) trapsize 4987
-\i (00:07:53) zoom out 1 
-\i (00:07:53) setwindow pcb
-\i (00:07:53) zoom out 7.0231 -41.7754
-\i (00:07:53) trapsize 9975
-\i (00:07:55) save 
-\i (00:07:56) fillin yes 
-\i (00:07:56) generaledit 
-\i (00:07:57) zoom in 1 
-\i (00:07:57) setwindow pcb
-\i (00:07:57) zoom in 22.3839 -54.6427
-\i (00:07:57) trapsize 4987
-\i (00:07:57) roam start
-\i (00:07:57) roam x -80
-\i (00:07:57) roam y -16
-\i (00:07:57) roam x -288
-\i (00:07:57) roam y -128
-\i (00:07:58) roam x -304
-\i (00:07:58) roam y -128
-\i (00:07:58) roam y -32
-\i (00:07:58) roam y -48
-\i (00:07:58) roam y -16
-\i (00:07:58) roam x 48
-\i (00:07:58) roam x 64
-\i (00:07:58) roam x 48
-\i (00:07:58) roam y 16
-\i (00:07:58) roam x 64
-\i (00:07:58) roam y 32
-\i (00:07:58) roam x 64
-\i (00:07:58) roam y 32
-\i (00:07:58) roam x 32
-\i (00:07:58) roam end
-\i (00:08:00) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASSM_BOT"
-\i (00:08:00) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ASSM_BOT"
-\i (00:08:02) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASSM_TOP"
-\i (00:08:03) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ASSM_TOP"
-\i (00:08:05) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILKSCREEN_BOT"
-\i (00:08:05) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SILKSCREEN_BOT"
-\i (00:08:07) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILKSCREEN_TOP"
-\i (00:08:07) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SILKSCREEN_TOP"
-\i (00:08:13) zoom in 1 
-\i (00:08:13) setwindow pcb
-\i (00:08:13) zoom in 21.8353 -62.5227
-\i (00:08:13) trapsize 2494
-\i (00:08:13) roam start
-\i (00:08:13) roam y 80
-\i (00:08:13) roam y 32
-\i (00:08:13) roam x 32
-\i (00:08:13) roam y 16
-\i (00:08:14) roam x 16
-\i (00:08:14) roam end
-\i (00:08:15) drag_start grid 27.3214 -53.5455
-\i (00:08:15) move 
-\t (00:08:16) last pick:  27.9400 -56.6420
-\t (00:08:16) Pick new location for the element(s).
-\i (00:08:18) drag_stop grid 25.9249 -53.6951
-\i (00:08:18) generaledit 
-\i (00:08:18) zoom out 1 
-\i (00:08:18) setwindow pcb
-\i (00:08:18) zoom out 13.3569 -70.0535
-\i (00:08:18) trapsize 4987
-\i (00:08:19) roam start
-\i (00:08:19) roam x -64
-\i (00:08:19) roam y -16
-\i (00:08:19) roam x -48
-\i (00:08:19) roam y -32
-\i (00:08:20) roam x -16
-\i (00:08:20) roam y 16
-\i (00:08:20) roam y 16
-\i (00:08:20) roam x 16
-\i (00:08:20) roam x -16
-\i (00:08:21) roam x -16
-\i (00:08:21) roam x -16
-\i (00:08:21) roam end
-\i (00:08:22) save 
-\i (00:08:23) fillin yes 
-\i (00:08:23) generaledit 
-\i (00:10:29) zoom out 1 
-\i (00:10:29) setwindow pcb
-\i (00:10:29) zoom out -15.1704 -49.4559
-\i (00:10:29) trapsize 9975
-\i (00:10:30) zoom in 1 
-\i (00:10:30) setwindow pcb
-\i (00:10:30) zoom in -14.7715 -47.4610
-\i (00:10:30) trapsize 4987
-\i (00:10:30) zoom in 1 
-\i (00:10:30) setwindow pcb
-\i (00:10:30) zoom in -14.7715 -47.4609
-\i (00:10:30) trapsize 2494
-\i (00:10:30) zoom out 1 
-\i (00:10:30) setwindow pcb
-\i (00:10:30) zoom out -14.3226 -47.7602
-\i (00:10:30) trapsize 4987
-\i (00:10:32) pick grid 55.4997 -48.8573
-\t (00:10:32) last pick:  55.6260 -48.7680
-\i (00:10:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASSM_TOP"
-\i (00:10:36) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: ASSM_TOP"
-\i (00:10:38) zoom in 1 
-\i (00:10:38) setwindow pcb
-\i (00:10:38) zoom in -29.1847 -54.6426
-\i (00:10:38) trapsize 2494
-\i (00:10:42) drag_start grid -37.5135 -38.7830
-\i (00:10:42) move 
-\t (00:10:42) last pick:  -36.0680 -37.3380
-\t (00:10:42) Pick new location for the element(s).
-\i (00:10:45) drag_stop grid -35.9175 -37.3865
-\i (00:10:45) generaledit 
-\i (00:10:47) zoom out 1 
-\i (00:10:47) setwindow pcb
-\i (00:10:47) zoom out -31.7282 -45.6156
-\i (00:10:47) trapsize 4987
-\i (00:12:59) plctxt out 
-\i (00:13:01) setwindow form.plctxt
-\i (00:13:01) FORM plctxt body_center YES 
-\i (00:13:09) FORM plctxt execute  
-\t (00:13:09) Starting Place symbols by text file...
-\i (00:14:55) FORM plctxt cancel  
-\i (00:14:56) setwindow pcb
-\i (00:14:56) generaledit 
-\i (00:14:56) zoom out 1 
-\i (00:14:56) setwindow pcb
-\i (00:14:56) zoom out -8.3876 -24.1701
-\i (00:14:57) trapsize 9975
-\i (00:15:03) artwork 
-\i (00:15:05) setwindow form.film_control
-\i (00:15:05) FORM film_control filmtree 'MULTISEL YES' ASSM_BOT 
-\i (00:15:05) FORM film_control filmtree  ASSM_BOT 
-\i (00:15:05) FORM film_control filmtree 'MULTISEL YES' ASSM_TOP 
-\i (00:15:05) FORM film_control filmtree  ASSM_TOP 
-\i (00:15:06) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:15:06) FORM film_control filmtree  BOTTOM 
-\i (00:15:08) FORM film_control filmtree 'MULTISEL YES' FAB_NOTES 
-\i (00:15:08) FORM film_control filmtree  FAB_NOTES 
-\i (00:15:09) FORM film_control filmtree 'MULTISEL YES' GND 
-\i (00:15:09) FORM film_control filmtree  GND 
-\i (00:15:09) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOT 
-\i (00:15:09) FORM film_control filmtree  SILKSCREEN_BOT 
-\i (00:15:10) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:15:10) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:15:10) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:15:10) FORM film_control filmtree  TOP 
-\i (00:15:11) FORM film_control filmtree 'MULTISEL YES' VDD 
-\i (00:15:11) FORM film_control filmtree  VDD 
-\i (00:15:14) FORM film_control filmtree  TOP 
-\i (00:15:15) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:15:15) FORM film_control filmtree  SILKSCREEN_BOT 
-\i (00:15:16) FORM film_control filmtree  GND 
-\i (00:15:16) FORM film_control filmtree  FAB_NOTES 
-\i (00:15:16) FORM film_control filmtree  BOTTOM 
-\i (00:15:17) FORM film_control filmtree  ASSM_TOP 
-\i (00:15:18) FORM film_control filmtree  ASSM_BOT 
-\i (00:15:19) FORM film_control create  
-\i (00:15:26) fillin yes 
-\t (00:15:26) Checking db records
-\t (00:15:26)     checking for orphans...
-\e (00:15:26) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\e (00:15:26) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\t (00:15:26)     Checked 100 percent
-\w (00:15:26) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:15:26) Done dbdoctor.
-\t (00:15:26) Starting Create artwork films...
-\w (00:15:27) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:15:28) Artwork generated with warnings.
-\i (00:15:29) setwindow text
-\i (00:15:29) close 
-\i (00:15:29) setwindow text
-\i (00:15:29) close 
-\i (00:15:30) setwindow form.film_control
-\i (00:15:30) FORM film_control ok  
-\i (00:15:31) setwindow pcb
-\i (00:15:31) generaledit 
-\i (00:15:31) save 
-\i (00:15:32) fillin yes 
-   (00:15:32) Loading signal.cxt 
-\i (00:15:32) generaledit 
-\i (00:15:34) artwork 
-\i (00:15:36) setwindow form.film_control
-\i (00:15:36) FORM film_control filmtree 'MULTISEL YES' VDD 
-\i (00:15:36) FORM film_control filmtree  VDD 
-\i (00:15:36) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:15:36) FORM film_control filmtree  TOP 
-\i (00:15:37) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:15:37) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:15:37) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOT 
-\i (00:15:37) FORM film_control filmtree  SILKSCREEN_BOT 
-\i (00:15:38) FORM film_control filmtree 'MULTISEL YES' GND 
-\i (00:15:38) FORM film_control filmtree  GND 
-\i (00:15:38) FORM film_control filmtree 'MULTISEL YES' FAB_NOTES 
-\i (00:15:38) FORM film_control filmtree  FAB_NOTES 
-\i (00:15:38) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:15:38) FORM film_control filmtree  BOTTOM 
-\i (00:15:39) FORM film_control filmtree 'MULTISEL YES' ASSM_TOP 
-\i (00:15:39) FORM film_control filmtree  ASSM_TOP 
-\i (00:15:39) FORM film_control filmtree 'MULTISEL YES' ASSM_BOT 
-\i (00:15:39) FORM film_control filmtree  ASSM_BOT 
-\i (00:15:40) FORM film_control create  
-\i (00:15:41) fillin yes 
-\t (00:15:41) Checking db records
-\t (00:15:41)     checking for orphans...
-\t (00:15:41)     Checked  99 percent
-\e (00:15:41) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\e (00:15:41) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\t (00:15:42)     Checked 100 percent
-\w (00:15:42) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:15:42) Done dbdoctor.
-\t (00:15:42) Starting Create artwork films...
-\w (00:15:42) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:15:43) Artwork generated with warnings.
-\i (00:15:45) setwindow text
-\i (00:15:45) close 
-\i (00:15:46) setwindow form.film_control
-\i (00:15:46) FORM film_control ok  
-\i (00:15:46) setwindow pcb
-\i (00:15:46) generaledit 
-\i (00:15:49) nctape_full 
-\w (00:15:50) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
-\i (00:16:09) setwindow form.nc_drill
-\i (00:16:09) FORM nc_drill tape_name SMA_fabB_v1_040418.drl 
-\i (00:16:09) FORM nc_drill execute  
-\t (00:16:09) Starting Generating NC Drill...
-\i (00:16:12) FORM nc_drill cancel  
-\i (00:16:12) setwindow pcb
-\i (00:16:12) generaledit 
-\i (00:16:14) save_as 
-\i (00:16:20) fillin "SMA_fabB_v1_040418.brd"
-\i (00:16:20) generaledit 
-\i (00:16:23) artwork 
-\i (00:16:25) setwindow form.film_control
-\i (00:16:25) FORM film_control filmtree 'MULTISEL YES' ASSM_BOT 
-\i (00:16:25) FORM film_control filmtree  ASSM_BOT 
-\i (00:16:26) FORM film_control filmtree 'MULTISEL YES' ASSM_TOP 
-\i (00:16:26) FORM film_control filmtree  ASSM_TOP 
-\i (00:16:26) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:16:26) FORM film_control filmtree  BOTTOM 
-\i (00:16:26) FORM film_control filmtree 'MULTISEL YES' FAB_NOTES 
-\i (00:16:26) FORM film_control filmtree  FAB_NOTES 
-\i (00:16:27) FORM film_control filmtree 'MULTISEL YES' GND 
-\i (00:16:27) FORM film_control filmtree  GND 
-\i (00:16:27) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOT 
-\i (00:16:27) FORM film_control filmtree  SILKSCREEN_BOT 
-\i (00:16:27) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:16:27) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:16:28) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:16:28) FORM film_control filmtree  TOP 
-\i (00:16:28) FORM film_control filmtree 'MULTISEL YES' VDD 
-\i (00:16:28) FORM film_control filmtree  VDD 
-\i (00:16:29) FORM film_control create  
-\i (00:16:30) fillin yes 
-\t (00:16:30) Checking db records
-\t (00:16:30)     checking for orphans...
-\t (00:16:30)     Checked  99 percent
-\e (00:16:30) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\e (00:16:30) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\t (00:16:30)     Checked 100 percent
-\w (00:16:30) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:16:30) Done dbdoctor.
-\t (00:16:30) Starting Create artwork films...
-\w (00:16:30) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:16:31) Artwork generated with warnings.
-\i (00:16:33) setwindow text
-\i (00:16:33) close 
-\i (00:16:33) setwindow form.film_control
-\i (00:16:33) FORM film_control ok  
-\i (00:16:33) setwindow pcb
-\i (00:16:33) generaledit 
-\i (00:16:34) exit 
-\e (00:16:34) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040418.brd?
-\i (00:16:35) fillin yes 
-\t (00:16:36)     Journal end - Wed Apr 04 13:43:17 2018
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Apr 07 20:11:05 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=13932 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\SMA_fabB_v1_040718.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd
+\i (00:00:03) trapsize 10272
+\i (00:00:03) trapsize 10491
+\i (00:00:03) trapsize 10491
+\i (00:00:04) generaledit 
+\i (00:00:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:00:09) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -50.6885 -10.4712
+\i (00:00:10) trapsize 5245
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -52.7867 -2.7079
+\i (00:00:11) trapsize 2623
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -52.7867 -2.7079
+\i (00:00:11) trapsize 1311
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -48.5903 -3.1538
+\i (00:00:11) trapsize 2623
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -48.1184 -3.1012
+\i (00:00:12) trapsize 5245
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -43.9220 -9.9203
+\i (00:00:12) trapsize 2623
+\i (00:00:13) roam start
+\i (00:00:13) roam x 64
+\i (00:00:13) roam y -16
+\i (00:00:13) roam x 80
+\i (00:00:13) roam y -48
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y -16
+\i (00:00:13) roam end
+\i (00:00:16) netin 
+\i (00:00:23) setwindow form.niparams
+\i (00:00:23) FORM niparams import  
+\t (00:00:23) Starting Cadence Logic Import...
+\w (00:00:23) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:00:23) Opening existing design...
+\i (00:00:23) setwindow pcb
+\i (00:00:23) trapsize 2623
+\i (00:00:25) generaledit 
+\i (00:00:27) setwindow text
+\i (00:00:27) close 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) done 
+\i (00:00:29) place manual 
+\i (00:00:30) FORM plc_manual placement_list 
+\i (00:00:30) FORM plc_manual categories Components by refdes 
+\i (00:00:30) trapsize 2623
+\i (00:00:31) setwindow form.plc_manual
+\i (00:00:31) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\e (00:00:31) Cannot load symbol 'SPIRAL_ELECTRODE_FULL'
+\i (00:00:31) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:04) FORM plc_manual tree 'MULTISEL NO' 'Components by refdes' 
+\i (00:01:05) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\w (00:01:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:05) Placing J15 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in -24.7497 -20.5424
+\i (00:01:07) trapsize 1311
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out -24.9858 -20.6211
+\i (00:01:08) trapsize 2623
+\i (00:01:08) prepopup -25.0907 -18.9424
+\i (00:01:10) pop mirror 
+\t (00:01:10) Placing J15 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:01:11) roam start
+\i (00:01:11) roam x 48
+\i (00:01:11) roam y -32
+\i (00:01:11) roam x 16
+\i (00:01:12) roam x 48
+\i (00:01:12) roam x 48
+\i (00:01:12) roam y -16
+\i (00:01:12) roam x 48
+\i (00:01:12) roam x 16
+\i (00:01:12) roam y -16
+\i (00:01:12) roam y -32
+\i (00:01:12) roam x -64
+\i (00:01:12) roam y -48
+\i (00:01:12) roam x -48
+\i (00:01:12) roam y -32
+\i (00:01:12) roam x -48
+\i (00:01:12) roam y -16
+\i (00:01:12) roam x -48
+\i (00:01:12) roam y -32
+\i (00:01:12) roam x -32
+\i (00:01:12) roam y -16
+\i (00:01:12) roam x -32
+\i (00:01:12) roam x -16
+\i (00:01:13) roam x -16
+\i (00:01:13) roam end
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in -25.9561 -12.8316
+\i (00:01:14) trapsize 1311
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in -25.9561 -12.8316
+\i (00:01:14) trapsize 656
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out -26.2708 -12.4775
+\i (00:01:23) trapsize 1311
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -26.2708 -12.4250
+\i (00:01:24) trapsize 2623
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -26.2709 -12.8447
+\i (00:01:25) trapsize 5245
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 35.9401 7.9273
+\i (00:01:27) trapsize 10491
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 63.1115 -4.2422
+\i (00:01:28) trapsize 5245
+\i (00:01:28) zoom in 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom in 63.0067 -4.2422
+\i (00:01:28) trapsize 2623
+\i (00:01:28) roam start
+\i (00:01:28) roam x -144
+\i (00:01:28) roam y 32
+\i (00:01:28) roam x -256
+\i (00:01:28) roam y 32
+\i (00:01:29) roam x -560
+\i (00:01:29) roam y 64
+\i (00:01:29) roam x -128
+\i (00:01:29) roam x -64
+\i (00:01:29) roam x -48
+\i (00:01:29) roam x -96
+\i (00:01:29) roam y -16
+\i (00:01:29) roam x -16
+\i (00:01:29) roam y -16
+\i (00:01:29) roam x -112
+\i (00:01:29) roam y -16
+\i (00:01:29) roam x -128
+\i (00:01:29) roam y -32
+\i (00:01:29) roam end
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in -30.9917 -12.4120
+\i (00:01:30) trapsize 1311
+\i (00:01:31) pick grid -34.4275 -12.5956
+\t (00:01:31) last pick:  -34.5440 -12.7000
+\t (00:01:31) Placing J16 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:01:32) prepopup -31.4638 -12.7529
+\i (00:01:32) done 
+\i (00:01:32) generaledit 
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in -34.2964 -15.3494
+\i (00:01:35) trapsize 656
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out -34.2963 -15.3362
+\i (00:01:36) trapsize 1311
+\i (00:01:37) prepopup -33.9030 -14.9166
+\i (00:01:38) pick grid -35.6340 -15.5199
+\t (00:01:38) last pick:  -35.5600 -15.4940
+\i (00:01:38) undo 
+\i (00:01:39) trapsize 2623
+\i (00:01:39) generaledit 
+\i (00:01:42) done 
+\i (00:01:42) place manual 
+\i (00:01:42) FORM plc_manual placement_list 
+\i (00:01:42) FORM plc_manual categories Components by refdes 
+\i (00:01:42) trapsize 2623
+\i (00:01:44) setwindow form.plc_manual
+\i (00:01:44) FORM plc_manual tree 'MULTISEL YES' J15 'Components by refdes' 
+\w (00:01:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:44) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:44) Placing J15 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:01:44) FORM plc_manual tree  J15 'Components by refdes' 
+\i (00:01:47) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:01:47) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) prepopup -26.6380 -13.3037
+\i (00:01:50) pop mirror 
+\t (00:01:50) Placing J15 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in -26.7430 -12.6218
+\i (00:01:50) trapsize 1311
+\i (00:01:50) zoom in 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom in -26.7429 -12.6218
+\i (00:01:50) trapsize 656
+\i (00:01:59) pick grid -26.2971 -12.8053
+\t (00:01:59) last pick:  -26.4160 -12.7000
+\t (00:01:59) Placing J16 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:02:00) prepopup -26.2577 -8.6745
+\i (00:02:01) pop mirror 
+\t (00:02:01) Placing J16 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:02:04) roam start
+\i (00:02:04) roam y -16
+\i (00:02:04) roam y -16
+\i (00:02:04) roam end
+\i (00:02:19) ipick 0 -6 
+\t (00:02:19) last pick:  -26.4160 -18.7000
+\t (00:02:19) Placing J17 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:02:21) prepopup -22.3630 -13.7235
+\i (00:02:22) oops 
+\t (00:02:22) last pick:  -26.4160 -12.7000
+\t (00:02:22) Placing J16 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:02:26) prepopup -20.3828 -12.2023
+\i (00:02:28) pop mirror 
+\t (00:02:28) Placing J16 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:02:29) ipick 0 6 
+\t (00:02:29) last pick:  -26.4160 -6.7000
+\t (00:02:29) Placing J17 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:02:31) prepopup -21.2614 -10.1828
+\i (00:02:33) pop mirror 
+\t (00:02:33) Placing J17 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:02:37) ipick 0 6 
+\t (00:02:37) last pick:  -26.4160 -0.7000
+\t (00:02:37) Placing J18 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:02:38) zoom out 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom out -22.4679 -11.7827
+\i (00:02:38) trapsize 1311
+\i (00:02:38) zoom out 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom out -22.1532 -11.1532
+\i (00:02:38) trapsize 2623
+\i (00:02:41) prepopup -23.4121 -8.0584
+\i (00:02:43) pop mirror 
+\t (00:02:43) Placing J18 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:02:45) ipick 0 6 
+\t (00:02:45) last pick:  -26.4160 5.3000
+\t (00:02:45) Placing J19 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:02:46) prepopup -19.7402 -16.1364
+\i (00:02:50) pop mirror 
+\t (00:02:50) Placing J19 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:03:03) ipick -6 -18 
+\t (00:03:03) last pick:  -32.4160 -12.7000
+\t (00:03:03) Placing J20 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:03:07) prepopup -24.1989 -19.8082
+\i (00:03:08) pop mirror 
+\t (00:03:08) Placing J20 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:03:09) ipick 0 6 
+\t (00:03:09) last pick:  -32.4160 -6.7000
+\t (00:03:09) Placing J21 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:03:10) prepopup -22.2581 -22.6408
+\i (00:03:12) pop mirror 
+\t (00:03:12) Placing J21 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:03:12) ipick 0 6 
+\t (00:03:12) last pick:  -32.4160 -0.7000
+\t (00:03:13) Placing J22 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Top.
+\i (00:03:13) prepopup -21.3139 -22.6408
+\i (00:03:14) pop mirror 
+\t (00:03:14) Placing J22 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL on Bottom.
+\i (00:03:15) ipick 0 6 
+\t (00:03:15) last pick:  -32.4160 5.3000
+\i (00:03:18) prepopup -58.6090 -18.2346
+\i (00:03:19) done 
+\i (00:03:19) generaledit 
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in -36.0536 -12.1499
+\i (00:03:20) trapsize 1311
+\i (00:03:21) zoom in 1 
+\i (00:03:21) setwindow pcb
+\i (00:03:21) zoom in -31.8834 -12.4646
+\i (00:03:21) trapsize 656
+\i (00:03:22) zoom out 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom out -30.4015 -13.2776
+\i (00:03:22) trapsize 1311
+\i (00:03:23) zoom in 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom in -29.1689 -14.5628
+\i (00:03:23) trapsize 656
+\i (00:03:23) zoom in 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom in -29.5885 -14.8382
+\i (00:03:23) trapsize 328
+\i (00:03:27) setwindow form.find
+\i (00:03:27) FORM find all_off  
+\i (00:03:28) FORM find clines YES 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) pick grid -31.6670 -15.2775
+\t (00:03:29) last pick:  -31.7500 -15.2400
+\i (00:03:30) prepopup -31.6670 -15.2775
+\i (00:03:31) pop dyn_option_select @:@Delete 
+\i (00:03:31) delete 
+\i (00:03:31) generaledit 
+\i (00:03:32) prepopup -32.5784 -15.1070
+\i (00:03:33) pick grid -30.5392 -15.2184
+\t (00:03:33) last pick:  -30.4800 -15.2400
+\i (00:03:38) prepopup -26.0413 -14.9103
+\i (00:03:39) pop dyn_option_select @:@Delete 
+\i (00:03:39) delete 
+\i (00:03:39) generaledit 
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out -28.6181 -14.0251
+\i (00:03:39) trapsize 656
+\i (00:03:40) roam start
+\i (00:03:40) roam y -16
+\i (00:03:40) roam x 48
+\i (00:03:40) roam y -64
+\i (00:03:40) roam x 16
+\i (00:03:40) roam y -16
+\i (00:03:40) roam x 16
+\i (00:03:40) roam y -32
+\i (00:03:40) roam x 32
+\i (00:03:40) roam y -48
+\i (00:03:40) roam x 32
+\i (00:03:40) roam y -32
+\i (00:03:40) roam x 16
+\i (00:03:40) roam y -48
+\i (00:03:40) roam y -32
+\i (00:03:40) roam y -64
+\i (00:03:40) roam x -16
+\i (00:03:40) roam y -48
+\i (00:03:40) roam y -32
+\i (00:03:40) roam end
+\i (00:03:42) prepopup -31.3067 -8.3207
+\i (00:03:43) pop dyn_option_select @:@Delete 
+\i (00:03:43) delete 
+\i (00:03:44) generaledit 
+\i (00:03:44) prepopup -24.8154 -8.4387
+\i (00:03:45) pop dyn_option_select @:@Delete 
+\i (00:03:46) delete 
+\i (00:03:46) generaledit 
+\i (00:03:46) roam start
+\i (00:03:46) roam y -16
+\i (00:03:46) roam x 48
+\i (00:03:46) roam y -144
+\i (00:03:46) roam x 16
+\i (00:03:46) roam y -80
+\i (00:03:46) roam x 16
+\i (00:03:46) roam y -32
+\i (00:03:46) roam x 16
+\i (00:03:46) roam y -32
+\i (00:03:46) roam y -16
+\i (00:03:46) roam x 16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam y -16
+\i (00:03:46) roam end
+\i (00:03:47) prepopup -24.7892 -2.4982
+\i (00:03:48) pop dyn_option_select @:@Delete 
+\i (00:03:48) delete 
+\i (00:03:48) generaledit 
+\i (00:03:48) prepopup -30.3756 -2.6031
+\i (00:03:49) pop dyn_option_select @:@Delete 
+\i (00:03:50) delete 
+\i (00:03:50) generaledit 
+\i (00:03:50) roam start
+\i (00:03:50) roam y -144
+\i (00:03:50) roam y -80
+\i (00:03:50) roam x 16
+\i (00:03:50) roam y -32
+\i (00:03:50) roam y -16
+\i (00:03:50) roam x 16
+\i (00:03:50) roam y -32
+\i (00:03:50) roam x 16
+\i (00:03:50) roam y -64
+\i (00:03:50) roam x 16
+\i (00:03:50) roam y -32
+\i (00:03:50) roam x 16
+\i (00:03:50) roam y -48
+\i (00:03:51) roam y -32
+\i (00:03:51) roam end
+\i (00:03:51) prepopup -25.1302 3.8487
+\i (00:03:52) pop dyn_option_select @:@Delete 
+\i (00:03:52) delete 
+\i (00:03:52) generaledit 
+\i (00:03:53) prepopup -30.3756 3.4422
+\i (00:03:54) pop dyn_option_select @:@Delete 
+\i (00:03:54) delete 
+\i (00:03:54) generaledit 
+\i (00:03:54) roam start
+\i (00:03:54) roam x 16
+\i (00:03:54) roam y -176
+\i (00:03:54) roam x 16
+\i (00:03:54) roam y -192
+\i (00:03:54) roam x 32
+\i (00:03:54) roam y -128
+\i (00:03:54) roam y -64
+\i (00:03:54) roam x 16
+\i (00:03:54) roam y -64
+\i (00:03:54) roam y -32
+\i (00:03:55) roam y -16
+\i (00:03:55) roam end
+\i (00:03:55) zoom out 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom out -28.0545 8.9761
+\i (00:03:55) trapsize 1311
+\i (00:03:56) roam start
+\i (00:03:56) roam y 16
+\i (00:03:56) roam x -48
+\i (00:03:56) roam y 320
+\i (00:03:56) roam y 192
+\i (00:03:56) roam x -16
+\i (00:03:56) roam y 112
+\i (00:03:56) roam y 48
+\i (00:03:56) roam y 32
+\i (00:03:56) roam y 16
+\i (00:03:56) roam y 64
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y 48
+\i (00:03:56) roam y 48
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y 32
+\i (00:03:56) roam y 48
+\i (00:03:56) roam y 32
+\i (00:03:56) roam end
+\i (00:03:58) zoom in 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom in -28.8675 -15.1660
+\i (00:03:58) trapsize 656
+\i (00:03:59) add connect 
+\t (00:03:59) Pick first element.
+\i (00:04:01) pick grid -26.3103 -14.3136
+\t (00:04:01) last pick:  -26.4160 -14.2240
+\t (00:04:01) last pick:  -26.4160 -12.7000
+\t (00:04:01) Target Symbol Pin is defined on BOTTOM.
+\t (00:04:01) last pick:  -26.4160 -12.7000
+\i (00:04:03) zoom in 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom in -25.9038 -14.8906
+\i (00:04:03) trapsize 328
+\i (00:04:04) zoom in 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom in -25.9038 -14.8447
+\i (00:04:04) trapsize 164
+\i (00:04:05) zoom out 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom out -26.0120 -14.8152
+\i (00:04:05) trapsize 328
+\i (00:04:05) roam start
+\i (00:04:05) roam y -64
+\i (00:04:06) roam x -16
+\i (00:04:06) roam y -32
+\i (00:04:06) roam x -16
+\i (00:04:06) roam y -32
+\i (00:04:06) roam end
+\i (00:04:09) prepopup -25.6572 -14.5646
+\i (00:04:10) cancel 
+\i (00:04:10) generaledit 
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out -28.3782 -13.9811
+\i (00:04:12) trapsize 656
+\i (00:04:19) opencd 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_l.dra' 
+\e (00:04:19) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd?
+\i (00:04:20) fillin no 
+\t (00:04:20) Opening existing design...
+\i (00:04:20) trapsize 171
+\i (00:04:20) trapsize 175
+\i (00:04:21) trapsize 175
+\t (00:04:21)     Journal end - Sat Apr 07 20:15:25 2018

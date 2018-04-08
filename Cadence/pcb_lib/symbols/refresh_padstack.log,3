@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : spiral_electrode_full.dra                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Apr 07 20:16:06 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Apr 07 20:16:06 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_full.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SPIRAL_ELECTRODE_R'  pad stack refresh starting.
+
+     'SPIRAL_ELECTRODE_R'  pad stack refreshed successfully.
+     
+'SPIRAL_ELECTRODE_L'  pad stack refresh starting.
+
+     'SPIRAL_ELECTRODE_L'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

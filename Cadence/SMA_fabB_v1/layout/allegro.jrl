@@ -1,185 +1,1666 @@
-\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed Apr 04 13:44:33 2018
-\t (00:00:01)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=7860 CPUs=4
-\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\SMA_fabB_v1_040418.brd
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040418.brd
-\i (00:00:04) trapsize 9766
-\i (00:00:04) trapsize 9975
-\i (00:00:04) trapsize 9975
-\i (00:00:05) generaledit 
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in -54.2708 -25.6663
-\i (00:00:06) trapsize 4987
-\i (00:00:07) roam start
-\i (00:00:07) roam x 144
-\i (00:00:07) roam y -32
-\i (00:00:07) roam x 96
-\i (00:00:07) roam y -16
-\i (00:00:07) roam x 16
-\i (00:00:07) roam x 16
-\i (00:00:07) roam y -16
-\i (00:00:07) roam y -32
-\i (00:00:07) roam y -32
-\i (00:00:08) roam end
-\i (00:00:11) artwork 
-\i (00:00:12) setwindow form.film_control
-\i (00:00:12) FORM film_control filmtree 'MULTISEL YES' VDD 
-\i (00:00:12) FORM film_control filmtree  VDD 
-\i (00:00:13) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:00:13) FORM film_control filmtree  TOP 
-\i (00:00:13) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:00:13) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:00:14) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOT 
-\i (00:00:14) FORM film_control filmtree  SILKSCREEN_BOT 
-\i (00:00:14) FORM film_control filmtree 'MULTISEL YES' GND 
-\i (00:00:14) FORM film_control filmtree  GND 
-\i (00:00:14) FORM film_control filmtree 'MULTISEL YES' FAB_NOTES 
-\i (00:00:15) FORM film_control filmtree  FAB_NOTES 
-\i (00:00:15) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:00:15) FORM film_control filmtree  BOTTOM 
-\i (00:00:15) FORM film_control filmtree 'MULTISEL YES' ASSM_TOP 
-\i (00:00:15) FORM film_control filmtree  ASSM_TOP 
-\i (00:00:16) FORM film_control filmtree 'MULTISEL YES' ASSM_BOT 
-\i (00:00:16) FORM film_control filmtree  ASSM_BOT 
-\i (00:00:18) FORM film_control general_parameters  
-\i (00:00:31) FORM film_control filename_suffix _fabB_040418 
-\i (00:00:31) FORM film_control film_control  
-\i (00:00:32) FORM film_control create  
-\i (00:00:33) fillin yes 
-\t (00:00:33) Checking db records
-\t (00:00:33)     checking for orphans...
-\e (00:00:33) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\e (00:00:33) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\t (00:00:33)     Checked 100 percent
-\w (00:00:33) Run batch DRC to correctly regenerate DRC errs.
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Apr 07 20:19:33 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=3208 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\SMA_fabB_v1_040718.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:03) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd
+\i (00:00:03) trapsize 10272
+\i (00:00:03) trapsize 10491
+\i (00:00:03) trapsize 10491
+\i (00:00:04) generaledit 
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -55.5143 -6.0650
+\i (00:00:09) trapsize 5245
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -52.8916 -5.1208
+\i (00:00:09) trapsize 2623
+\i (00:00:10) roam start
+\i (00:00:10) roam x 32
+\i (00:00:10) roam y -64
+\i (00:00:10) roam x 32
+\i (00:00:10) roam y -64
+\i (00:00:10) roam x 16
+\i (00:00:10) roam y -48
+\i (00:00:10) roam end
+\i (00:00:12) netin 
+\i (00:00:13) setwindow form.niparams
+\i (00:00:13) FORM niparams import  
+\t (00:00:13) Starting Cadence Logic Import...
+\t (00:00:14) Opening existing design...
+\i (00:00:14) setwindow pcb
+\i (00:00:14) trapsize 2623
+\i (00:00:15) generaledit 
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -29.3657 -12.6218
+\i (00:00:16) trapsize 1311
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -29.7066 -12.4644
+\i (00:00:17) trapsize 656
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -30.4410 -12.0710
+\i (00:00:19) trapsize 328
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out -30.4475 -12.0645
+\i (00:00:20) trapsize 656
+\i (00:00:22) prepopup -29.3591 -11.9857
+\i (00:00:23) pick grid -30.5786 -11.6972
+\t (00:00:23) last pick:  -30.4800 -11.6840
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out -30.1983 -11.6185
+\i (00:00:24) trapsize 1311
+\i (00:00:25) setwindow form.find
+\i (00:00:25) FORM find all_off  
+\i (00:00:27) FORM find symbols YES 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out -24.7431 -9.7564
+\i (00:00:27) trapsize 2623
+\i (00:00:28) drag_start grid -33.6604 7.5536
+\i (00:00:29) drag_stop -24.4284 -18.5687
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -26.5266 -13.2708
+\i (00:00:29) trapsize 1311
+\i (00:00:30) prepopup -25.5562 -12.8774
+\i (00:00:31) pop dyn_option_select @:@Move 
+\i (00:00:31) move 
+\t (00:00:31) last pick:  -25.6540 -12.9540
+\t (00:00:31) Moving J19 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Moving J20 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Moving J21 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Moving J22 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Moving J15 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Moving J16 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Moving J17 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Moving J18 / COMB_ELECTRODE_1_SPIRAL_ELECTRO / SPIRAL_ELECTRODE_FULL.
+\t (00:00:31) Pick new location for the element(s).
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -25.9496 -11.9857
+\i (00:00:33) trapsize 656
+\i (00:00:39) roam start
+\i (00:00:39) roam x -16
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x -16
+\i (00:00:39) roam x -48
+\i (00:00:39) roam x -176
+\i (00:00:39) roam y -32
+\i (00:00:40) roam x -96
+\i (00:00:40) roam y -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam end
+\i (00:00:51) pick grid -25.5367 -12.4646
+\t (00:00:51) last pick:  -25.6540 -12.4460
+\i (00:00:52) generaledit 
+\i (00:00:52) prepopup -29.4052 -11.5336
+\i (00:00:53) pick grid -30.3232 -11.7696
+\t (00:00:53) last pick:  -30.2260 -11.6840
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out -30.1920 -11.7172
+\i (00:00:54) trapsize 1311
+\i (00:00:56) roam start
+\i (00:00:56) roam x 32
+\i (00:00:56) roam y -48
+\i (00:00:56) roam x 32
+\i (00:00:56) roam y -80
+\i (00:00:56) roam x 32
+\i (00:00:56) roam y -64
+\i (00:00:56) roam x 32
+\i (00:00:56) roam y -32
+\i (00:00:56) roam x 32
+\i (00:00:56) roam y -32
+\i (00:00:56) roam x 16
+\i (00:00:56) roam y -32
+\i (00:00:57) roam y -16
+\i (00:00:57) roam y -32
+\i (00:00:57) roam end
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in -29.2872 1.2522
+\i (00:00:58) trapsize 656
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -30.6772 2.8390
+\i (00:00:59) trapsize 328
+\i (00:00:59) roam start
+\i (00:00:59) roam y -80
+\i (00:01:00) roam x -32
+\i (00:01:00) roam y -176
+\i (00:01:00) roam x -32
+\i (00:01:00) roam y -112
+\i (00:01:00) roam y -32
+\i (00:01:00) roam x -16
+\i (00:01:00) roam y -16
+\i (00:01:00) roam end
+\i (00:01:01) prepopup -30.1797 4.5102
+\i (00:01:02) pick grid -30.0355 5.4413
+\t (00:01:02) last pick:  -29.9720 5.3340
+\i (00:01:03) add connect 
+\t (00:01:04) Pick first element.
+\i (00:01:05) pick grid -32.0681 3.7168
+\t (00:01:05) last pick:  -32.0040 3.8100
+\t (00:01:05) last pick:  -32.1620 3.7760
+\t (00:01:05) Target Symbol Pin is defined on BOTTOM.
+\t (00:01:05) last pick:  -32.1620 3.7760
+\i (00:01:06) mouse_pos -32.3434 3.6841
+\i (00:01:08) pick grid -32.3631 3.6775
+\t (00:01:08) last pick:  -32.2580 3.5560
+\t (00:01:08) DRC error(s) created.
+\t (00:01:08) Pick first element.
+\i (00:01:09) pick grid -32.6713 3.2907
+\t (00:01:09) last pick:  -32.7660 3.3020
+\t (00:01:09) Pick first element.
+\t (00:01:09) last pick:  -32.6700 3.2714
+\t (00:01:09) Target Symbol Pin is defined on BOTTOM.
+\t (00:01:09) last pick:  -32.6700 3.2714
+\i (00:01:10) mouse_pos -32.6647 3.6841
+\i (00:01:11) pick grid -32.6647 3.6841
+\t (00:01:11) last pick:  -32.7660 3.8100
+\t (00:01:11) DRC error(s) created.
+\t (00:01:11) Pick first element.
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out -33.3663 3.0481
+\i (00:01:11) trapsize 656
+\i (00:01:14) pick grid -26.6783 3.4939
+\t (00:01:14) last pick:  -26.6700 3.5560
+\t (00:01:14) Pick first element.
+\t (00:01:14) last pick:  -26.6412 3.3158
+\t (00:01:14) Target Symbol Pin is defined on BOTTOM.
+\t (00:01:14) last pick:  -26.6412 3.3158
+\i (00:01:14) mouse_pos -26.7046 3.7037
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -26.7046 3.7299
+\i (00:01:15) trapsize 328
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -26.6980 3.7692
+\i (00:01:15) trapsize 164
+\i (00:01:16) mouse_pos -26.8029 3.5758
+\i (00:01:17) prepopup -27.0095 3.5594
+\i (00:01:18) oops 
+\t (00:01:18) last pick:  -26.6412 3.3158
+\t (00:01:18) Pick first element.
+\i (00:01:21) pick grid -26.8095 3.7823
+\t (00:01:21) last pick:  -26.9240 3.8100
+\t (00:01:21) last pick:  -26.6700 3.7760
+\t (00:01:21) Target Symbol Pin is defined on BOTTOM.
+\t (00:01:21) last pick:  -26.6700 3.7760
+\i (00:01:21) mouse_pos -26.7964 3.6774
+\i (00:01:21) mouse_pos -26.7931 3.5037
+\i (00:01:21) mouse_pos -26.7243 3.6938
+\i (00:01:22) mouse_pos -26.5734 3.6741
+\i (00:01:22) mouse_pos -26.7898 3.4184
+\i (00:01:22) mouse_pos -26.8193 3.3889
+\i (00:01:22) mouse_pos -26.7964 3.5201
+\i (00:01:23) mouse_pos -26.6915 3.6840
+\i (00:01:23) pick grid -26.6915 3.6840
+\t (00:01:23) last pick:  -26.6700 3.8100
+\t (00:01:23) DRC error(s) created.
+\t (00:01:23) Pick first element.
+\i (00:01:25) pick grid -26.1473 3.7135
+\t (00:01:25) last pick:  -26.1620 3.8100
+\t (00:01:25) Pick first element.
+\t (00:01:25) last pick:  -26.1620 3.7760
+\t (00:01:25) Target Symbol Pin is defined on BOTTOM.
+\t (00:01:25) last pick:  -26.1620 3.7760
+\i (00:01:25) mouse_pos -26.2915 3.6643
+\i (00:01:26) mouse_pos -26.2030 3.6840
+\i (00:01:27) mouse_pos -26.2653 3.6807
+\i (00:01:27) pick grid -26.2948 3.6676
+\t (00:01:27) last pick:  -26.4160 3.5560
+\t (00:01:27) DRC error(s) created.
+\t (00:01:28) Pick first element.
+\i (00:01:29) pick grid -26.8423 3.7627
+\t (00:01:29) last pick:  -26.9240 3.8100
+\t (00:01:29) Pick first element.
+\t (00:01:29) last pick:  -26.7874 3.8314
+\t (00:01:29) last pick:  -26.7874 3.8314
+\i (00:01:29) mouse_pos -26.7964 3.5069
+\i (00:01:29) mouse_pos -26.7898 3.4250
+\i (00:01:30) mouse_pos -26.7275 3.4512
+\i (00:01:30) mouse_pos -26.8357 3.6807
+\i (00:01:30) mouse_pos -27.0685 3.6741
+\i (00:01:30) prepopup -27.2881 3.5758
+\i (00:01:32) oops 
+\t (00:01:32) last pick:  -26.7874 3.8314
+\t (00:01:32) Pick first element.
+\i (00:01:32) prepopup -27.8225 3.7331
+\i (00:01:33) done 
+\i (00:01:33) generaledit 
+\i (00:01:35) pick grid -26.8259 3.8446
+\t (00:01:35) last pick:  -26.9240 3.8100
+\i (00:01:37) generaledit 
+\i (00:01:39) setwindow form.find
+\i (00:01:39) FORM find all_on  
+\i (00:01:40) setwindow pcb
+\i (00:01:40) prepopup -26.9046 3.7889
+\i (00:01:41) pop dyn_option_select @:@Slide 
+\i (00:01:41) slide 
+\t (00:01:42) Waiting for the destination pick.
+\t (00:01:42) Start slide location has pre-existing DRC errors.
+\i (00:01:43) pick grid -26.5374 3.6545
+\t (00:01:43) last pick:  -26.4160 3.5560
+\t (00:01:43) DRC errors detected.
+\i (00:01:44) generaledit 
+\i (00:01:45) drag_start grid -26.5407 3.7725
+\i (00:01:45) slide 
+\t (00:01:45) Waiting for the destination pick.
+\t (00:01:45) Start slide location has pre-existing DRC errors.
+\i (00:01:47) drag_stop grid -26.6947 3.2709
+\t (00:01:47) DRC errors detected.
+\i (00:01:47) generaledit 
+\i (00:01:49) drag_start grid -26.0981 3.6905
+\i (00:01:49) slide 
+\t (00:01:49) Waiting for the destination pick.
+\t (00:01:49) Start slide location has pre-existing DRC errors.
+\i (00:01:51) drag_stop grid -26.0915 3.5004
+\t (00:01:51) DRC errors detected.
+\i (00:01:52) generaledit 
+\i (00:01:53) drag_start grid -26.4358 3.6840
+\i (00:01:53) slide 
+\t (00:01:54) Waiting for the destination pick.
+\t (00:01:54) Start slide location has pre-existing DRC errors.
+\i (00:01:55) drag_stop grid -26.3538 3.6381
+\t (00:01:55) DRC errors detected.
+\i (00:01:56) generaledit 
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out -27.5078 3.4414
+\i (00:01:56) trapsize 328
+\i (00:01:57) roam start
+\i (00:01:57) roam x -96
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x -256
+\i (00:01:57) roam y 48
+\i (00:01:57) roam x -128
+\i (00:01:57) roam y 16
+\i (00:01:57) roam x -16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam end
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in -31.6828 3.3876
+\i (00:01:58) trapsize 164
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in -31.6827 3.4041
+\i (00:01:58) trapsize 82
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out -31.6007 3.4024
+\i (00:01:58) trapsize 164
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out -31.5942 3.4156
+\i (00:01:59) trapsize 328
+\i (00:01:59) drag_start grid -31.5745 3.7697
+\i (00:01:59) slide 
+\t (00:02:00) Waiting for the destination pick.
+\t (00:02:00) Start slide location has pre-existing DRC errors.
+\i (00:02:03) drag_stop grid -31.6204 3.2713
+\t (00:02:03) DRC errors detected.
+\i (00:02:03) generaledit 
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out -29.7779 3.0353
+\i (00:02:03) trapsize 656
+\i (00:02:04) roam start
+\i (00:02:04) roam y 64
+\i (00:02:04) roam y 224
+\i (00:02:04) roam x -16
+\i (00:02:04) roam y 80
+\i (00:02:04) roam y 48
+\i (00:02:04) roam y 32
+\i (00:02:04) roam end
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -33.2498 -2.2512
+\i (00:02:05) trapsize 328
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -32.2401 -2.3954
+\i (00:02:05) trapsize 164
+\i (00:02:07) drag_start grid -32.1253 -2.2806
+\i (00:02:07) slide 
+\t (00:02:07) Waiting for the destination pick.
+\t (00:02:07) Start slide location has pre-existing DRC errors.
+\i (00:02:09) drag_stop grid -32.0138 -2.5396
+\t (00:02:09) No DRC errors detected.
+\i (00:02:09) generaledit 
+\i (00:02:11) add connect 
+\t (00:02:11) Pick first element.
+\i (00:02:12) pick grid -32.0204 -2.5330
+\t (00:02:12) last pick:  -32.0040 -2.5400
+\t (00:02:12) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:12) last pick:  -32.0040 -2.5400
+\i (00:02:12) mouse_pos -32.2925 -2.3724
+\i (00:02:13) pick grid -32.2925 -2.3724
+\t (00:02:13) last pick:  -32.2580 -2.2860
+\t (00:02:13) DRC error(s) created.
+\t (00:02:13) Pick first element.
+\i (00:02:14) pick grid -32.7318 -2.7363
+\t (00:02:14) last pick:  -32.7660 -2.7940
+\t (00:02:14) Pick first element.
+\t (00:02:14) last pick:  -32.6700 -2.7286
+\t (00:02:14) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:14) last pick:  -32.6700 -2.7286
+\i (00:02:14) mouse_pos -32.6826 -2.4117
+\i (00:02:15) pick grid -32.6826 -2.4117
+\t (00:02:15) last pick:  -32.7660 -2.2860
+\t (00:02:15) DRC error(s) created.
+\t (00:02:15) Pick first element.
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -31.6237 -2.7232
+\i (00:02:16) trapsize 328
+\i (00:02:16) roam start
+\i (00:02:16) roam x 96
+\i (00:02:16) roam x 208
+\i (00:02:16) roam x 160
+\i (00:02:16) roam x 112
+\i (00:02:16) roam x 144
+\i (00:02:16) roam y 32
+\i (00:02:16) roam x 64
+\i (00:02:16) roam end
+\i (00:02:17) pick grid -26.0243 -2.3036
+\t (00:02:17) last pick:  -25.9080 -2.2860
+\t (00:02:17) Pick first element.
+\t (00:02:17) last pick:  -26.1620 -2.2240
+\t (00:02:17) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:17) last pick:  -26.1620 -2.2240
+\i (00:02:18) mouse_pos -26.2997 -2.4085
+\i (00:02:19) pick grid -26.2997 -2.4085
+\t (00:02:19) last pick:  -26.4160 -2.2860
+\t (00:02:19) DRC error(s) created.
+\t (00:02:19) Pick first element.
+\i (00:02:20) pick grid -26.6341 -2.7495
+\t (00:02:20) last pick:  -26.6700 -2.7940
+\t (00:02:20) Pick first element.
+\t (00:02:20) last pick:  -26.5968 -2.7286
+\t (00:02:20) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:20) last pick:  -26.5968 -2.7286
+\i (00:02:20) mouse_pos -26.6997 -2.4085
+\i (00:02:21) pick grid -26.6997 -2.4085
+\t (00:02:21) last pick:  -26.6700 -2.2860
+\t (00:02:21) DRC error(s) created.
+\t (00:02:21) Pick first element.
+\i (00:02:21) zoom out 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom out -27.9913 -2.8872
+\i (00:02:21) trapsize 656
+\i (00:02:22) roam start
+\i (00:02:22) roam x -48
+\i (00:02:22) roam y 112
+\i (00:02:22) roam x -80
+\i (00:02:22) roam y 128
+\i (00:02:22) roam x -48
+\i (00:02:22) roam y 48
+\i (00:02:22) roam x -48
+\i (00:02:22) roam y 48
+\i (00:02:22) roam x -16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x -16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam y 48
+\i (00:02:22) roam y 64
+\i (00:02:22) roam y 32
+\i (00:02:22) roam x 16
+\i (00:02:22) roam y 32
+\i (00:02:23) roam end
+\i (00:02:23) zoom in 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom in -32.6466 -8.9652
+\i (00:02:23) trapsize 328
+\i (00:02:23) zoom in 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom in -32.6073 -8.8996
+\i (00:02:23) trapsize 164
+\i (00:02:24) pick grid -32.1778 -8.2701
+\t (00:02:24) last pick:  -32.2580 -8.3820
+\t (00:02:24) Pick first element.
+\t (00:02:24) last pick:  -32.1620 -8.2240
+\t (00:02:24) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:24) last pick:  -32.1620 -8.2240
+\i (00:02:25) pick grid -32.1778 -8.2701
+\t (00:02:25) last pick:  -32.2580 -8.3820
+\t (00:02:25) No DRC errors detected.
+\i (00:02:25) mouse_pos -32.3811 -8.3127
+\i (00:02:25) mouse_pos -32.5450 -8.5160
+\i (00:02:27) mouse_pos -32.3811 -8.3357
+\i (00:02:27) pick grid -32.3811 -8.3357
+\t (00:02:27) last pick:  -32.2580 -8.3820
+\w (00:02:27) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:02:27) mouse_pos -32.3549 -8.5094
+\i (00:02:28) mouse_pos -32.3680 -8.2537
+\i (00:02:29) mouse_pos -32.1090 -8.2537
+\i (00:02:30) mouse_pos -31.8762 -8.4996
+\i (00:02:31) pick grid -31.6205 -8.6832
+\t (00:02:31) last pick:  -31.4960 -8.6360
+\t (00:02:31) No DRC errors detected.
+\t (00:02:31) last pick:  -31.4651 -8.7234
+\i (00:02:32) mouse_pos -32.1319 -8.4209
+\i (00:02:32) pick grid -32.1319 -8.4209
+\t (00:02:32) last pick:  -32.2580 -8.3820
+\t (00:02:32) DRC error(s) created.
+\t (00:02:32) Pick first element.
+\i (00:02:33) pick grid -32.6171 -8.6635
+\t (00:02:33) last pick:  -32.5120 -8.6360
+\t (00:02:33) Pick first element.
+\t (00:02:33) last pick:  -32.6607 -8.7037
+\t (00:02:33) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:33) last pick:  -32.6607 -8.7037
+\i (00:02:33) mouse_pos -32.6925 -8.3947
+\i (00:02:34) pick grid -32.6925 -8.3947
+\t (00:02:34) last pick:  -32.7660 -8.3820
+\t (00:02:34) DRC error(s) created.
+\t (00:02:34) Pick first element.
+\i (00:02:34) roam start
+\i (00:02:34) roam x 160
+\i (00:02:34) roam y 16
+\i (00:02:34) roam x 304
+\i (00:02:34) roam y 80
+\i (00:02:34) roam x 544
+\i (00:02:34) roam y 96
+\i (00:02:34) roam x 32
+\i (00:02:34) roam y 16
+\i (00:02:34) roam x 176
+\i (00:02:34) roam x 96
+\i (00:02:34) roam x 144
+\i (00:02:34) roam x 80
+\i (00:02:35) roam x 48
+\i (00:02:35) roam x 32
+\i (00:02:35) roam y -16
+\i (00:02:35) roam x 64
+\i (00:02:35) roam y -128
+\i (00:02:35) roam x 80
+\i (00:02:35) roam y -80
+\i (00:02:35) roam x 32
+\i (00:02:35) roam y -32
+\i (00:02:35) roam y -16
+\i (00:02:35) roam end
+\i (00:02:36) pick grid -26.1653 -8.2637
+\t (00:02:36) last pick:  -26.1620 -8.3820
+\t (00:02:36) Pick first element.
+\t (00:02:36) last pick:  -26.1620 -8.2240
+\t (00:02:36) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:36) last pick:  -26.1620 -8.2240
+\i (00:02:36) mouse_pos -26.3456 -8.3882
+\i (00:02:36) mouse_pos -26.0210 -8.3915
+\i (00:02:37) mouse_pos -25.0178 -8.6374
+\i (00:02:39) pick grid -25.0178 -8.6374
+\t (00:02:39) last pick:  -24.8920 -8.6360
+\t (00:02:39) No DRC errors detected.
+\t (00:02:39) last pick:  -24.8168 -8.5608
+\i (00:02:40) mouse_pos -26.2898 -8.3653
+\i (00:02:40) pick grid -26.2898 -8.3653
+\t (00:02:40) last pick:  -26.4160 -8.3820
+\t (00:02:40) DRC error(s) created.
+\t (00:02:40) Pick first element.
+\i (00:02:41) pick grid -26.6242 -8.6997
+\t (00:02:41) last pick:  -26.6700 -8.6360
+\t (00:02:41) Pick first element.
+\t (00:02:41) last pick:  -26.5968 -8.7286
+\t (00:02:41) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:41) last pick:  -26.5968 -8.7286
+\i (00:02:41) mouse_pos -26.7324 -8.4341
+\i (00:02:42) pick grid -26.7324 -8.4341
+\t (00:02:42) last pick:  -26.6700 -8.3820
+\t (00:02:42) DRC error(s) created.
+\t (00:02:42) Pick first element.
+\i (00:02:42) roam start
+\i (00:02:42) roam y 32
+\i (00:02:42) roam x 48
+\i (00:02:42) roam y 256
+\i (00:02:43) roam x 16
+\i (00:02:43) roam y 144
+\i (00:02:43) roam y 80
+\i (00:02:43) roam y 80
+\i (00:02:43) roam y 80
+\i (00:02:43) roam y 48
+\i (00:02:43) roam y 64
+\i (00:02:43) roam x -32
+\i (00:02:43) roam y 144
+\i (00:02:43) roam y 112
+\i (00:02:43) roam y 112
+\i (00:02:43) roam y 144
+\i (00:02:43) roam y 160
+\i (00:02:43) roam x 32
+\i (00:02:43) roam y 160
+\i (00:02:43) roam x 32
+\i (00:02:43) roam y 64
+\i (00:02:43) roam x 16
+\i (00:02:43) roam y 16
+\i (00:02:43) roam x 96
+\i (00:02:43) roam y 80
+\i (00:02:43) roam x 112
+\i (00:02:43) roam y 48
+\i (00:02:43) roam y 16
+\i (00:02:43) roam end
+\i (00:02:44) pick grid -26.0899 -14.3385
+\t (00:02:44) last pick:  -26.1620 -14.2240
+\t (00:02:44) Pick first element.
+\t (00:02:44) last pick:  -26.1606 -14.2254
+\t (00:02:44) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:44) last pick:  -26.1606 -14.2254
+\i (00:02:45) mouse_pos -26.2899 -14.4040
+\i (00:02:45) mouse_pos -26.3424 -14.3483
+\i (00:02:46) mouse_pos -26.0276 -14.5090
+\i (00:02:46) mouse_pos -26.0375 -14.4270
+\i (00:02:47) mouse_pos -26.0866 -14.3778
+\i (00:02:47) mouse_pos -26.0735 -14.6237
+\i (00:02:47) mouse_pos -26.0342 -14.8007
+\i (00:02:48) mouse_pos -25.9260 -14.6040
+\i (00:02:48) prepopup -25.7391 -14.5057
+\i (00:02:49) oops 
+\t (00:02:49) last pick:  -26.1606 -14.2254
+\t (00:02:49) Pick first element.
+\i (00:02:50) pick grid -26.1194 -14.2106
+\t (00:02:50) last pick:  -26.1620 -14.2240
+\t (00:02:50) last pick:  -26.1606 -14.2254
+\t (00:02:50) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:50) last pick:  -26.1606 -14.2254
+\i (00:02:51) mouse_pos -26.2965 -14.3221
+\i (00:02:51) mouse_pos -26.1620 -14.3582
+\i (00:02:52) prepopup -25.4047 -14.4172
+\i (00:02:53) oops 
+\t (00:02:53) last pick:  -26.1606 -14.2254
+\t (00:02:54) Pick first element.
+\i (00:02:55) pick grid -26.0440 -14.8696
+\t (00:02:55) last pick:  -26.1620 -14.9860
+\t (00:02:55) last pick:  -26.1606 -14.7334
+\t (00:02:55) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:55) last pick:  -26.1606 -14.7334
+\i (00:02:55) mouse_pos -26.2932 -14.5778
+\i (00:02:56) mouse_pos -26.3719 -14.3483
+\i (00:02:57) pick grid -26.3719 -14.3483
+\t (00:02:57) last pick:  -26.4160 -14.2240
+\t (00:02:57) DRC error(s) created.
+\t (00:02:57) Pick first element.
+\i (00:02:58) zoom out 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom out -25.8506 -14.8270
+\i (00:02:58) trapsize 328
+\i (00:02:59) pick grid -26.6177 -14.7613
+\t (00:02:59) last pick:  -26.6700 -14.7320
+\t (00:02:59) Pick first element.
+\t (00:02:59) last pick:  -26.6700 -14.7286
+\t (00:02:59) Target Symbol Pin is defined on BOTTOM.
+\t (00:02:59) last pick:  -26.6700 -14.7286
+\i (00:02:59) mouse_pos -26.7554 -14.3745
+\i (00:03:00) pick grid -26.7554 -14.3483
+\t (00:03:00) last pick:  -26.6700 -14.2240
+\t (00:03:00) DRC error(s) created.
+\t (00:03:00) Pick first element.
+\i (00:03:00) roam start
+\i (00:03:00) roam x -48
+\i (00:03:00) roam y 16
+\i (00:03:00) roam x -112
+\i (00:03:00) roam y 48
+\i (00:03:00) roam x -80
+\i (00:03:00) roam y 16
+\i (00:03:00) roam x -64
+\i (00:03:00) roam x -64
+\i (00:03:00) roam x -112
+\i (00:03:01) roam x -112
+\i (00:03:01) roam y -32
+\i (00:03:01) roam x -112
+\i (00:03:01) roam y -32
+\i (00:03:01) roam x -144
+\i (00:03:01) roam y -32
+\i (00:03:01) roam x -48
+\i (00:03:01) roam x -48
+\i (00:03:01) roam x -32
+\i (00:03:01) roam x -16
+\i (00:03:01) roam end
+\i (00:03:02) pick grid -32.0499 -14.7745
+\t (00:03:02) last pick:  -32.0040 -14.7320
+\t (00:03:03) Pick first element.
+\t (00:03:03) last pick:  -32.1606 -14.7171
+\t (00:03:03) Target Symbol Pin is defined on BOTTOM.
+\t (00:03:03) last pick:  -32.1606 -14.7171
+\i (00:03:03) mouse_pos -32.2598 -14.5253
+\i (00:03:03) mouse_pos -32.3974 -14.3483
+\i (00:03:04) pick grid -32.4237 -14.3548
+\t (00:03:04) last pick:  -32.5120 -14.4780
+\t (00:03:04) DRC error(s) created.
+\t (00:03:04) Pick first element.
+\i (00:03:05) pick grid -32.6073 -14.7614
+\t (00:03:05) last pick:  -32.5120 -14.7320
+\t (00:03:05) Pick first element.
+\t (00:03:05) last pick:  -32.6412 -14.7286
+\t (00:03:05) Target Symbol Pin is defined on BOTTOM.
+\t (00:03:05) last pick:  -32.6412 -14.7286
+\i (00:03:05) mouse_pos -32.6597 -14.4138
+\i (00:03:05) pick grid -32.6794 -14.3483
+\t (00:03:05) last pick:  -32.7660 -14.2240
+\t (00:03:05) DRC error(s) created.
+\t (00:03:05) Pick first element.
+\i (00:03:06) prepopup -34.1415 -15.0367
+\i (00:03:06) done 
+\i (00:03:07) generaledit 
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out -33.2892 -14.7810
+\i (00:03:07) trapsize 656
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in -32.1351 -14.5450
+\i (00:03:09) trapsize 328
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in -32.1351 -14.5450
+\i (00:03:09) trapsize 164
+\i (00:03:10) zoom in 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom in -31.8498 -14.5482
+\i (00:03:10) trapsize 82
+\i (00:03:10) roam start
+\i (00:03:10) roam x -192
+\i (00:03:10) roam y -16
+\i (00:03:11) roam x -160
+\i (00:03:11) roam y -48
+\i (00:03:11) roam x -64
+\i (00:03:11) roam end
+\i (00:03:12) prepopup -32.0891 -14.3049
+\i (00:03:13) pop dyn_option_select @:@Delete 
+\i (00:03:13) delete 
+\i (00:03:13) generaledit 
+\i (00:03:14) prepopup -32.0989 -14.2672
+\i (00:03:15) pop dyn_option_select @:@Delete 
+\i (00:03:15) delete 
+\i (00:03:15) generaledit 
+\i (00:03:18) drag_start grid -32.0908 -14.5820
+\i (00:03:18) slide 
+\t (00:03:19) Waiting for the destination pick.
+\t (00:03:19) Start slide location has pre-existing DRC errors.
+\i (00:03:22) drag_stop grid -32.2137 -14.6361
+\t (00:03:22) DRC errors detected.
+\i (00:03:22) generaledit 
+\i (00:03:22) zoom out 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom out -31.8498 -14.5934
+\i (00:03:22) trapsize 164
+\i (00:03:23) zoom out 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom out -31.6760 -14.6885
+\i (00:03:23) trapsize 328
+\i (00:03:24) roam start
+\i (00:03:24) roam x 48
+\i (00:03:24) roam y 32
+\i (00:03:24) roam x 80
+\i (00:03:24) roam y 32
+\i (00:03:24) roam x 16
+\i (00:03:24) roam x 96
+\i (00:03:24) roam y 16
+\i (00:03:24) roam x 64
+\i (00:03:24) roam y 16
+\i (00:03:24) roam x 16
+\i (00:03:24) roam x 32
+\i (00:03:24) roam y 16
+\i (00:03:25) roam end
+\i (00:03:26) roam start
+\i (00:03:26) roam x 96
+\i (00:03:26) roam y 16
+\i (00:03:26) roam x 208
+\i (00:03:26) roam y 32
+\i (00:03:26) roam x 160
+\i (00:03:26) roam y 16
+\i (00:03:26) roam x 16
+\i (00:03:26) roam x 16
+\i (00:03:27) roam x 48
+\i (00:03:27) roam x 80
+\i (00:03:27) roam x 32
+\i (00:03:27) roam x 32
+\i (00:03:27) roam end
+\i (00:03:27) zoom in 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in -25.9849 -14.6826
+\i (00:03:27) trapsize 164
+\i (00:03:27) zoom in 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in -25.9849 -14.6399
+\i (00:03:27) trapsize 82
+\i (00:03:29) prepopup -26.0799 -14.3187
+\i (00:03:30) pop dyn_option_select @:@Delete 
+\i (00:03:30) delete 
+\i (00:03:30) generaledit 
+\i (00:03:31) prepopup -26.0848 -14.2941
+\i (00:03:32) pop dyn_option_select @:@Delete 
+\i (00:03:32) delete 
+\i (00:03:32) generaledit 
+\i (00:03:33) drag_start grid -26.1012 -14.5449
+\i (00:03:33) slide 
+\t (00:03:34) Waiting for the destination pick.
+\t (00:03:34) Start slide location has pre-existing DRC errors.
+\i (00:03:35) drag_stop grid -26.2553 -14.6268
+\t (00:03:35) DRC errors detected.
+\i (00:03:35) generaledit 
+\i (00:03:36) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out -26.1307 -14.6711
+\i (00:03:36) trapsize 164
+\i (00:03:36) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out -25.9996 -14.8022
+\i (00:03:36) trapsize 328
+\i (00:03:36) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out -25.9865 -14.8087
+\i (00:03:36) trapsize 656
+\i (00:03:38) roam start
+\i (00:03:38) roam x -32
+\i (00:03:38) roam y -96
+\i (00:03:38) roam x -80
+\i (00:03:38) roam y -176
+\i (00:03:38) roam x -48
+\i (00:03:38) roam y -80
+\i (00:03:38) roam x -32
+\i (00:03:38) roam y -80
+\i (00:03:38) roam x -32
+\i (00:03:38) roam y -48
+\i (00:03:38) roam x -16
+\i (00:03:38) roam y -16
+\i (00:03:38) roam end
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in -31.7942 -7.3785
+\i (00:03:39) trapsize 328
+\i (00:03:39) zoom in 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom in -31.7942 -7.3785
+\i (00:03:39) trapsize 164
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in -32.2728 -8.4341
+\i (00:03:40) trapsize 82
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out -32.0810 -8.4603
+\i (00:03:41) trapsize 164
+\i (00:03:42) roam start
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 16
+\i (00:03:42) roam x 64
+\i (00:03:42) roam x 176
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 144
+\i (00:03:42) roam x 272
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 144
+\i (00:03:42) roam x 144
+\i (00:03:42) roam x 112
+\i (00:03:42) roam y -16
+\i (00:03:42) roam x 160
+\i (00:03:43) roam x 96
+\i (00:03:43) roam y -16
+\i (00:03:43) roam x 96
+\i (00:03:43) roam x 144
+\i (00:03:43) roam x 48
+\i (00:03:43) roam y 32
+\i (00:03:43) roam x 32
+\i (00:03:43) roam y 96
+\i (00:03:43) roam x 16
+\i (00:03:43) roam y 32
+\i (00:03:43) roam y 16
+\i (00:03:43) roam y 32
+\i (00:03:43) roam x 16
+\i (00:03:43) roam y 32
+\i (00:03:43) roam y 48
+\i (00:03:43) roam end
+\i (00:03:44) drag_start grid -24.8506 -8.4964
+\i (00:03:44) slide 
+\t (00:03:45) Waiting for the destination pick.
+\t (00:03:45) Start slide location has pre-existing DRC errors.
+\i (00:03:47) drag_stop grid -26.0210 -8.6570
+\t (00:03:47) DRC errors detected.
+\i (00:03:47) generaledit 
+\i (00:03:48) roam start
+\i (00:03:48) roam y -64
+\i (00:03:48) roam x -48
+\i (00:03:48) roam y -160
+\i (00:03:48) roam y -96
+\i (00:03:48) roam x 16
+\i (00:03:48) roam y -160
+\i (00:03:48) roam x 16
+\i (00:03:48) roam y -160
+\i (00:03:48) roam x 16
+\i (00:03:48) roam y -64
+\i (00:03:48) roam x 16
+\i (00:03:48) roam y -64
+\i (00:03:48) roam x 32
+\i (00:03:48) roam y -80
+\i (00:03:48) roam x 48
+\i (00:03:48) roam y -128
+\i (00:03:48) roam x 32
+\i (00:03:48) roam y -144
+\i (00:03:48) roam x 16
+\i (00:03:48) roam y -112
+\i (00:03:48) roam x 16
+\i (00:03:48) roam y -64
+\i (00:03:48) roam x -16
+\i (00:03:48) roam y -112
+\i (00:03:48) roam x -112
+\i (00:03:48) roam y -128
+\i (00:03:48) roam x -16
+\i (00:03:48) roam y -32
+\i (00:03:48) roam end
+\i (00:03:50) drag_start grid -25.0507 -2.3594
+\i (00:03:50) slide 
+\t (00:03:50) Waiting for the destination pick.
+\t (00:03:50) Start slide location has pre-existing DRC errors.
+\i (00:03:51) drag_stop grid -26.1227 -2.5102
+\t (00:03:51) DRC errors detected.
+\i (00:03:51) generaledit 
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out -26.2440 -2.7856
+\i (00:03:52) trapsize 328
+\i (00:03:52) zoom out 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom out -26.8931 -2.7527
+\i (00:03:52) trapsize 656
+\i (00:03:53) roam start
+\i (00:03:53) roam x -96
+\i (00:03:53) roam x -240
+\i (00:03:53) roam x -176
+\i (00:03:53) roam x -16
+\i (00:03:53) roam end
+\i (00:03:53) zoom in 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom in -31.5713 -2.9888
+\i (00:03:53) trapsize 328
+\i (00:03:53) zoom in 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom in -31.5647 -2.9625
+\i (00:03:53) trapsize 164
+\i (00:03:54) drag_start grid -31.5024 -2.5756
+\i (00:03:54) slide 
+\t (00:03:55) Waiting for the destination pick.
+\t (00:03:55) Start slide location has pre-existing DRC errors.
+\i (00:03:56) drag_stop grid -31.5155 -2.7100
+\t (00:03:56) DRC errors detected.
+\i (00:03:56) generaledit 
+\i (00:03:56) zoom out 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom out -31.4205 -2.7068
+\i (00:03:56) trapsize 328
+\i (00:03:56) zoom out 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom out -31.3286 -2.6936
+\i (00:03:56) trapsize 656
+\i (00:03:59) roam start
+\i (00:03:59) roam y -16
+\i (00:03:59) roam x 48
+\i (00:03:59) roam y -96
+\i (00:03:59) roam x 16
+\i (00:03:59) roam y -80
+\i (00:03:59) roam x 48
+\i (00:03:59) roam y -112
+\i (00:03:59) roam x 48
+\i (00:03:59) roam y -80
+\i (00:03:59) roam x 32
+\i (00:03:59) roam y -48
+\i (00:03:59) roam x 32
+\i (00:03:59) roam y -48
+\i (00:03:59) roam y -32
+\i (00:03:59) roam x 16
+\i (00:04:00) roam end
+\i (00:04:01) roam start
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y 160
+\i (00:04:01) roam y 176
+\i (00:04:01) roam x 16
+\i (00:04:01) roam y 96
+\i (00:04:02) roam y 64
+\i (00:04:02) roam x -32
+\i (00:04:02) roam y 80
+\i (00:04:02) roam y 80
+\i (00:04:02) roam x -16
+\i (00:04:02) roam y 80
+\i (00:04:02) roam x -16
+\i (00:04:02) roam y 48
+\i (00:04:02) roam x -16
+\i (00:04:02) roam y 48
+\i (00:04:02) roam x -16
+\i (00:04:02) roam y 32
+\i (00:04:02) roam y 80
+\i (00:04:02) roam y 80
+\i (00:04:02) roam y 80
+\i (00:04:02) roam y 32
+\i (00:04:02) roam y 32
+\i (00:04:02) roam y 48
+\i (00:04:02) roam y 32
+\i (00:04:02) roam y 16
+\i (00:04:02) roam x 16
+\i (00:04:02) roam y 16
+\i (00:04:03) roam end
+\i (00:04:04) save 
+\i (00:04:05) fillin yes 
+\i (00:04:05) generaledit 
+\i (00:04:06) zoom in 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom in -33.3023 -14.3811
+\i (00:04:06) trapsize 328
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in -33.3023 -14.3680
+\i (00:04:07) trapsize 164
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in -33.3318 -14.3385
+\i (00:04:07) trapsize 82
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in -33.3301 -14.3352
+\i (00:04:07) trapsize 41
+\i (00:04:08) zoom out 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom out -33.1956 -14.3516
+\i (00:04:08) trapsize 82
+\i (00:04:09) zoom in 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom in -32.5220 -14.5073
+\i (00:04:09) trapsize 41
+\i (00:04:12) show measure 
+\i (00:04:14) prepopup -32.4761 -14.4269
+\i (00:04:16) pop dyn_option_select 'Snap pick to@:@Off-grid Location' 
+\t (00:04:16) last pick:  -32.4761 -14.4269
+\i (00:04:19) setwindow form.find
+\i (00:04:19) FORM find all_off  
+\i (00:04:20) setwindow pcb
+\i (00:04:20) prepopup -32.4753 -14.4376
+\i (00:04:22) pop dyn_option_select 'Snap pick to@:@Off-grid Location' 
+\t (00:04:22) last pick:  -32.4753 -14.4376
+\i (00:04:24) prepopup -32.5171 -14.4359
+\i (00:04:27) pop dyn_option_select 'Snap pick to@:@Off-grid Location' 
+\t (00:04:27) last pick:  -32.5171 -14.4359
+\i (00:04:45) setwindow text
+\i (00:04:45) close 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -32.8433 -14.4245
+\i (00:04:46) trapsize 82
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -32.8285 -14.4261
+\i (00:04:46) trapsize 164
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -32.8153 -14.3440
+\i (00:04:46) trapsize 328
+\i (00:04:47) roam start
+\i (00:04:47) roam x -16
+\i (00:04:47) roam y 128
+\i (00:04:47) roam x -48
+\i (00:04:47) roam y 208
+\i (00:04:47) roam x -48
+\i (00:04:47) roam y 112
+\i (00:04:47) roam x -16
+\i (00:04:47) roam y 48
+\i (00:04:47) roam x -16
+\i (00:04:47) roam y 32
+\i (00:04:47) roam x -16
+\i (00:04:47) roam y 32
+\i (00:04:48) roam end
+\i (00:04:48) roam start
+\i (00:04:48) roam x 32
+\i (00:04:48) roam y -64
+\i (00:04:48) roam x 112
+\i (00:04:48) roam y -272
+\i (00:04:48) roam x 80
+\i (00:04:48) roam y -160
+\i (00:04:48) roam x 48
+\i (00:04:48) roam y -80
+\i (00:04:48) roam end
+\i (00:04:50) prepopup -31.3812 -14.4925
+\i (00:04:50) done 
+\i (00:04:51) generaledit 
+\i (00:04:53) zoom out 1 
+\i (00:04:53) setwindow pcb
+\i (00:04:53) zoom out -32.2598 -14.7745
+\i (00:04:53) trapsize 656
+\i (00:04:54) roam start
+\i (00:04:54) roam x -80
+\i (00:04:54) roam x -112
+\i (00:04:54) roam y 16
+\i (00:04:54) roam x -64
+\i (00:04:55) roam x -32
+\i (00:04:55) roam end
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in -38.7574 -15.1416
+\i (00:04:55) trapsize 328
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in -38.6197 -15.1284
+\i (00:04:56) trapsize 164
+\i (00:04:57) roam start
+\i (00:04:57) roam x 112
+\i (00:04:57) roam y 16
+\i (00:04:57) roam x 256
+\i (00:04:57) roam y 16
+\i (00:04:57) roam x 320
+\i (00:04:57) roam x 272
+\i (00:04:57) roam x 128
+\i (00:04:57) roam x 32
+\i (00:04:57) roam end
+\i (00:04:58) zoom out 1 
+\i (00:04:58) setwindow pcb
+\i (00:04:58) zoom out -34.4399 -15.4072
+\i (00:04:58) trapsize 328
+\i (00:05:00) roam start
+\i (00:05:00) roam x 96
+\i (00:05:00) roam y 16
+\i (00:05:00) roam x 192
+\i (00:05:00) roam y 32
+\i (00:05:00) roam x 128
+\i (00:05:00) roam x 32
+\i (00:05:00) roam x -80
+\i (00:05:00) roam y 16
+\i (00:05:00) roam x -80
+\i (00:05:00) roam x -64
+\i (00:05:00) roam x -80
+\i (00:05:00) roam x -32
+\i (00:05:00) roam x -48
+\i (00:05:00) roam x -48
+\i (00:05:00) roam x -48
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -64
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -32
+\i (00:05:01) roam x -16
+\i (00:05:01) roam end
+\i (00:05:02) roam start
+\i (00:05:02) roam x 16
+\i (00:05:02) roam x 64
+\i (00:05:02) roam x 48
+\i (00:05:02) roam x 48
+\i (00:05:02) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam x 16
+\i (00:05:03) roam end
+\i (00:05:05) zoom in 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom in -31.5450 -14.9188
+\i (00:05:05) trapsize 164
+\i (00:05:07) zoom out 1 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) zoom out -31.4991 -14.7876
+\i (00:05:07) trapsize 328
+\i (00:05:08) zoom in 1 
+\i (00:05:08) setwindow pcb
+\i (00:05:08) zoom in -31.5318 -14.5253
+\i (00:05:08) trapsize 164
+\i (00:05:10) pick grid -32.2792 -14.4728
+\t (00:05:10) last pick:  -32.2580 -14.4780
+\i (00:05:11) prepopup -32.2792 -14.4728
+\i (00:05:13) pop dyn_option_select '@:@Change Width...' 
+\i (00:05:13) change width 
+\i (00:05:36) setwindow form.chgwidth
+\i (00:05:36) FORM chgwidth chgwidth 0.2000 
+\i (00:05:36) FORM chgwidth done  
+\e (00:05:36) ERROR(SPMHGE-510): Connecting pin is not on new subclass.
+\t (00:05:36) Changed 1 items out of 1 items found.
+\i (00:05:37) setwindow pcb
+\i (00:05:37) generaledit 
+\i (00:05:39) prepopup -32.1710 -14.7482
+\i (00:05:41) pop dyn_option_select '@:@Change Width...' 
+\i (00:05:41) change width 
+\i (00:05:43) setwindow form.chgwidth
+\i (00:05:43) FORM chgwidth done  
+\t (00:05:43) Changed 1 items out of 1 items found.
+\i (00:05:43) setwindow pcb
+\i (00:05:43) generaledit 
+\i (00:05:44) prepopup -32.6399 -14.6203
+\i (00:05:46) pop dyn_option_select '@:@Change Width...' 
+\i (00:05:46) change width 
+\i (00:05:47) setwindow form.chgwidth
+\i (00:05:47) FORM chgwidth done  
+\t (00:05:47) Changed 1 items out of 1 items found.
+\i (00:05:47) setwindow pcb
+\i (00:05:47) generaledit 
+\i (00:05:49) prepopup -32.5186 -14.2892
+\i (00:05:50) pop dyn_option_select @:@Delete 
+\i (00:05:50) delete 
+\i (00:05:50) generaledit 
+\i (00:05:53) prepopup -32.5874 -14.4826
+\i (00:05:55) pop dyn_option_select @:@Slide 
+\i (00:05:55) slide 
+\t (00:05:55) Waiting for the destination pick.
+\t (00:05:55) Start slide location has pre-existing DRC errors.
+\i (00:06:05) prepopup -32.7251 -14.6826
+\i (00:06:06) cancel 
+\i (00:06:06) generaledit 
+\i (00:06:08) add connect 
+\t (00:06:08) Pick first element.
+\t (00:06:08) Target Symbol Pin is defined on BOTTOM.
+\t (00:06:08) last pick:  -32.6412 -14.4826
+\i (00:06:09) mouse_pos -32.5940 -14.3548
+\i (00:06:09) mouse_pos -32.6399 -14.4892
+\i (00:06:10) mouse_pos -32.6530 -14.3450
+\i (00:06:10) pick grid -32.6530 -14.3450
+\t (00:06:11) last pick:  -32.7660 -14.2240
+\t (00:06:11) DRC error(s) created.
+\t (00:06:11) Pick first element.
+\i (00:06:11) generaledit 
+\i (00:06:12) prepopup -33.4398 -14.5548
+\i (00:06:13) pick grid -33.6693 -14.5417
+\t (00:06:13) last pick:  -33.7820 -14.4780
+\i (00:06:14) zoom out 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom out -33.6332 -14.4826
+\i (00:06:14) trapsize 328
+\i (00:06:14) zoom out 1 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) zoom out -33.2595 -14.4171
+\i (00:06:15) trapsize 656
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in -24.9193 -14.4302
+\i (00:06:16) trapsize 328
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in -24.9193 -14.4302
+\i (00:06:16) trapsize 164
+\i (00:06:17) zoom in 1 
+\i (00:06:17) setwindow pcb
+\i (00:06:17) zoom in -25.8274 -14.5219
+\i (00:06:17) trapsize 82
+\i (00:06:19) prepopup -26.3798 -14.5088
+\i (00:06:25) setwindow form.find
+\i (00:06:25) FORM find all_off  
+\i (00:06:27) FORM find clines YES 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) pick grid -26.0716 -14.7907
+\t (00:06:28) last pick:  -26.1620 -14.7320
+\i (00:06:29) pick grid tgl -26.6912 -14.7366
+\t (00:06:29) last pick:  -26.6700 -14.7320
+\i (00:06:29) zoom out 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom out -26.3912 -14.7514
+\i (00:06:29) trapsize 164
+\i (00:06:29) zoom out 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom out -26.4339 -14.5677
+\i (00:06:29) trapsize 328
+\i (00:06:29) zoom out 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom out -26.5322 -14.3317
+\i (00:06:29) trapsize 656
+\i (00:06:30) roam start
+\i (00:06:30) roam y 16
+\i (00:06:30) roam x -16
+\i (00:06:30) roam y 288
+\i (00:06:30) roam x -48
+\i (00:06:30) roam y 224
+\i (00:06:30) roam x -32
+\i (00:06:30) roam y 112
+\i (00:06:30) roam x -32
+\i (00:06:30) roam y 96
+\i (00:06:30) roam y 48
+\i (00:06:30) roam x -16
+\i (00:06:30) roam y 80
+\i (00:06:30) roam x -16
+\i (00:06:30) roam y 48
+\i (00:06:30) roam y 48
+\i (00:06:30) roam y 48
+\i (00:06:31) roam x 16
+\i (00:06:31) roam y 64
+\i (00:06:31) roam y 48
+\i (00:06:31) roam end
+\i (00:06:32) roam start
+\i (00:06:32) roam y -96
+\i (00:06:32) roam y -128
+\i (00:06:32) roam y -64
+\i (00:06:32) roam y -16
+\i (00:06:32) roam y -80
+\i (00:06:32) roam x -16
+\i (00:06:32) roam y -96
+\i (00:06:32) roam y -64
+\i (00:06:32) roam x -16
+\i (00:06:32) roam y -64
+\i (00:06:32) roam x -16
+\i (00:06:32) roam y -96
+\i (00:06:33) roam y -64
+\i (00:06:33) roam y -48
+\i (00:06:33) roam x -16
+\i (00:06:33) roam y -16
+\i (00:06:33) roam x -32
+\i (00:06:33) roam x -96
+\i (00:06:33) roam x -160
+\i (00:06:33) roam y 32
+\i (00:06:33) roam x -96
+\i (00:06:33) roam y 32
+\i (00:06:33) roam x -48
+\i (00:06:33) roam y 16
+\i (00:06:33) roam y 16
+\i (00:06:33) roam x -16
+\i (00:06:33) roam y 16
+\i (00:06:33) roam y 32
+\i (00:06:33) roam y 32
+\i (00:06:33) roam y 16
+\i (00:06:33) roam y 64
+\i (00:06:33) roam y 80
+\i (00:06:33) roam y 48
+\i (00:06:34) roam y 32
+\i (00:06:34) roam y 80
+\i (00:06:34) roam y 112
+\i (00:06:34) roam x 16
+\i (00:06:34) roam y 128
+\i (00:06:34) roam x 32
+\i (00:06:34) roam y 144
+\i (00:06:34) roam x 32
+\i (00:06:34) roam y 144
+\i (00:06:34) roam x 32
+\i (00:06:34) roam y 112
+\i (00:06:34) roam x 32
+\i (00:06:34) roam y 96
+\i (00:06:34) roam x 16
+\i (00:06:34) roam y 48
+\i (00:06:34) roam y 16
+\i (00:06:34) roam y 16
+\i (00:06:34) roam end
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out -31.6237 -32.0973
+\i (00:06:35) trapsize 1311
+\i (00:06:35) roam start
+\i (00:06:35) roam x -48
+\i (00:06:35) roam y -64
+\i (00:06:35) roam x -384
+\i (00:06:35) roam y -256
+\i (00:06:35) roam x -96
+\i (00:06:35) roam y -112
+\i (00:06:35) roam x -16
+\i (00:06:35) roam y -16
+\i (00:06:36) roam x -32
+\i (00:06:36) roam y -16
+\i (00:06:36) roam y -16
+\i (00:06:36) roam x -16
+\i (00:06:36) roam y -32
+\i (00:06:36) roam x -32
+\i (00:06:36) roam y -48
+\i (00:06:36) roam x -16
+\i (00:06:36) roam y -64
+\i (00:06:36) roam y -16
+\i (00:06:36) roam x 16
+\i (00:06:36) roam y -48
+\i (00:06:36) roam x 144
+\i (00:06:36) roam y -80
+\i (00:06:36) roam x 208
+\i (00:06:36) roam y -64
+\i (00:06:36) roam x 144
+\i (00:06:36) roam y -32
+\i (00:06:36) roam x 32
+\i (00:06:36) roam x 16
+\i (00:06:37) roam y -64
+\i (00:06:37) roam y -48
+\i (00:06:37) roam y -32
+\i (00:06:37) roam end
+\i (00:06:37) zoom in 1 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) zoom in -31.0988 -8.9517
+\i (00:06:38) trapsize 656
+\i (00:06:38) zoom in 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom in -31.5315 -9.3189
+\i (00:06:38) trapsize 328
+\i (00:06:39) pick grid tgl -31.9577 -8.7485
+\t (00:06:39) last pick:  -32.0040 -8.6360
+\i (00:06:40) pick grid tgl -32.5806 -8.9648
+\t (00:06:40) last pick:  -32.5120 -8.8900
+\i (00:06:41) pick grid tgl -26.3911 -9.0698
+\t (00:06:41) last pick:  -26.4160 -9.1440
+\i (00:06:41) pick grid tgl -25.9190 -8.5321
+\t (00:06:41) last pick:  -25.9080 -8.6360
+\i (00:06:42) roam start
+\i (00:06:42) roam x 32
+\i (00:06:42) roam y -80
+\i (00:06:42) roam x 64
+\i (00:06:42) roam y -240
+\i (00:06:42) roam x 48
+\i (00:06:42) roam y -208
+\i (00:06:42) roam x 16
+\i (00:06:42) roam y -96
+\i (00:06:42) roam y -96
+\i (00:06:42) roam y -32
+\i (00:06:42) roam y -48
+\i (00:06:42) roam y -48
+\i (00:06:42) roam y -64
+\i (00:06:42) roam y -32
+\i (00:06:42) roam y -32
+\i (00:06:42) roam y -48
+\i (00:06:43) roam x 16
+\i (00:06:43) roam y -32
+\i (00:06:43) roam end
+\i (00:06:43) zoom in 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom in -25.8867 -2.3626
+\i (00:06:43) trapsize 164
+\i (00:06:44) pick grid tgl -26.0637 -2.5528
+\t (00:06:44) last pick:  -26.1620 -2.5400
+\i (00:06:44) pick grid tgl -26.4571 -2.7658
+\t (00:06:44) last pick:  -26.4160 -2.7940
+\i (00:06:45) zoom out 1 
+\i (00:06:45) setwindow pcb
+\i (00:06:45) zoom out -27.8635 -3.1855
+\i (00:06:45) trapsize 328
+\i (00:06:46) roam start
+\i (00:06:46) roam x -16
+\i (00:06:46) roam x -240
+\i (00:06:46) roam y 16
+\i (00:06:46) roam x -288
+\i (00:06:46) roam y -16
+\i (00:06:47) roam x -176
+\i (00:06:47) roam y -32
+\i (00:06:47) roam x -48
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x -112
+\i (00:06:47) roam y -16
+\i (00:06:47) roam x -16
+\i (00:06:47) roam y -16
+\i (00:06:47) roam end
+\i (00:06:48) pick grid tgl -32.7187 -2.7102
+\t (00:06:48) last pick:  -32.7660 -2.7940
+\i (00:06:48) pick grid tgl -32.0893 -2.5594
+\t (00:06:48) last pick:  -32.0040 -2.5400
+\i (00:06:49) roam start
+\i (00:06:49) roam x 16
+\i (00:06:49) roam y -64
+\i (00:06:49) roam y -288
+\i (00:06:49) roam y -240
+\i (00:06:49) roam x 48
+\i (00:06:49) roam y -96
+\i (00:06:49) roam x 32
+\i (00:06:49) roam y -96
+\i (00:06:49) roam x 32
+\i (00:06:49) roam y -64
+\i (00:06:49) roam x 32
+\i (00:06:49) roam y -64
+\i (00:06:49) roam x 48
+\i (00:06:49) roam y -96
+\i (00:06:49) roam x 16
+\i (00:06:49) roam y -48
+\i (00:06:49) roam end
+\i (00:06:50) pick grid tgl -31.7877 3.3417
+\t (00:06:50) last pick:  -31.7500 3.3020
+\i (00:06:51) pick grid tgl -32.6532 3.1450
+\t (00:06:51) last pick:  -32.7660 3.0480
+\i (00:06:51) roam start
+\i (00:06:51) roam x 16
+\i (00:06:51) roam x 352
+\i (00:06:51) roam y -16
+\i (00:06:51) roam x 96
+\i (00:06:51) roam y -16
+\i (00:06:51) roam end
+\i (00:06:52) pick grid tgl -26.3063 3.0139
+\t (00:06:52) last pick:  -26.4160 3.0480
+\i (00:06:52) pick grid tgl -25.9194 3.5646
+\t (00:06:52) last pick:  -25.9080 3.5560
+\i (00:06:53) roam start
+\i (00:06:53) roam y -64
+\i (00:06:53) roam x -16
+\i (00:06:53) roam y -368
+\i (00:06:53) roam y -112
+\i (00:06:53) roam y -32
+\i (00:06:53) roam y -48
+\i (00:06:53) roam y -64
+\i (00:06:53) roam y -112
+\i (00:06:53) roam y -144
+\i (00:06:53) roam y -48
+\i (00:06:53) roam y -16
+\i (00:06:53) roam y -32
+\i (00:06:53) roam y -32
+\i (00:06:54) roam x -16
+\i (00:06:54) roam y -48
+\i (00:06:54) roam y -16
+\i (00:06:54) roam y -160
+\i (00:06:54) roam x 32
+\i (00:06:54) roam y -80
+\i (00:06:54) roam y -32
+\i (00:06:54) roam end
+\i (00:06:54) zoom out 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom out -28.0110 12.5342
+\i (00:06:54) trapsize 656
+\i (00:06:55) zoom out 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom out -27.8930 12.4294
+\i (00:06:55) trapsize 1311
+\i (00:06:55) roam start
+\i (00:06:55) roam y 16
+\i (00:06:55) roam x 112
+\i (00:06:55) roam y 400
+\i (00:06:55) roam x 96
+\i (00:06:55) roam y 496
+\i (00:06:55) roam y 128
+\i (00:06:55) roam y 144
+\i (00:06:55) roam y 112
+\i (00:06:55) roam y 32
+\i (00:06:55) roam y 16
+\i (00:06:55) roam x -48
+\i (00:06:55) roam y -32
+\i (00:06:56) roam x -176
+\i (00:06:56) roam y -208
+\i (00:06:56) roam x -96
+\i (00:06:56) roam y -112
+\i (00:06:56) roam x -32
+\i (00:06:56) roam y -48
+\i (00:06:56) roam x -16
+\i (00:06:56) roam y -80
+\i (00:06:56) roam end
+\i (00:06:59) prepopup -25.1716 -9.0042
+\i (00:07:02) pop dyn_option_select '@:@Change Width...' 
+\i (00:07:02) change width 
+\i (00:07:03) setwindow form.chgwidth
+\i (00:07:03) FORM chgwidth done  
+\t (00:07:03) Changed 14 items out of 14 items found.
+\i (00:07:04) setwindow pcb
+\i (00:07:04) generaledit 
+\i (00:07:05) prepopup -23.2046 -6.9586
+\i (00:07:06) pick grid -23.8078 -5.8046
+\t (00:07:06) last pick:  -23.8760 -5.8420
+\i (00:07:06) zoom in 1 
+\i (00:07:06) setwindow pcb
+\i (00:07:06) zoom in -28.9482 -8.2699
+\i (00:07:06) trapsize 656
+\i (00:07:07) zoom in 1 
+\i (00:07:07) setwindow pcb
+\i (00:07:07) zoom in -31.1513 -8.4404
+\i (00:07:07) trapsize 328
+\i (00:07:07) zoom in 1 
+\i (00:07:07) setwindow pcb
+\i (00:07:07) zoom in -31.1512 -8.4010
+\i (00:07:07) trapsize 164
+\i (00:07:08) zoom out 1 
+\i (00:07:08) setwindow pcb
+\i (00:07:08) zoom out -31.4889 -8.4830
+\i (00:07:08) trapsize 328
+\i (00:07:08) zoom out 1 
+\i (00:07:08) setwindow pcb
+\i (00:07:08) zoom out -31.5479 -8.3059
+\i (00:07:08) trapsize 656
+\i (00:07:08) roam start
+\i (00:07:08) roam y 80
+\i (00:07:08) roam x -32
+\i (00:07:08) roam y 160
+\i (00:07:08) roam x -16
+\i (00:07:08) roam y 144
+\i (00:07:09) roam x -16
+\i (00:07:09) roam y 80
+\i (00:07:09) roam y 32
+\i (00:07:09) roam y 16
+\i (00:07:09) roam x 48
+\i (00:07:09) roam y 32
+\i (00:07:09) roam x 80
+\i (00:07:09) roam y 32
+\i (00:07:09) roam x 16
+\i (00:07:09) roam end
+\i (00:07:09) zoom out 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom out -30.0371 -14.3942
+\i (00:07:09) trapsize 1311
+\i (00:07:10) zoom out 1 
+\i (00:07:10) setwindow pcb
+\i (00:07:10) zoom out -30.7452 -14.9973
+\i (00:07:10) trapsize 2623
+\i (00:07:11) roam start
+\i (00:07:11) roam y -48
+\i (00:07:11) roam y -48
+\i (00:07:11) roam end
+\i (00:07:11) save 
+\i (00:07:13) fillin yes 
+\i (00:07:13) generaledit 
+\i (00:07:21) artwork 
+\i (00:07:24) setwindow form.film_control
+\i (00:07:24) FORM film_control filmtree 'MULTISEL YES' ASSM_BOT 
+\i (00:07:24) FORM film_control filmtree  ASSM_BOT 
+\i (00:07:24) FORM film_control filmtree 'MULTISEL YES' ASSM_TOP 
+\i (00:07:24) FORM film_control filmtree  ASSM_TOP 
+\i (00:07:25) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:07:25) FORM film_control filmtree  BOTTOM 
+\i (00:07:26) FORM film_control filmtree 'MULTISEL YES' FAB_NOTES 
+\i (00:07:26) FORM film_control filmtree  FAB_NOTES 
+\i (00:07:26) FORM film_control filmtree 'MULTISEL YES' GND 
+\i (00:07:26) FORM film_control filmtree  GND 
+\i (00:07:26) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOT 
+\i (00:07:26) FORM film_control filmtree  SILKSCREEN_BOT 
+\i (00:07:27) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
+\i (00:07:27) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:07:27) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
+\i (00:07:27) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:07:28) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOT 
+\i (00:07:28) FORM film_control filmtree  SOLDERMASK_BOT 
+\i (00:07:28) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:07:28) FORM film_control filmtree  TOP 
+\i (00:07:29) FORM film_control filmtree 'MULTISEL YES' VDD 
+\i (00:07:29) FORM film_control filmtree  VDD 
+\i (00:07:31) FORM film_control create  
+\i (00:07:32) fillin yes 
+\t (00:07:32) Checking db records
+\t (00:07:32)     checking for orphans...
+\t (00:07:32)     Checked  95 percent
+\e (00:07:32) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
+\e (00:07:32) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
+\t (00:07:32)     Checked 100 percent
+\w (00:07:32) Run batch DRC to correctly regenerate DRC errs.
 
-\t (00:00:33) Done dbdoctor.
-\t (00:00:33) Starting Create artwork films...
-\w (00:00:34) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:00:35) Artwork generated with warnings.
-\i (00:00:36) FORM film_control ok  
-\i (00:00:36) setwindow pcb
-\i (00:00:36) generaledit 
-\i (00:00:37) setwindow text
-\i (00:00:37) close 
-\i (00:00:38) setwindow text
-\i (00:00:38) close 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) save 
-\i (00:00:40) fillin yes 
-   (00:00:40) Loading signal.cxt 
-\i (00:00:40) generaledit 
-\i (00:00:41) artwork 
-\i (00:00:43) setwindow form.film_control
-\i (00:00:43) FORM film_control filmtree 'MULTISEL YES' ASSM_BOT 
-\i (00:00:43) FORM film_control filmtree  ASSM_BOT 
-\i (00:00:43) FORM film_control filmtree 'MULTISEL YES' ASSM_TOP 
-\i (00:00:43) FORM film_control filmtree  ASSM_TOP 
-\i (00:00:43) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:00:43) FORM film_control filmtree  BOTTOM 
-\i (00:00:44) FORM film_control filmtree 'MULTISEL YES' FAB_NOTES 
-\i (00:00:44) FORM film_control filmtree  FAB_NOTES 
-\i (00:00:44) FORM film_control filmtree 'MULTISEL YES' GND 
-\i (00:00:44) FORM film_control filmtree  GND 
-\i (00:00:45) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOT 
-\i (00:00:45) FORM film_control filmtree  SILKSCREEN_BOT 
-\i (00:00:45) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:00:45) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:00:46) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:00:46) FORM film_control filmtree  TOP 
-\i (00:00:46) FORM film_control filmtree 'MULTISEL YES' VDD 
-\i (00:00:46) FORM film_control filmtree  VDD 
-\i (00:00:47) FORM film_control create  
-\i (00:00:48) fillin yes 
-\t (00:00:48) Checking db records
-\t (00:00:48)     checking for orphans...
-\t (00:00:48)     Checked  99 percent
-\e (00:00:48) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\e (00:00:48) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
-\t (00:00:48)     Checked 100 percent
-\w (00:00:48) Run batch DRC to correctly regenerate DRC errs.
+\t (00:07:32) Done dbdoctor.
+\t (00:07:32) Starting Create artwork films...
+\w (00:07:33) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:07:34) Artwork generated with warnings.
+\i (00:07:34) FORM film_control ok  
+\i (00:07:35) setwindow pcb
+\i (00:07:35) generaledit 
+\i (00:07:35) setwindow text
+\i (00:07:35) close 
+\i (00:07:36) setwindow text
+\i (00:07:36) close 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) save 
+\i (00:07:38) fillin yes 
+   (00:07:38) Loading signal.cxt 
+\i (00:07:38) generaledit 
+\i (00:07:40) artwork 
+\i (00:07:41) setwindow form.film_control
+\i (00:07:41) FORM film_control filmtree 'MULTISEL YES' VDD 
+\i (00:07:41) FORM film_control filmtree  VDD 
+\i (00:07:41) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:07:41) FORM film_control filmtree  TOP 
+\i (00:07:42) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
+\i (00:07:42) FORM film_control filmtree  SOLDERMASK_TOP 
+\i (00:07:42) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOT 
+\i (00:07:42) FORM film_control filmtree  SOLDERMASK_BOT 
+\i (00:07:43) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
+\i (00:07:43) FORM film_control filmtree  SILKSCREEN_TOP 
+\i (00:07:43) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOT 
+\i (00:07:43) FORM film_control filmtree  SILKSCREEN_BOT 
+\i (00:07:44) FORM film_control filmtree 'MULTISEL YES' GND 
+\i (00:07:44) FORM film_control filmtree  GND 
+\i (00:07:44) FORM film_control filmtree 'MULTISEL YES' FAB_NOTES 
+\i (00:07:44) FORM film_control filmtree  FAB_NOTES 
+\i (00:07:44) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:07:44) FORM film_control filmtree  BOTTOM 
+\i (00:07:45) FORM film_control filmtree 'MULTISEL YES' ASSM_TOP 
+\i (00:07:45) FORM film_control filmtree  ASSM_TOP 
+\i (00:07:45) FORM film_control filmtree 'MULTISEL YES' ASSM_BOT 
+\i (00:07:45) FORM film_control filmtree  ASSM_BOT 
+\i (00:07:46) FORM film_control create  
+\i (00:07:47) fillin yes 
+\t (00:07:47) Checking db records
+\t (00:07:47)     checking for orphans...
+\t (00:07:47)     Checked  94 percent
+\e (00:07:47) Unable to write library file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
+\e (00:07:47) Unable to open device file C:\Users\Zain\s Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\devices.dml
+\t (00:07:47)     Checked 100 percent
+\w (00:07:47) Run batch DRC to correctly regenerate DRC errs.
 
-\t (00:00:48) Done dbdoctor.
-\t (00:00:48) Starting Create artwork films...
-\w (00:00:48) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:00:49) Artwork generated with warnings.
-\i (00:00:50) FORM film_control ok  
-\i (00:00:50) setwindow pcb
-\i (00:00:50) generaledit 
-\i (00:00:51) setwindow text
-\i (00:00:51) close 
-\i (00:00:53) setwindow pcb
-\i (00:00:53) nctape_full 
-\i (00:01:02) setwindow form.nc_drill
-\i (00:01:02) FORM nc_drill tape_name 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_040418.drl' 
-\i (00:01:02) FORM nc_drill execute  
-\t (00:01:02) Starting Generating NC Drill...
-\i (00:01:05) FORM nc_drill cancel  
-\i (00:01:05) setwindow pcb
-\i (00:01:05) generaledit 
-\i (00:01:11) plctxt out 
-\i (00:01:24) setwindow form.plctxt
-\i (00:01:24) FORM plctxt filename SMA_fabB_040418_CPL.txt 
-\i (00:01:24) FORM plctxt body_center YES 
-\i (00:01:25) FORM plctxt execute  
-\t (00:01:25) Starting Place symbols by text file...
-\i (00:01:27) FORM plctxt cancel  
-\i (00:01:27) setwindow pcb
-\i (00:01:27) generaledit 
-\i (00:01:38) idf out 
-\i (00:01:45) setwindow form.idf_out
-\i (00:01:45) FORM idf_out browse  
-\i (00:01:53) fillin "C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\IDF\SMA_fabB_v1_040418.bdf"
-\i (00:01:55) FORM idf_out execute  
-\t (00:01:55) Starting idf_out...
-\i (00:02:05) FORM idf_out heightfield 10.0000 
-\i (00:02:05) FORM idf_out execute  
-\t (00:02:05) Starting idf_out...
-\i (00:02:13) FORM idf_out formatfield PTC 
-\i (00:02:15) FORM idf_out execute  
-\t (00:02:15) Starting idf_out...
-\i (00:02:23) FORM idf_out cancel  
-\i (00:02:24) setwindow pcb
-\i (00:02:24) generaledit 
-\i (00:02:25) zoom out 1 
-\i (00:02:25) setwindow pcb
-\i (00:02:25) zoom out -57.4628 -6.8644
-\i (00:02:25) trapsize 9975
-\i (00:02:26) zoom in 1 
-\i (00:02:26) setwindow pcb
-\i (00:02:26) zoom in -52.6750 -29.0080
-\i (00:02:26) trapsize 4987
-\i (00:02:26) roam start
-\i (00:02:26) roam x -16
-\i (00:02:26) roam y -96
-\i (00:02:27) roam x -16
-\i (00:02:27) roam y -48
-\i (00:02:27) roam end
-\i (00:06:07) show measure 
-\i (00:06:09) pick grid -52.8745 10.8904
-\t (00:06:09) last pick:  -52.8320 10.9220
-\i (00:06:11) pick grid 54.0533 11.6884
-\t (00:06:11) last pick:  54.1020 11.6840
-\i (00:06:12) prepopup 53.7541 6.8008
-\i (00:06:14) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
-\t (00:06:14) last pick:  53.8480 22.6060
-\i (00:06:17) prepopup -52.7748 22.9597
-\i (00:06:18) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
-\t (00:06:18) last pick:  -52.5780 22.6060
-\i (00:06:47) prepopup -53.1737 -67.6097
-\i (00:06:50) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
-\t (00:06:50) last pick:  -52.5780 -68.0620
-\i (00:11:51) setwindow text
-\i (00:11:51) close 
-\i (00:11:52) setwindow pcb
-\i (00:11:52) prepopup -67.8364 -23.0232
-\i (00:11:53) done 
-\i (00:11:53) generaledit 
-\i (00:11:54) exit 
-\e (00:11:54) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040418.brd?
-\i (00:11:57) fillin yes 
-\t (00:11:57)     Journal end - Wed Apr 04 13:56:29 2018
+\t (00:07:47) Done dbdoctor.
+\t (00:07:47) Starting Create artwork films...
+\w (00:07:48) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:07:49) Artwork generated with warnings.
+\i (00:07:51) setwindow text
+\i (00:07:51) close 
+\i (00:07:52) setwindow form.film_control
+\i (00:07:52) FORM film_control ok  
+\i (00:07:52) setwindow pcb
+\i (00:07:52) generaledit 
+\i (00:07:52) zoom out 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom out -16.3729 -11.8892
+\i (00:07:52) trapsize 5245
+\i (00:07:53) roam start
+\i (00:07:53) roam x 48
+\i (00:07:53) roam y 48
+\i (00:07:53) roam x 224
+\i (00:07:53) roam y 144
+\i (00:07:53) roam x 208
+\i (00:07:53) roam y 128
+\i (00:07:53) roam end
+\i (00:07:58) nctape_full 
+\i (00:08:01) setwindow form.nc_drill
+\i (00:08:01) FORM nc_drill parameters  
+\i (00:08:06) setwindow form.nc_parameters
+\i (00:08:06) FORM nc_parameters enhanced_format YES 
+\i (00:08:07) FORM nc_parameters done  
+\i (00:08:09) setwindow form.nc_drill
+\i (00:08:09) FORM nc_drill parameters  
+\i (00:08:10) setwindow form.nc_parameters
+\i (00:08:10) FORM nc_parameters done  
+\i (00:08:12) setwindow form.nc_drill
+\i (00:08:12) FORM nc_drill execute  
+\t (00:08:12) Starting Generating NC Drill...
+\i (00:08:16) FORM nc_drill cancel  
+\i (00:08:16) setwindow pcb
+\i (00:08:16) generaledit 
+\i (00:08:18) exit 
+\e (00:08:18) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd?
+\i (00:08:19) fillin yes 
+\t (00:08:20)     Journal end - Sat Apr 07 20:27:53 2018

@@ -1,9 +1,9 @@
-Wed Apr 04 13:33:04 2018				Page     1
+Wed Apr 04 14:36:22 2018				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Wed Apr 04 13:33:04 2018
+	Wed Apr 04 14:36:22 2018
 
 ------ Module Refresh Messages ------
 
@@ -17,32 +17,32 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_auto.brd                          )
+(    Drawing          : SMA_fabB_v1_IDF.brd                           )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed Apr 04 13:33:04 2018                      )
+(    Date/Time        : Wed Apr 04 14:36:23 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Wed Apr 04 13:33:04 2018				Page     1
+Wed Apr 04 14:36:23 2018				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd'
+Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_IDF.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
 Update package symbols                 = 'NO'
 Update shape/flash symbols             = 'NO'
-Update symbol padstacks                = 'NO'
+Update symbol padstacks                = 'YES'
 Preserve padstacks replaced on pins    = 'NO'
 Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/ZAIN'S~1/AppData/Local/Temp/#Taaaaaj00936.tmp'
+Symbol list file                       = 'C:/Users/ZAIN'S~1/AppData/Local/Temp/#Taaaaan04296.tmp'
 
 
 ------ Library Paths ------
@@ -51,23 +51,29 @@ PSMPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/symbols 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
 
 PADPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols 
            . 
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/padstacks 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
 
 
 ------ Symbol Refresh Messages ------
 
-'CONN3'  symbol refreshed successfully.
+'UA78M05CDCY'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'S325_215'  pad stack refreshed successfully.
+'S095_215'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Apr-01-2018 at 22:10:12}
+{ Using PSTWRITER 17.2.0 d001Apr-07-2018 at 20:10:56}
 primitive 'CAP_1206_C_1UF';
   pin
     '1':
@@ -91,6 +91,21 @@ primitive '1103M2S3CQE2_1103M2S3CQE2_1103M';
     PART_NAME='1103M2S3CQE2';
     JEDEC_TYPE='1103M2S3CQE2';
     VALUE='1103M2S3CQE2';
+  end_body;
+end_primitive;
+primitive 'COMB_ELECTRODE_1_SPIRAL_ELECTRO';
+  pin
+    '-':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    '+':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='comb_electrode_1';
+    JEDEC_TYPE='spiral_electrode_full';
+    VALUE='comb_electrode';
   end_body;
 end_primitive;
 primitive 'COMB_ELECTRODE_1_COMB_ELECTRODE';

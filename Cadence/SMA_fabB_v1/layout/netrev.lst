@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_auto.brd                          )
+(    Drawing          : SMA_fabB_v1_040718.brd                        )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Sun Apr 01 22:10:16 2018                      )
+(    Date/Time        : Sat Apr 07 20:19:46 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,15 +19,15 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro'
 Design Directory:            '.'
-Old design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd'
-New design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd'
+Old design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd'
+New design name:             'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd'
 
-CmdLine: netrev -$ -i C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/#Taaaacz04936.tmp
+CmdLine: netrev -$ -i C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/#Taaaaab03208.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro/pstchip.dat 
-   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro/pstchip.dat (00:00:00.06)
+   Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro/pstchip.dat (00:00:00.08)
 Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro/pstxprt.dat 
    Finished reading C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/allegro/pstxnet.dat 
@@ -62,7 +62,7 @@ PADPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols
 ------ Summary Statistics ------
 
 
-netrev run on Apr 1 22:10:16 2018
+netrev run on Apr 7 20:19:46 2018
    DESIGN NAME : 'SEA_FABB_V1'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -87,6 +87,6 @@ netrev run on Apr 1 22:10:16 2018
  No oversight detected
  No warning detected
 
-cpu time      0:00:47
+cpu time      0:00:50
 elapsed time  0:00:00
 

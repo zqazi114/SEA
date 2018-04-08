@@ -1,24 +1,332 @@
-\t (00:00:06) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:06)     Journal start - Tue Apr 03 15:05:25 2018
-\t (00:00:06)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=6568 CPUs=4
-\t (00:00:06) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\pcb_lib\symbols\comb_electrode_full.dra
-\t (00:00:06) 
-   (00:00:07) Loading axlcore.cxt 
-\t (00:00:08) Opening existing design...
-\d (00:00:08) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/comb_electrode_full.dra
-\i (00:00:09) trapsize 18999
-\i (00:00:10) trapsize 19404
-\i (00:00:10) trapsize 19404
-\i (00:00:12) generaledit 
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in -65.2943 21.5842
-\i (00:00:13) trapsize 9702
-\i (00:00:18) zoom out 1 
-\i (00:00:18) setwindow pcb
-\i (00:00:18) zoom out 28.6226 -44.7786
-\i (00:00:18) trapsize 19404
-\i (00:00:24) exit 
-\e (00:00:24) Do you want to save the changes you made to comb_electrode_full.dra?
-\i (00:00:26) fillin no 
-\t (00:00:28)     Journal end - Tue Apr 03 15:05:47 2018
+\t (00:04:21) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:04:21)     Journal start - Sat Apr 07 20:15:26 2018
+\t (00:04:21)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=13932 CPUs=4
+\t (00:04:21) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\SMA_fabB_v1\layout\SMA_fabB_v1_040718.brd
+\t (00:04:21) 
+\d (00:04:21) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_l.dra
+\i (00:04:21) generaledit 
+\i (00:04:22) zoom out 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom out 1.8493 -0.4017
+\i (00:04:22) trapsize 349
+\i (00:04:23) drag_start grid 2.0168 -2.2248
+\i (00:04:23) drag_stop -2.0833 1.9661
+\i (00:04:24) prepopup -0.8749 1.1489
+\i (00:04:24) pop dyn_option_select @:@Move 
+\i (00:04:25) move 
+\t (00:04:25) last pick:  -0.8636 1.1430
+\t (00:04:25) last pick:  -0.8636 1.1430
+\t (00:04:25) Element has no origin, using pick.
+\t (00:04:25) Pick new location for the element(s).
+\i (00:04:29) pick grid -0.7911 2.7554
+\t (00:04:29) last pick:  -0.7874 2.7432
+\i (00:04:29) generaledit 
+\i (00:04:31) save 
+\i (00:04:32) fillin yes 
+\t (00:04:33) Symbol 'spiral_electrode_l.ssm' created.
+\i (00:04:33) generaledit 
+\i (00:04:36) opencd 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_r.dra' 
+\t (00:04:36) Opening existing design...
+\i (00:04:36) trapsize 43
+\i (00:04:36) trapsize 44
+\i (00:04:36) trapsize 44
+\d (00:04:36) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_r.dra
+\i (00:04:37) generaledit 
+\i (00:04:37) zoom out 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out -0.4250 -0.2773
+\i (00:04:37) trapsize 87
+\i (00:04:37) zoom out 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out -0.4127 -0.2441
+\i (00:04:37) trapsize 175
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out 1.1445 -1.5220
+\i (00:04:38) trapsize 349
+\i (00:04:39) drag_start grid 1.4309 -1.7664
+\i (00:04:40) drag_stop -1.3694 1.2365
+\i (00:04:40) prepopup -0.4057 1.0549
+\i (00:04:41) pop dyn_option_select @:@Move 
+\i (00:04:41) move 
+\t (00:04:41) last pick:  -0.4100 1.0500
+\t (00:04:41) last pick:  -0.4100 1.0500
+\t (00:04:41) Element has no origin, using pick.
+\t (00:04:41) Pick new location for the element(s).
+\i (00:04:45) pick grid -0.6501 2.6192
+\t (00:04:45) last pick:  -0.6500 2.6200
+\i (00:04:45) generaledit 
+\i (00:04:45) prepopup -2.5077 1.6974
+\i (00:04:46) pick grid -3.2410 2.1513
+\t (00:04:46) last pick:  -3.2400 2.1500
+\i (00:04:47) save 
+\i (00:04:48) fillin yes 
+\t (00:04:48) Symbol 'spiral_electrode_r.ssm' created.
+\i (00:04:48) generaledit 
+\i (00:04:53) opencd 'C:/Users/Zain`'s Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_full.dra' 
+\t (00:04:53) Opening existing design...
+\i (00:04:53) trapsize 342
+\i (00:04:53) trapsize 349
+\i (00:04:53) trapsize 349
+\d (00:04:53) Design opened: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_full.dra
+\i (00:04:54) generaledit 
+\i (00:04:54) zoom out 1 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) zoom out -2.3977 -0.5468
+\i (00:04:54) trapsize 698
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in -0.2464 -2.2093
+\i (00:04:55) trapsize 349
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in -0.2324 -2.1953
+\i (00:04:55) trapsize 175
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out -0.3861 -2.1219
+\i (00:04:56) trapsize 349
+\i (00:04:56) roam start
+\i (00:04:56) roam y -16
+\i (00:04:57) roam x 16
+\i (00:04:57) roam y -16
+\i (00:04:57) roam end
+\i (00:05:00) refresh padstack 
+\i (00:05:01) setwindow form.rf_pad
+\i (00:05:01) FORM rf_pad execute  
+\t (00:05:01) Starting Refreshing padstacks...
+\t (00:05:02) Opening existing design...
+\i (00:05:02) setwindow pcb
+\i (00:05:02) trapsize 342
+\i (00:05:02) trapsize 349
+\i (00:05:02) trapsize 349
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in -0.0020 -1.1615
+\i (00:05:04) trapsize 175
+\i (00:05:40) setwindow form.rf_pad
+\i (00:05:40) FORM rf_pad execute  
+\t (00:05:40) Starting Refreshing padstacks...
+\t (00:05:40) Opening existing design...
+\i (00:05:40) setwindow pcb
+\i (00:05:40) trapsize 171
+\i (00:05:41) trapsize 175
+\i (00:05:41) trapsize 175
+\i (00:05:44) setwindow form.rf_pad
+\i (00:05:44) FORM rf_pad cancel  
+\i (00:05:44) setwindow pcb
+\i (00:05:44) generaledit 
+\i (00:05:45) zoom out 1 
+\i (00:05:45) setwindow pcb
+\i (00:05:45) zoom out -1.6469 -0.0230
+\i (00:05:45) trapsize 349
+\i (00:05:46) zoom in 1 
+\i (00:05:46) setwindow pcb
+\i (00:05:46) zoom in -1.8145 0.6057
+\i (00:05:46) trapsize 175
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out -1.7691 0.5813
+\i (00:05:48) trapsize 349
+\i (00:05:49) drag_start grid -2.0904 1.2798
+\i (00:05:49) drag_stop 2.5615 -1.6259
+\i (00:05:50) prepopup 0.2565 -0.7737
+\i (00:05:51) pop dyn_option_select @:@Delete 
+\i (00:05:51) delete 
+\t (00:05:51) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\i (00:05:51) generaledit 
+\i (00:05:56) add pin 
+\t (00:05:56) Using 'SPIRAL_ELECTRODE_R.pad'.
+\i (00:06:00) prepopup 0.6826 -0.4594
+\i (00:06:01) cancel 
+\t (00:06:01) Exiting from Add Pin.
+\i (00:06:01) generaledit 
+\i (00:06:02) new 
+\e (00:06:02) Do you want to save the changes you made to C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_full.dra?
+\i (00:06:04) fillin no 
+\i (00:06:09) newdrawfillin "spiral_electrode_full.dra" "Package Symbol"
+\t (00:06:09) Starting new design...
+\i (00:06:09) trapsize 22350
+\i (00:06:09) trapsize 22350
+\i (00:06:10) generaledit 
+\i (00:06:12) add pin 
+\i (00:06:14) setwindow form.mini
+\i (00:06:14) FORM mini pad_browse  
+\t (00:06:16) No valid name selected.
+\i (00:06:19) fillin "Spiral_Electrode_L"
+\w (00:06:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:06:19) Using 'SPIRAL_ELECTRODE_L.pad'.
+\i (00:06:20) setwindow pcb
+\i (00:06:20) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in -22.0948 2.9371
+\i (00:06:21) trapsize 11175
+\i (00:06:21) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in -22.0948 2.9371
+\i (00:06:21) trapsize 5587
+\i (00:06:21) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in -11.5903 -0.1918
+\i (00:06:21) trapsize 2794
+\i (00:06:21) zoom in 1 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in -9.8023 0.9816
+\i (00:06:21) trapsize 1397
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in -0.4154 0.7581
+\i (00:06:22) trapsize 698
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in -0.4014 0.7721
+\i (00:06:22) trapsize 349
+\i (00:06:23) zoom in 1 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom in -0.2757 0.8140
+\i (00:06:23) trapsize 175
+\i (00:06:29) zoom out 1 
+\i (00:06:29) setwindow pcb
+\i (00:06:29) zoom out -0.6633 0.5591
+\i (00:06:29) trapsize 349
+\i (00:06:32) define grid 
+\t (00:06:32) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:06:36) setwindow form.grid
+\i (00:06:36) FORM grid non_etch non_etch_x_grids 0.01 
+\i (00:06:37) FORM grid non_etch non_etch_y_grids 0.01 
+\i (00:06:38) FORM grid all_etch all_etch_x_grids 0.01 
+\i (00:06:40) FORM grid all_etch all_etch_y_grids 0.01 
+\i (00:06:40) FORM grid done  
+\i (00:06:41) setwindow pcb
+\i (00:06:41) zoom in 1 
+\i (00:06:41) setwindow pcb
+\i (00:06:41) zoom in -0.0208 -0.0415
+\i (00:06:41) trapsize 175
+\i (00:06:50) roam start
+\i (00:06:50) roam y 16
+\i (00:06:50) roam y 144
+\i (00:06:50) roam x -32
+\i (00:06:50) roam y 192
+\i (00:06:50) roam y 64
+\i (00:06:50) roam y 48
+\i (00:06:50) roam x -16
+\i (00:06:50) roam y 80
+\i (00:06:50) roam y 96
+\i (00:06:50) roam x -16
+\i (00:06:50) roam y 32
+\i (00:06:50) roam y 32
+\i (00:06:51) roam end
+\i (00:06:51) roam start
+\i (00:06:51) roam x 32
+\i (00:06:51) roam y -64
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y -48
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y -32
+\i (00:06:51) roam y -32
+\i (00:06:51) roam x 16
+\i (00:06:51) roam y -32
+\i (00:06:52) roam end
+\i (00:06:57) pick grid -0.0718 -1.6014
+\t (00:06:57) last pick:  -0.0700 -1.6000
+\t (00:06:57) Using 'SPIRAL_ELECTRODE_L.pad'.
+\i (00:06:58) prepopup 0.1726 -1.3465
+\i (00:06:59) done 
+\t (00:06:59) Exiting from Add Pin.
+\i (00:06:59) generaledit 
+\i (00:07:00) zoom out 1 
+\i (00:07:00) setwindow pcb
+\i (00:07:00) zoom out -1.1160 0.0365
+\i (00:07:00) trapsize 349
+\i (00:07:03) add pin 
+\t (00:07:03) Using 'SPIRAL_ELECTRODE_L.pad'.
+\i (00:07:05) setwindow form.mini
+\i (00:07:05) FORM mini pad_browse  
+\t (00:07:07) No valid name selected.
+\i (00:07:08) fillin "Spiral_Electrode_R"
+\w (00:07:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:07:08) Using 'SPIRAL_ELECTRODE_R.pad'.
+\i (00:07:10) setwindow pcb
+\i (00:07:10) zoom in 1 
+\i (00:07:10) setwindow pcb
+\i (00:07:10) zoom in 0.2669 -1.5840
+\i (00:07:10) trapsize 175
+\i (00:07:11) zoom out 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom out 0.2425 -1.5874
+\i (00:07:11) trapsize 349
+\i (00:07:14) roam start
+\i (00:07:14) roam y -48
+\i (00:07:14) roam y -48
+\i (00:07:14) roam y -80
+\i (00:07:14) roam y -64
+\i (00:07:15) roam end
+\i (00:07:16) zoom in 1 
+\i (00:07:16) setwindow pcb
+\i (00:07:16) zoom in 0.2495 -1.5560
+\i (00:07:16) trapsize 175
+\i (00:07:16) roam start
+\i (00:07:17) roam y -48
+\i (00:07:17) roam y -48
+\i (00:07:17) roam y -16
+\i (00:07:17) roam y -32
+\i (00:07:17) roam y -48
+\i (00:07:17) roam y -32
+\i (00:07:17) roam y -32
+\i (00:07:17) roam end
+\i (00:07:25) pick grid 0.2530 -1.5944
+\t (00:07:25) last pick:  0.2500 -1.5900
+\t (00:07:25) Using 'SPIRAL_ELECTRODE_R.pad'.
+\i (00:07:26) prepopup 2.8722 -0.5468
+\i (00:07:26) done 
+\t (00:07:26) Exiting from Add Pin.
+\i (00:07:27) generaledit 
+\i (00:07:27) zoom out 1 
+\i (00:07:27) setwindow pcb
+\i (00:07:27) zoom out 1.8874 -0.6411
+\i (00:07:27) trapsize 349
+\i (00:07:29) drag_start grid -1.1509 -1.6119
+\i (00:07:29) move 
+\t (00:07:29) last pick:  -1.0200 -1.5900
+\t (00:07:29) Pick new location for the element(s).
+\i (00:07:32) drag_stop grid 1.6848 -1.5909
+\i (00:07:32) generaledit 
+\i (00:07:33) prepopup -4.7549 1.3286
+\i (00:07:34) pick grid -5.3207 2.1458
+\t (00:07:34) last pick:  -5.3200 2.1500
+\i (00:07:35) add text 
+\t (00:07:36) Pick text location.
+\i (00:07:37) setwindow form.mini
+\i (00:07:37) FORM mini class REF DES 
+\i (00:07:39) FORM mini text_block 4 
+\i (00:07:40) setwindow pcb
+\i (00:07:40) pick grid -0.3826 1.9991
+\t (00:07:40) last pick:  -0.3800 2.0000
+\t (00:07:40) Enter text string.
+\i (00:07:42) setwindow pcb
+\i (00:07:42) pick -0.3800 2.0000
+\i (00:07:44) setwindow form.mini
+\i (00:07:44) FORM mini subclass SILKSCREEN_TOP 
+\i (00:07:45) setwindow pcb
+\i (00:07:45) pick grid 0.3088 2.5369
+\t (00:07:45) last pick:  0.3100 2.5400
+\t (00:07:45) Enter text string.
+\i (00:07:47) setwindow pcb
+\i (00:07:47) prepopup 2.4671 1.2588
+\i (00:07:48) done 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) pick 0.3100 2.5400
+\i (00:07:48) setwindow pcb
+\i (00:07:48) generaledit 
+\i (00:07:49) drag_start grid 2.6975 2.7465
+\i (00:07:49) move 
+\t (00:07:49) last pick:  0.3100 2.5400
+\t (00:07:49) Pick new location for the element(s).
+\i (00:07:52) drag_stop grid -0.3826 2.0061
+\i (00:07:52) generaledit 
+\i (00:07:53) save 
+\i (00:07:54) fillin yes 
+\t (00:07:55) Symbol 'spiral_electrode_full.psm' created.
+\i (00:07:55) generaledit 
+\i (00:07:56) exit 
+\t (00:07:56)     Journal end - Sat Apr 07 20:19:01 2018

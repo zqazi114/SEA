@@ -1,9 +1,9 @@
 G04 ================== begin FILE IDENTIFICATION RECORD ==================*
-G04 Layout Name:  SMA_fabB_v1_040418.brd*
+G04 Layout Name:  SMA_fabB_v1_040718.brd*
 G04 Film Name:    SMA_VDD_fabB_040418*
 G04 File Format:  Gerber RS274X*
 G04 File Origin:  Cadence Allegro 17.2-P019*
-G04 Origin Date:  Wed Apr 04 13:45:06 2018*
+G04 Origin Date:  Sat Apr 07 20:27:05 2018*
 G04 *
 G04 Layer:  VIA CLASS/VDD*
 G04 Layer:  PIN/VDD*

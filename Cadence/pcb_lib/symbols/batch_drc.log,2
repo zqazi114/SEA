@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sym_template.dra                              )
 (    Software Version : 17.2S025                                      )
-(    Date/Time        : Tue Mar 20 14:03:36 2018                      )
+(    Date/Time        : Tue Mar 20 14:10:49 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  4
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

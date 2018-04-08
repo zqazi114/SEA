@@ -2,25 +2,25 @@
 (                                                                     )
 (    Refresh Padstack                                                 )
 (                                                                     )
-(    Drawing          : PLA170.dra                                    )
-(    Software Version : 17.2S025                                      )
-(    Date/Time        : Tue Mar 20 14:11:53 2018                      )
+(    Drawing          : spiral_electrode_full.dra                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Apr 07 20:00:12 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Mar 20 14:11:53 2018				Page     1
+Sat Apr 07 20:00:12 2018				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols/PLA170.dra'
+Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols/spiral_electrode_full.dra'
 Output design = ''
 Reset symbol text and size locations   = 'NO'
 
 
 ------ Library Paths ------
-PSMPATH =  C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols 
+PSMPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols 
            . 
            symbols 
            .. 
@@ -29,7 +29,7 @@ PSMPATH =  C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/
            C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
 
-PADPATH =  C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/symbols 
+PADPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols 
            . 
            symbols 
            .. 
@@ -41,8 +41,12 @@ PADPATH =  C:/Users/Zains Surface/Documents/GitHub/SEA/Cadence/SMA_fabB/pcb_lib/
 
 ------ Pad Stack Refresh Messages ------
 
-'S0065_0165'  pad stack refresh starting.
+'SPIRAL_ELECTRODE_R'  pad stack refresh starting.
 
-     'S0065_0165'  pad stack refreshed successfully.
+     'SPIRAL_ELECTRODE_R'  pad stack refreshed successfully.
+     
+'SPIRAL_ELECTRODE_L'  pad stack refresh starting.
+
+     'SPIRAL_ELECTRODE_L'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.

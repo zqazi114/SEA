@@ -2,9 +2,9 @@
 (                                                                     )
 (    ARTWORK LOG                                                      )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_040418.brd                        )
+(    Drawing          : SMA_fabB_v1_040718.brd                        )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed Apr 04 13:45:05 2018                      )
+(    Date/Time        : Sat Apr 07 20:27:05 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -91,7 +91,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: Film contains objects with associated DRCs (4).
+    WARNING: Film contains objects with associated DRCs (154).
            In the design editor view this film and enable visibility for the
            associated DRC layer. Verify the DRCs are approved exceptions to your rules.
 
@@ -100,6 +100,7 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
   CIRCLE     0.25400                                  DARK 
   CIRCLE     0.40000                                  DARK 
   CIRCLE     0.50000                                  DARK 
@@ -112,8 +113,10 @@ Results from parameter file ...
   RECTANGLE  1.52400     x 1.52400       0.000 NO     DARK 
   RECTANGLE  1.52400     x 1.52400      90.000 NO     DARK 
   RECTANGLE  3.80000     x 1.51000       0.000 NO     DARK 
-  PAD SHAPE  COMB_ELECTRODE_R            0.000 YES    DARK 
+  PAD SHAPE  SPIRAL_ELECTRODE_R          0.000 YES    DARK 
   PAD SHAPE  COMB_ELECTRODE_L            0.000 YES    DARK 
+  PAD SHAPE  SPIRAL_ELECTRODE_L          0.000 YES    DARK 
+  PAD SHAPE  COMB_ELECTRODE_R            0.000 YES    DARK 
 
      SMA_BOTTOM_fabB_040418 created with warnings
 
@@ -134,7 +137,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: text composed 0 width line found at (-43.1800 -53.5940)
+    WARNING: text composed 0 width line found at (-46.4820 -53.3400)
            ... using undefined line width of 0.2540
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
@@ -339,6 +342,76 @@ Results from parameter file ...
      SMA_ASSM_BOT_fabB_040418 created with warnings
 
 
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_SOLDERMASK_TOP_fabB_040418.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2540
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  RECTANGLE  0.95000     x 2.15000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 0.41000       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.52400      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  2.54000     x 5.33400       0.000 NO     DARK 
+  RECTANGLE  3.25000     x 2.15000       0.000 NO     DARK 
+
+     SMA_SOLDERMASK_TOP_fabB_040418 created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOT >
+     TO FILE < C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_SOLDERMASK_BOT_fabB_040418.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2540
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one via class in film record
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  RECTANGLE  1.52400     x 1.52400       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.52400      90.000 NO     DARK 
+
+     SMA_SOLDERMASK_BOT_fabB_040418 created with warnings
+
+
 ------------------------------------------------------
  SUMMARY:
         SMA_TOP_fabB_040418 created with warnings
@@ -350,5 +423,7 @@ Results from parameter file ...
         SMA_SILKSCREEN_BOT_fabB_040418 created with warnings
         SMA_ASSM_TOP_fabB_040418 created with warnings
         SMA_ASSM_BOT_fabB_040418 created with warnings
+        SMA_SOLDERMASK_TOP_fabB_040418 created with warnings
+        SMA_SOLDERMASK_BOT_fabB_040418 created with warnings
 
  ARTWORK had warnings

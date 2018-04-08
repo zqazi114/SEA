@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_auto.brd                          )
-(    Software Version : 17.2P028                                      )
-(    Date/Time        : Sun Apr 01 22:14:13 2018                      )
+(    Drawing          : SMA_fabB_v1_IDF.brd                           )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Apr 04 14:36:23 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,6 +21,9 @@
  ========= check standalone rectangles        0:00:00
 
  ..... Total number of DRC errors  28
+
+
+WARNING: 3 dynamic shape(s) out of date; checking skipped on these elements.
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

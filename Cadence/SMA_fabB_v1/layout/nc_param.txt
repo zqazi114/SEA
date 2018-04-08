@@ -12,7 +12,7 @@ SUPPRESS-TRAIL-ZEROES  NO
 SUPPRESS-EQUAL         NO
 TOOL-SELECT            NO
 OPTIMIZE_DRILLING      NO
-ENHANCED_EXCELLON      NO
+ENHANCED_EXCELLON      YES
 TAPE-FILE              C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_040418.drl
 HEADER                 none
 LEADER                 12

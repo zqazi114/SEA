@@ -2,15 +2,15 @@
 (                                                                     )
 (    IDF Export                                                       )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_040418.brd                        )
+(    Drawing          : SMA_fabB_v1_IDF.brd                           )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed Apr 04 13:46:27 2018                      )
+(    Date/Time        : Wed Apr 04 14:32:54 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-IDF board file: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/IDF/SMA_fabB_v1_040418.bdf
-IDF library file: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/IDF/SMA_fabB_v1_040418.ldf
+IDF board file: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/IDF/SMA_fabB_v1_IDF.emn
+IDF library file: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/IDF/SMA_fabB_v1_IDF.emp
 Version: 3.0
 
 

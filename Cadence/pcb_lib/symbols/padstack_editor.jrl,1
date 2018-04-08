@@ -1,31 +1,6 @@
 \t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sat Mar 31 23:12:39 2018
-\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=6060 CPUs=4
-\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\pcb_lib\symbols\h103p.pad
+\t (00:00:00)     Journal start - Sat Apr 07 19:41:14 2018
+\t (00:00:00)         Host=DESKTOP-VRN6FI2 User=Zain's Surface Pid=6748 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Zain's Surface\Documents\GitHub\SEA\Cadence\pcb_lib\symbols\spiral_electrode_l.pad
 \t (00:00:00) 
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:20) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:46) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:48) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:50) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:50) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:52) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
-\d (00:00:52) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" "Circle 1.5300" +
-\d (00:00:52) QtSignal 0 2
-\d (00:00:57) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:00:57) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" "Circle 1.5300" +
-\d (00:00:57) QtSignal 1 2
-\d (00:00:58) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
-\d (00:00:58) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" "Circle 1.5300" +
-\d (00:00:58) QtSignal 2 2
-\d (00:00:59) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:00:59) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" "Circle 1.5300" +
-\d (00:00:59) QtSignal 1 2
-\d (00:00:59) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
-\d (00:00:59) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" "Circle 1.5300" +
-\d (00:00:59) QtSignal 0 2
-\d (00:01:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:01:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
-\d (00:01:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\t (00:01:19)     Journal end - Sat Mar 31 23:13:58 2018
+\t (00:00:02)     Journal end - Sat Apr 07 19:41:16 2018

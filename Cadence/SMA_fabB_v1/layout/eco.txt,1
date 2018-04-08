@@ -2,18 +2,56 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd  |
-|                                                    Sun Apr 01 22:08:04 2018  |
+|  C:.../GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd          |
+|                                                    Sat Apr 07 20:11:28 2018  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  E3_ON        pins MOVED FROM this net (to net name listed on right)
-                                 J35.3           -26.924 -37.846
-                                                                         E13_ON
+ COMB_ELECTRODE_1_SPIRAL_ELECTRO
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       1                                        |
+|  C:.../GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd          |
+|                                                    Sat Apr 07 20:11:28 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J15                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -26.416 -13.208 COMB_ELECTRODE_1_COMB_ELECTRODE
+ J16                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -26.416 -7.2080 COMB_ELECTRODE_1_COMB_ELECTRODE
+ J17                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -26.416 -1.2080 COMB_ELECTRODE_1_COMB_ELECTRODE
+ J18                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -26.416  4.7920 COMB_ELECTRODE_1_COMB_ELECTRODE
+ J19                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -32.416 -13.208 COMB_ELECTRODE_1_COMB_ELECTRODE
+ J20                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -32.416 -7.2080 COMB_ELECTRODE_1_COMB_ELECTRODE
+ J21                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -32.416 -1.2080 COMB_ELECTRODE_1_COMB_ELECTRODE
+ J22                 COMB_ELECTRODE_1_SPIRAL_ELECTRO -32.416  4.7920 COMB_ELECTRODE_1_COMB_ELECTRODE
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_040718.brd          |
+|                                                    Sat Apr 07 20:11:28 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J15.1                          PRIM_FILE      .\pstchip.dat
+ J16.1                          PRIM_FILE      .\pstchip.dat
+ J17.1                          PRIM_FILE      .\pstchip.dat
+ J18.1                          PRIM_FILE      .\pstchip.dat
+ J19.1                          PRIM_FILE      .\pstchip.dat
+ J20.1                          PRIM_FILE      .\pstchip.dat
+ J21.1                          PRIM_FILE      .\pstchip.dat
+ J22.1                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       1                                        |
+|       Components changed    :       8                                        |
+|       Slot property added   :       8                                        |
 |                                                                              |
-|   Total ECO changes reported:       1                                        |
+|   Total ECO changes reported:      17                                        |
 |------------------------------------------------------------------------------|

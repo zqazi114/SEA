@@ -3,17 +3,17 @@
 (    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : UA78M05CDCY.dra                               )
-(    Software Version : 17.2S025                                      )
-(    Date/Time        : Sat Feb 17 20:44:03 2018                      )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Apr 04 14:36:01 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/Users/zq2154/share/pcb/pcb_lib/symbols
+    Directory = C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/pcb_lib/symbols
     Name      = ua78m05cdcy.psm
-    User      = zq2154
-    Machine   = ET251PC05
+    User      = Zain's Surface
+    Machine   = DESKTOP-VRN6FI2
 
 
 Create symbol started.

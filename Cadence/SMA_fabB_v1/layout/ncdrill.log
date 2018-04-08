@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_040418.brd                        )
+(    Drawing          : SMA_fabB_v1_040718.brd                        )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed Apr 04 13:45:34 2018                      )
+(    Date/Time        : Sat Apr 07 20:27:45 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -32,7 +32,7 @@
  SEPARATE		NO
  SEPARATE-ROUTING	NO
  OPTIMIZE_DRILLING	NO
- ENHANCED_EXCELLON	NO
+ ENHANCED_EXCELLON	YES
  SCALE			1.000000
 
 

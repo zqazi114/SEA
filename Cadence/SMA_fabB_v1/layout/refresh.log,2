@@ -1,9 +1,9 @@
-Sun Apr 01 20:56:37 2018				Page     1
+Wed Apr 04 14:31:42 2018				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Sun Apr 01 20:56:37 2018
+	Wed Apr 04 14:31:42 2018
 
 ------ Module Refresh Messages ------
 
@@ -17,19 +17,19 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Refresh Symbol                                                   )
 (                                                                     )
-(    Drawing          : SMA_fabB_v1_auto.brd                          )
+(    Drawing          : SMA_fabB_v1_IDF.brd                           )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Sun Apr 01 20:56:37 2018                      )
+(    Date/Time        : Wed Apr 04 14:31:42 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Sun Apr 01 20:56:37 2018				Page     1
+Wed Apr 04 14:31:42 2018				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_auto.brd'
+Input design  = 'C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/SMA_fabB_v1_IDF.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -50,42 +50,40 @@ PSMPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/symbols 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
 
 PADPATH =  C:/Cadence/SPB_17.2/share/pcb/pcb_lib/pcb_lib_sma/symbols 
            . 
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/padstacks 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
 
 
 ------ Symbol Refresh Messages ------
 
-'EJ503A'  symbol refreshed successfully.
-'SA14A'  symbol refreshed successfully.
-'1103M2S3CQE2'  symbol refreshed successfully.
-'UA78M05CDCY'  symbol refreshed successfully.
-'1206_C'  symbol refreshed successfully.
-'TLV1117LV33DCYT'  symbol refreshed successfully.
-'CONN3'  symbol refreshed successfully.
-'B00JVJDEZE'  symbol refreshed successfully.
-'PLA170'  symbol refreshed successfully.
-'1206_R'  symbol refreshed successfully.
-'COMB_ELECTRODE_FULL'  symbol refreshed successfully.
-'AU-Y1007'  symbol refreshed successfully.
-'USBLC6-2SC6'  symbol refreshed successfully.
-'FT201X'  symbol refreshed successfully.
-'PCF8575DW'  symbol refreshed successfully.
+'CONN10'  symbol refreshed successfully.
 'CONN16'  symbol refreshed successfully.
+'CONN3'  symbol refreshed successfully.
+'PCF8575DW'  symbol refreshed successfully.
+'COMB_ELECTRODE_FULL'  symbol refreshed successfully.
+'1206_R'  symbol refreshed successfully.
+'PLA170'  symbol refreshed successfully.
+'B00JVJDEZE'  symbol refreshed successfully.
+'TLV1117LV33DCYT'  symbol refreshed successfully.
+'1206_C'  symbol refreshed successfully.
+'UA78M05CDCY'  symbol refreshed successfully.
+'1103M2S3CQE2'  symbol refreshed successfully.
+'SA14A'  symbol refreshed successfully.
+'EJ503A'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Updated symbols: 16 out 16
+Updated symbols: 14 out 14
     Design updated.
 

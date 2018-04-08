@@ -1,1 +1,1 @@
-FT201X.dra
+spiral_electrode_full.dra

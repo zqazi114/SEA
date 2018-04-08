@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IDF Export                                                       )
+(                                                                     )
+(    Drawing          : SMA_fabB_v1_IDF.brd                           )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Apr 04 14:44:45 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+IDF board file: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/IDF/SMA_fabB_v1_IDF.emn
+IDF library file: C:/Users/Zain's Surface/Documents/GitHub/SEA/Cadence/SMA_fabB_v1/layout/IDF/SMA_fabB_v1_IDF.emp
+Version: 3.0
+
+
+WARNING(SPMHA2-118): Board Geometry subclasses, 'DESIGN_OUTLINE' and 'CUTOUT', are the preferred subclasses for defining a board outline. Use these subclasses instead of the 'OUTLINE' subclass.
+
+WARNING: Design outline is missing on the layer "BOARD GEOMETRY/DESIGN_OUTLINE".
+
+
+
+IDF out complete.

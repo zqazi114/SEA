@@ -214,14 +214,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb_v1\schematic\sea_fabb_v1.dsn")
-      (Path "Design Resources"
-         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb_v1\schematic\sea_fabb_v1.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\sea_fabb_v1.dsn")
+      (Path "Design Resources" ".\sea_fabb_v1.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"
-         "c:\users\zain's surface\documents\github\sea\cadence\sma_fabb_v1\schematic\sea_fabb_v1.dsn"))
+      (Select "Design Resources" ".\sea_fabb_v1.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -264,8 +260,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 761 104 437")
-        (Scroll "0 0")
+        (Placement "44 2 3 -1 -1 -8 -31 104 761 104 437")
+        (Scroll "-52 57")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -286,7 +282,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 813 156 489")
+        (Placement "44 0 1 -1 -1 -8 -31 156 813 156 489")
         (Scroll "0 483")
         (Zoom "140")
         (Occurrence "/"))

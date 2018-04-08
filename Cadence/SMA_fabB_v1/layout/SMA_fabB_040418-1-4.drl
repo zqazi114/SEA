@@ -1,8 +1,10 @@
+M48
+METRIC
 ;LEADER: 12 
 ;HEADER: 
 ;CODE  : ASCII 
 ;FILE  : SMA_fabB_040418-1-4.drl for  ... layers TOP and BOTTOM
-;DESIGN: SMA_fabB_v1_040418.brd
+;DESIGN: SMA_fabB_v1_040718.brd
 ;   Holesize 1. = 0.250000 Tolerance = +0.005000/-0.005000 PLATED MM Quantity = 63
 ;   Holesize 2. = 0.300000 Tolerance = +0.010000/-0.010000 PLATED MM Quantity = 49
 ;   Holesize 3. = 0.914400 Tolerance = +0.000000/-0.000000 PLATED MM Quantity = 35
